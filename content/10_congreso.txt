@@ -1,0 +1,104 @@
+@id congreso
+@name Congreso EUROCALL
+@short EUROCALL
+@zone Universitat de València · Blasco Ibáñez
+@geo 39.47675 -0.35947 city r
+@route Desde Xàtiva: metro, línea 3, tres paradas hasta Facultats, y cinco minutos a pie.
+@blurb Por fin, el congreso, en la Universitat de València. Las ponencias son en inglés, pero en la mesa de acreditaciones, en la cafetería y en los pasillos se habla español.
+@goal Recoger tu acreditación, presentarte, hablar de tu trabajo y charlar con colegas.
+
+== acreditacion | La acreditación ==
+N: En el vestíbulo de la facultad hay una mesa larga con acreditaciones. Una voluntaria con camiseta azul te sonríe.
+AITANA: ¡Hola, buenos días! ¿{{Vienes al congreso|are you here for the conference? (tú)}}?
+C: ¿Qué respondes?
+  * Sí, vengo a {{recoger|to pick up, collect}} mi acreditación. || «Recoger» algo que te espera: la acreditación, una maleta, un paquete.
+  ~ Sí, soy del congreso. || Se entiende. Lo más claro es decir a qué vienes: «vengo a recoger mi acreditación».
+  - Sí, vengo a tomar mi acreditación. || «Tomar» no encaja aquí. Algo que te espera se «recoge».
+AITANA: Genial. ¿Me dices tu nombre? Es que no lo oigo bien con tanto ruido.
+T: Te llamas Austin. Di tu nombre y deletréalo: a, u, ese, te, i, ene.
+  = Austin. A, u, ese, te, i, ene.
+  = Austin: a, u, ese, te, i, ene.
+  = Austin, a u ese te i ene.
+  = Me llamo Austin. A, u, ese, te, i, ene.
+  = Es Austin. A, u, ese, te, i, ene.
+  = Austin. A, u, s, t, i, n.
+  ! Los nombres de las letras: s = «ese», t = «te», n = «ene». Las vocales se llaman igual que suenan.
+AITANA*: Austin… Aquí estás. Mira, esta es tu acreditación; llévala siempre puesta. En la bolsa tienes el programa y los vales para la comida. La inauguración es a las nueve y media en el salón de actos, que está en la planta baja, al fondo a la derecha.
+Q: ¿Dónde y cuándo es la inauguración?
+  * A las nueve y media, en el salón de actos de la planta baja. || «{Salón de actos|auditorium, main hall}»: la sala grande de una universidad.
+  - A las nueve, en la primera planta. || Es a las nueve y media, y en la planta baja.
+  - A las nueve y media, en la cafetería. || En la cafetería, no: en el salón de actos.
+C: Tu ponencia es mañana en el aula 2.3. ¿Cómo preguntas dónde está?
+  * Perdona, ¿{{sabes dónde está|do you know where ... is? (tú)}} el aula 2.3? || «¿Sabes dónde está…?» es una forma amable de preguntar por un sitio.
+  ~ ¿Dónde está el aula 2.3? || Correcta y directa. Con «perdona, ¿sabes…?» queda más amable.
+  - ¿Sabes dónde es el aula 2.3? || Para decir dónde está un lugar se usa «estar»: «dónde está». («Ser» se usa para eventos: «la inauguración es en el salón de actos».)
+AITANA*: Sí, mira: el dos es la planta y el tres es el aula. O sea, tienes que subir a la segunda planta y es la tercera puerta. Las escaleras están ahí mismo, detrás de los pósteres.
+Q: ¿Qué significa «2.3»?
+  * Segunda planta, tercera puerta. || Un sistema muy común en las universidades españolas.
+  - Edificio dos, tercera planta. || El dos es la planta.
+  - Aula dos, a las tres. || No es una hora.
+T: Pregunta a qué hora es la pausa del café.
+  = ¿A qué hora es la pausa del café?
+  = ¿A qué hora es la pausa para el café?
+  = ¿A qué hora es el café?
+  = ¿A qué hora es la pausa?
+  = ¿Cuándo es la pausa del café?
+  = ¿A qué hora es la pausa de café?
+  ! «¿A qué hora es…?» + «{{la pausa del café|the coffee break}}».
+AITANA: A las once, aquí mismo, en el vestíbulo. Y {cualquier cosa|if there's anything (you need)}, búscanos: los voluntarios vamos de azul.
+T: Dale las gracias y dile que es muy amable.
+  = Muchas gracias. Eres muy amable.
+  = Muchas gracias, eres muy amable.
+  = Gracias. Eres muy amable.
+  = Gracias, eres muy amable.
+  = Muchas gracias. Muy amable.
+  = Gracias, muy amable.
+  ! «Muchas gracias. {{Eres muy amable|you're very kind (tú)}}.»
+AITANA: ¡De nada! ¡Que vaya muy bien el congreso!
+K: «Ser» para eventos, «estar» para lugares || «El aula está en la segunda planta» (un lugar), pero «la inauguración es en el salón de actos» (un evento). Si puedes cambiar el verbo por «tiene lugar», usa «ser»: «la cena es en el centro», «mi ponencia es mañana a las diez».
+
+== cafe | La pausa del café ==
+N: Las once. El vestíbulo está lleno de gente con café y bollos. A tu lado, un hombre mira tu acreditación.
+JORDI: Perdona, ¿tú eres el de Hawái? He visto tu nombre en el programa. Soy Jordi, de aquí, de la universidad.
+C: Preséntate.
+  * {{Encantado|pleased to meet you (said by a man)}}, Jordi. Sí, trabajo en una universidad de Hawái. || «Encantado» si eres hombre, «encantada» si eres mujer. También: «mucho gusto».
+  ~ Hola, Jordi. Sí, soy yo. || Natural. Añade «encantado» al conocer a alguien.
+  - Encantada, Jordi. Sí, trabajo en Hawái. || «Encantada» lo dice una mujer. Un hombre dice «encantado».
+JORDI: ¡Qué lejos! ¿Y {{a qué te dedicas|what do you do (for a living / in your field)?}} exactamente? ¿Qué investigas?
+T: Explica tu trabajo: eres profesor de inglés.
+  = Soy profesor de inglés.
+  = Soy profesor de inglés en la universidad.
+  = Soy profesor de inglés como segunda lengua.
+  = Soy profesor de inglés en una universidad.
+  = Pues soy profesor de inglés.
+  = Soy profesor de inglés en Hawái.
+  ! Con las profesiones no se usa «un»: «{{Soy profesor|I'm a teacher (no article)}} de…»
+JORDI*: ¡Anda, como yo! Bueno, yo doy clase de lingüística aplicada. Ahora estoy investigando cómo usan los estudiantes la inteligencia artificial para practicar la conversación. La verdad es que todavía no tenemos muchos datos, pero los resultados son prometedores.
+Q: ¿Qué investiga Jordi?
+  * El uso de la inteligencia artificial para practicar conversación. || «Estoy investigando cómo usan los estudiantes…».
+  - La historia de la lengua valenciana. || No habla de eso.
+  - Los exámenes de inglés por ordenador. || No: su tema es la conversación con inteligencia artificial.
+C: Te interesa mucho. ¿Qué dices?
+  * ¡Qué interesante! Yo también {{trabajo con|I work with}} inteligencia artificial. || «¡Qué + adjetivo!» para reaccionar: «¡qué interesante!», «¡qué bien!», «¡qué lejos!».
+  ~ Es interesante. Yo también. || Correcto, pero un poco frío. «¡Qué interesante!» muestra entusiasmo.
+  - ¡Qué interesante! Yo tampoco trabajo con inteligencia artificial. || «Tampoco» es negativo: dices que no trabajas con ella. Para decir que sí: «yo también».
+JORDI: ¿Ah, sí? Pues tenemos que hablar. ¿Cuándo es tu ponencia?
+T: Tu ponencia es mañana a las diez. Díselo.
+  = Mañana a las diez.
+  = Es mañana a las diez.
+  = Mi ponencia es mañana a las diez.
+  = Mañana, a las diez.
+  = Mañana a las diez de la mañana.
+  = Es mañana, a las diez.
+  ! «{{Mañana a las diez|tomorrow at ten}}.»
+JORDI*: Allí estaré. Oye, esta noche algunos colegas vamos a cenar por Ruzafa, un barrio que está muy bien. Nada formal: unas tapas y un vino. ¿Te apetece venir?
+Q: ¿Qué propone Jordi?
+  * Ir a cenar esta noche con algunos colegas en Ruzafa. || «¿{Te apetece|do you feel like, do you fancy}…?» es la forma habitual de invitar en España.
+  - Cenar mañana después de la ponencia. || Es esta noche.
+  - Una cena formal del congreso. || Al contrario: «nada formal».
+C: Quieres ir. ¿Cómo aceptas?
+  * ¡Claro! {{Me apetece mucho|I'd really like that (lit. it appeals to me a lot)}}. ¿A qué hora quedamos? || Aceptas con la misma palabra de la invitación y preguntas la hora. «Quedar» es citarse con alguien.
+  ~ Sí, gracias. Voy. || Correcto. Con «me apetece mucho» respondes a su «¿te apetece?».
+  - Sí, soy apetecido. || «Apetecer» funciona como «gustar»: «me apetece».
+JORDI: {{Quedamos|let's meet / we'll meet (quedar = to arrange to meet)}} a las nueve en la puerta del Mercado de Ruzafa. Y nada de «usted» con nadie, ¿eh?, que aquí somos todos colegas.
+K: Quedar || «Quedar» es uno de los verbos más útiles en España. «¿Quedamos a las nueve?» (let's meet), «he quedado con Hanna» (I'm meeting Hanna), «¿dónde quedamos?». No es una cita romántica ni una reunión formal: es simplemente acordar verse.

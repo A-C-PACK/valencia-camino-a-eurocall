@@ -1,0 +1,87 @@
+{
+  "high_level_description": "A beachfront restaurant terrace at Malvarrosa beach in Valencia at lunchtime, with a wide paella pan on the table and the sea beyond.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A wide pale sandy beach and calm blue Mediterranean under a bright sky, with a palm-lined promenade.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          540,
+          150,
+          920,
+          850
+        ],
+        "desc": "A wooden table with a large shallow paella pan of golden rice with green beans and chicken, lemon wedges and two plates.",
+        "color_palette": [
+          "#E8A33D",
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          250,
+          620,
+          700,
+          900
+        ],
+        "desc": "A waitress in a white shirt and long dark apron holding a notepad, smiling.",
+        "color_palette": [
+          "#FFFFFF",
+          "#1F3A4D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          300,
+          1000
+        ],
+        "desc": "A striped awning in white and blue shading the terrace.",
+        "color_palette": [
+          "#FFFFFF",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          280,
+          0,
+          560,
+          620
+        ],
+        "desc": "The beach and sea with a few tiny distant bathers and a sailing boat.",
+        "color_palette": [
+          "#F6E7C8",
+          "#7FC4D6",
+          "#2E6F8E"
+        ]
+      }
+    ]
+  }
+}

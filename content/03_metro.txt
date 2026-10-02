@@ -1,0 +1,84 @@
+@id metro
+@name Metro · Xàtiva
+@short Metro
+@zone Estación de Xàtiva
+@geo 39.4673 -0.3773 centre l
+@route Desde el hotel: unos diez minutos a pie.
+@blurb La estación de Xàtiva está al lado de la plaza de toros y de la Estación del Norte. De aquí salen las líneas 3, 5 y 9.
+@goal Comprar un billete, preguntar por una línea y entender los avisos de megafonía.
+
+== billete | Comprar un billete ==
+N: Bajas las escaleras del metro. Hay una máquina de billetes con muchas opciones. Una empleada se acerca.
+NURIA: Buenos días. ¿{{Le ayudo|shall I help you? (usted)}} con la máquina?
+C: Quieres un billete para moverte por la ciudad esta semana. ¿Qué dices?
+  * Sí, gracias. {{Quería|I'd like (lit. I wanted; polite)}} un billete para varios viajes. || «Quería…» es la forma más habitual y amable de pedir algo en una tienda o una taquilla.
+  ~ Sí. Quiero un billete. || Correcto, pero «quiero» es más directo. Prueba con «quería».
+  - Sí. Yo gusto un billete. || «Gustar» no funciona así. Para pedir: «quería» o «quiero».
+NURIA*: Pues lo mejor es la tarjeta SUMA de diez viajes. Sirve para el metro, el tranvía y el autobús, y la puede recargar en cualquier máquina. Sale mucho más barato que el billete sencillo.
+Q: ¿Por qué recomienda Nuria la tarjeta SUMA?
+  * Porque sirve para metro, tranvía y autobús y es más barata. || Diez viajes en una tarjeta que se puede {recargar|top up}.
+  - Porque solo sirve para el metro. || Al contrario: sirve para tres transportes.
+  - Porque es gratis para los turistas. || No es gratis; es más barata que el billete sencillo.
+T: Pregunta cuánto cuesta la tarjeta.
+  = ¿Cuánto cuesta la tarjeta?
+  = ¿Cuánto cuesta?
+  = ¿Cuánto vale la tarjeta?
+  = ¿Cuánto es la tarjeta?
+  = ¿Y cuánto cuesta la tarjeta?
+  = ¿Cuánto cuesta la tarjeta SUMA?
+  ! «¿Cuánto cuesta…?»
+NURIA: Depende de las zonas. Para moverse por la ciudad, con la zona A {{tiene bastante|it's enough for you}}. Pulse aquí… y ahora puede pagar con tarjeta o {{en efectivo|in cash}}.
+C: Mañana vas a la Universitat de València, al campus de Blasco Ibáñez. ¿Cómo preguntas qué línea necesitas?
+  * ¿{{Qué línea tengo que coger|which line do I have to take}} para ir a la universidad? || «Coger» el metro, el autobús, un taxi: en España es el verbo normal.
+  ~ ¿Qué línea va a la universidad? || Perfectamente correcta. La otra opción practica «tener que» y «coger».
+  - ¿Qué línea tengo que tomar para ir en la universidad? || «Tomar» también vale, pero se va «a» un sitio: «ir a la universidad».
+NURIA*: Coja la línea tres, dirección Rafelbunyol, y baje en Facultats. Son solo tres paradas y no tiene que {{hacer transbordo|to change (trains, lines)}}. Al salir del metro, las facultades están a cinco minutos andando.
+Q: ¿Dónde tienes que bajar?
+  * En Facultats, sin cambiar de línea. || Línea 3, tres paradas: Colón, Alameda y Facultats. Después, cinco minutos andando.
+  - En Rafelbunyol. || Rafelbunyol es la dirección del tren, el final de la línea.
+  - En Colón, y allí hay que hacer transbordo. || No hay que hacer transbordo. Colón es la primera parada; tú bajas en la tercera.
+T: Quieres confirmar. Pregunta cuántas paradas son hasta Facultats.
+  = ¿Cuántas paradas son hasta Facultats?
+  = ¿Cuántas paradas son?
+  = ¿Cuántas paradas hay hasta Facultats?
+  = ¿Cuántas paradas son a Facultats?
+  = Perdone, ¿cuántas paradas son hasta Facultats?
+  ! «¿Cuántas {paradas|stops}…?»
+NURIA: Tres. Y el {andén|platform} es el de la derecha. ¡Buen viaje!
+K: Coger, bajar, cambiar || En España «coges» el metro, «bajas» en tu parada y «haces transbordo» o «cambias de línea». En muchos países de América «coger» es una palabra vulgar y se dice «tomar». En España es totalmente normal.
+
+== anden | En el andén ==
+N: Estás en el andén. Los avisos se oyen primero en valenciano y después en castellano.
+MEGAFONIA*: Pròxim tren: línia tres, direcció Rafelbunyol. Próximo tren: línea tres, dirección Rafelbunyol. Llegará en dos minutos.
+Q: ¿Qué tren llega y cuándo?
+  * El de la línea 3, en dos minutos. || Sí. «Pròxim tren» es valenciano; «próximo tren» es castellano. Se parecen mucho.
+  - El de la línea 2, en tres minutos. || Cuidado con los números: línea tres, dos minutos.
+  - El de la línea 3, que ya ha llegado. || «Llegará» es futuro: todavía no ha llegado.
+N: Llega un tren, pero no estás seguro de si es el tuyo. Nuria pasa por el andén.
+C: Pregunta si este tren va a Facultats.
+  * Perdone, ¿{{este tren va a|does this train go to}} Facultats? || Corta y perfecta. Es la pregunta más útil del metro.
+  ~ ¿Facultats? || Con el gesto se entiende, pero una frase completa es mejor.
+  - Perdone, ¿este tren viene a Facultats? || «Venir» es hacia aquí; «ir» es hacia allí. El tren «va a» Facultats.
+NURIA: Sí, sí, este es. Suba, que {{se van a cerrar|are about to close}} las puertas.
+MEGAFONIA*: Atención: por motivos técnicos, este tren circula con cinco minutos de retraso. Disculpen las molestias.
+Q: ¿Qué problema hay?
+  * El tren lleva cinco minutos de retraso. || «{Retraso|delay}» es una palabra muy útil en estaciones y aeropuertos.
+  - El tren no para en la próxima estación. || No dice nada de las paradas.
+  - Hay que bajar del tren. || No: solo va con retraso.
+MEGAFONIA*: Pròxima parada: Facultats. Próxima parada: Facultats. Correspondencia con la línea nueve.
+T: El tren está lleno y tienes que salir. ¿Qué dices para pasar entre la gente?
+  = Perdón, ¿me deja pasar?
+  = Perdone, ¿me deja pasar?
+  = Perdón.
+  = Perdone.
+  = Con permiso.
+  = Perdón, ¿puedo pasar?
+  = ¿Me deja pasar, por favor?
+  ! «Perdón, ¿me deja…?»
+N: En la puerta, una señora mayor que está detrás de ti te pregunta algo.
+SENORA: Perdone, joven, ¿{{va a bajar|are you getting off? (usted)}} en la próxima?
+C: Sí, tú también bajas en Facultats. ¿Qué respondes?
+  * Sí, {{bajo en la próxima|I'm getting off at the next one}}. || Así se dice. Es una conversación típica en el metro y el autobús.
+  ~ Sí. || Suficiente, y nadie se va a molestar.
+  - Sí, voy abajo en la próxima. || «Ir abajo» no se usa para esto. El verbo es «bajar»: «bajo en la próxima».
+K: Dos lenguas en la calle || En Valencia hay dos lenguas oficiales: el castellano y el valenciano. Los nombres de calles y estaciones están casi siempre en valenciano: «carrer» (calle), «plaça» (plaza), «eixida» (salida), «estació» (estación). No hace falta hablarlo, pero reconocer estas palabras ayuda mucho.

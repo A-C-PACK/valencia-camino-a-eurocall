@@ -1,0 +1,85 @@
+@id hotel
+@name Hotel
+@zone Ciutat Vella · calle de la Paz
+@geo 39.47323 -0.37279 centre r
+@route Desde el aeropuerto: unos veinticinco minutos en taxi.
+@blurb Un hotel pequeño en una casa antigua del centro. Pablo, el recepcionista, te espera.
+@goal Registrarte en el hotel, entender los horarios y explicar un problema en la habitación.
+
+== llegada | La llegada ==
+N: Entras en la recepción. El suelo es de baldosas antiguas y hace fresco.
+PABLO: Buenas tardes y bienvenido. ¿{{En qué puedo ayudarle|how can I help you? (usted)}}?
+C: Tienes una reserva para cinco noches. ¿Qué dices?
+  * Buenas tardes. {{Tengo una reserva|I have a reservation}} a nombre de Austin. || Claro y completo. «A nombre de…» es la fórmula habitual.
+  ~ Hola. Reserva, Austin. || Se entiende, pero son palabras sueltas. Intenta decir una frase: «Tengo una reserva…».
+  - Buenas tardes. Soy una reserva. || Tú no eres la reserva: la tienes. «Tengo una reserva».
+PABLO: Perfecto, un momento, que lo miro… Sí, aquí está: una habitación individual, cinco noches, {con desayuno incluido|with breakfast included}. ¿{{Me deja|could you let me have (lit. do you leave me)}} su pasaporte, por favor?
+T: Dale el pasaporte. ¿Qué dices cuando le das algo a alguien?
+  = Aquí tiene.
+  = Sí, aquí tiene.
+  = Aquí está.
+  = Tome.
+  = Claro, aquí tiene.
+  = Sí, claro. Aquí tiene.
+  ! Dos palabras: «Aquí…» + el verbo «tener» con usted.
+PABLO*: Gracias. Su habitación es la trescientos doce, en la {{tercera planta|third floor}}. El ascensor está al fondo del pasillo, a la izquierda. El desayuno se sirve de siete y media a diez y media en la primera planta.
+Q: ¿Dónde está la habitación y hasta qué hora hay desayuno?
+  * En la tercera planta; hay desayuno hasta las diez y media. || Eso es: habitación 312, y el desayuno es de 7:30 a 10:30.
+  - En la primera planta; hay desayuno hasta las diez. || En la primera planta está el desayuno, no la habitación.
+  - En la tercera planta; hay desayuno hasta las siete y media. || A las siete y media empieza el desayuno; termina a las diez y media.
+T: Necesitas internet. Pregunta cuál es la contraseña del wifi.
+  = ¿Cuál es la contraseña del wifi?
+  = ¿Cuál es la contraseña de la wifi?
+  = ¿Me dice la contraseña del wifi?
+  = ¿Me puede decir la contraseña del wifi?
+  = ¿Cuál es la clave del wifi?
+  = Perdone, ¿cuál es la contraseña del wifi?
+  ! «¿Cuál es la {contraseña|password}…?»
+PABLO: La {{contraseña|password}} está en esta tarjeta, con la llave. Si necesita cualquier cosa, {{marque el nueve|dial nine}} desde el teléfono de la habitación.
+C: Mañana quieres levantarte pronto para el congreso. ¿Qué preguntas?
+  * ¿{{A qué hora|at what time}} empieza el desayuno? || Para preguntar la hora de algo: «¿A qué hora…?».
+  ~ ¿Cuándo es el desayuno? || Correcto y natural, aunque «¿a qué hora…?» pide una hora exacta.
+  - ¿Qué hora es el desayuno? || «¿Qué hora es?» pregunta la hora de ahora. Para un horario: «¿A qué hora…?».
+PABLO: A las siete y media. Pero si tiene que salir antes, le podemos preparar un café y algo para llevar.
+PABLO: {{Que descanse|rest well (que + subjunctive)}}, y bienvenido a Valencia.
+K: Las plantas de un edificio || En España la {planta baja|ground floor} es la de la calle. La «primera planta» es la que en Estados Unidos se llama «second floor». En el ascensor, el botón de la calle suele ser el 0 o la B.
+
+== problema | Un problema en la habitación ==
+N: Subes a la habitación. Es bonita, pero hace mucho calor y el aire acondicionado no se enciende. Bajas a recepción.
+PABLO: Hola otra vez. ¿Todo bien en la habitación?
+C: Explica el problema.
+  * Perdone, el aire acondicionado {{no funciona|doesn't work}}. || Perfecto. «No funciona» sirve para cualquier aparato: la tele, la ducha, el wifi…
+  ~ Hay un problema con el aire. || Bien, pero no dices cuál es el problema. Sé más concreto: «no funciona».
+  - El aire acondicionado no trabaja. || Las personas trabajan; las máquinas «funcionan».
+PABLO*: Vaya, lo siento mucho. A veces hay que meter la tarjeta de la habitación en la ranura que hay al lado de la puerta. Si no, no hay luz ni aire. ¿Lo ha probado?
+Q: ¿Qué hay que hacer para tener luz y aire acondicionado?
+  * Meter la tarjeta de la habitación en la ranura de la puerta. || Exacto. Es un sistema muy común en los hoteles de España.
+  - Llamar a recepción y marcar el nueve. || Eso es para pedir ayuda, no para encender el aire.
+  - Abrir la ventana. || No dice nada de la ventana.
+T: No lo sabías. Responde que no, que no lo has probado.
+  = No, no lo he probado.
+  = No, todavía no lo he probado.
+  = No, no lo he probado todavía.
+  = No, no lo sabía.
+  = No, aún no.
+  ! Pretérito perfecto: «no lo he…» + participio de «probar».
+PABLO: No se preocupe, {le pasa a todo el mundo|it happens to everyone}. Pruébelo y, si sigue sin funcionar, le cambio de habitación.
+C: También necesitas otra toalla. Pídela con educación.
+  * ¿{{Me puede dar|can you give me (usted)}} otra toalla, por favor? || «¿Me puede dar…?» es una fórmula amable para pedir casi cualquier cosa.
+  ~ Necesito otra toalla. || Es correcto, pero suena más a orden. Con «¿me puede dar…?» es más amable.
+  - Dame otra toalla. || «Dame» es un imperativo con «tú»: demasiado directo en un hotel.
+PABLO: Por supuesto. Ahora mismo {{se la subo|I'll bring it up to you}}. ¿Necesita algo más?
+T: Di que no necesitas nada más y da las gracias.
+  = No, nada más. Muchas gracias.
+  = No, nada más, gracias.
+  = No, eso es todo. Muchas gracias.
+  = No, eso es todo, gracias.
+  = Nada más, gracias.
+  = No, gracias. Nada más.
+  ! «No, {nada más|nothing else}…»
+PABLO: A usted. Y recuerde: el último día tiene que dejar la habitación antes de las doce.
+Q: ¿Qué pasa el último día?
+  * Hay que dejar la habitación antes de las doce del mediodía. || Sí. Si necesitas más tiempo, pregunta: «¿Puedo dejar la habitación más tarde?».
+  - El desayuno termina a las doce. || No habla del desayuno.
+  - Hay que pagar antes de las doce de la noche. || No habla de pagar, sino de dejar la habitación.
+K: «Hay que» y «tener que» || «{Hay que|one has to, you need to (impersonal)}» + infinitivo es una obligación general: «hay que meter la tarjeta». «Tener que» es para una persona concreta: «tiene que dejar la habitación antes de las doce».

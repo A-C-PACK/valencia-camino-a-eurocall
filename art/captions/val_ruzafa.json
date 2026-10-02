@@ -1,0 +1,88 @@
+{
+  "high_level_description": "A cosy little wine bar in the Ruzafa neighbourhood of Valencia in the evening, with the owner pouring a glass of red wine at the bar.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A warm narrow bar with exposed brick, shelves of wine bottles without readable labels, hanging filament bulbs and a street door open to the blue dusk.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          240,
+          300,
+          660,
+          640
+        ],
+        "desc": "A woman in her mid thirties with dark hair tied back and a dark apron, pouring red wine into a glass and smiling wryly.",
+        "color_palette": [
+          "#F2C9A0",
+          "#1F3A4D",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          600,
+          0,
+          860,
+          1000
+        ],
+        "desc": "A wooden bar top with small plates of tapas: olives, cheese, bread with tomato, and two wine glasses.",
+        "color_palette": [
+          "#5B3A29",
+          "#3F7D4E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          380,
+          1000
+        ],
+        "desc": "Shelves of dark wine bottles and warm hanging bulbs.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          640,
+          660,
+          960,
+          960
+        ],
+        "desc": "A blonde woman customer on a bar stool laughing, holding a notebook.",
+        "color_palette": [
+          "#E9D3A1",
+          "#7FC4D6",
+          "#F2C9A0"
+        ]
+      }
+    ]
+  }
+}

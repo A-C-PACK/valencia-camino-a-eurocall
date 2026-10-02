@@ -1,0 +1,87 @@
+@id ruzafa
+@name El Rincón de Elena
+@short Bar de Elena
+@zone Ruzafa
+@geo 39.4625 -0.3725 city r
+@route Desde la estación de Xàtiva: unos diez minutos a pie.
+@blurb Un bar de vinos pequeño en Ruzafa, el barrio de moda. Elena, la dueña, es de Requena y sabe muchísimo de vinos. Hanna ya está en la barra.
+@goal Pedir para compartir, pedir recomendaciones y contar lo que has hecho esta semana.
+
+== tapas | Tapas y vino ==
+N: Son las nueve de la noche. El bar es estrecho, con paredes de ladrillo y bombillas colgando. Elena está detrás de la barra.
+ELENA: ¡Hombre, el profesor de Hawái! Pasa, pasa. Hanna me ha hablado de ti. ¿Qué tal el congreso?
+C: El congreso va bien, pero estás cansado. ¿Qué dices?
+  * Muy bien, pero {{estoy agotado|I'm exhausted}}. Hoy he hablado inglés todo el día. || «Estar» para cómo te sientes ahora. «Agotado» es más fuerte que «cansado».
+  ~ Bien. Estoy muy cansado. || Correcto. «Agotado» te da una palabra más para lo mismo.
+  - Muy bien, pero soy cansado. || «Ser cansado» significa cansar a los demás. Para decir cómo te sientes: «estoy cansado».
+ELENA: Pues aquí {{se viene a|people come here to (impersonal)}} descansar. ¿Qué os pongo de beber?
+HANNA: Yo quiero un vino tinto, pero no sé… no sé cuál.
+C: Tampoco conoces los vinos de aquí. Pide una recomendación a Elena.
+  * ¿{{Qué nos recomiendas|what do you recommend (to us)? (tú)}}? || Con Elena, «tú». Compara con el taxi: «¿me recomienda…?» (usted).
+  ~ ¿Cuál es bueno? || Se entiende. «¿Qué nos recomiendas?» es la pregunta que les gusta oír a los camareros.
+  - ¿Qué nos recomienda usted? || Es correcta, pero demasiado formal: Elena tiene tu edad y te habla de tú.
+ELENA*: Si os gusta el tinto, tenéis que probar un bobal. Es la uva de mi pueblo, de Requena, a una hora de aquí. Es un vino con cuerpo, pero suave. Y si preferís algo más ligero, tengo un blanco de merseguera muy fresquito.
+Q: ¿Qué es el bobal?
+  * Una uva de Requena con la que se hace un tinto con cuerpo pero suave. || Utiel-Requena es la zona de vinos más importante de Valencia.
+  - Un vino blanco muy ligero. || El blanco ligero es el de merseguera.
+  - Un pueblo a una hora de Valencia. || El pueblo es Requena; el bobal es la uva.
+T: Pide dos copas de bobal.
+  = Dos copas de bobal, por favor.
+  = Pues dos copas de bobal.
+  = Pues dos copas de bobal, por favor.
+  = Ponnos dos copas de bobal.
+  = Ponnos dos copas de bobal, por favor.
+  = Nos pones dos copas de bobal.
+  = Dos copas de bobal.
+  ! El vino se pide por «{{copas|(wine) glasses}}»: «Dos copas de…»
+ELENA: Marchando. ¿Y {{para picar|to nibble on, as bar snacks}}? Tengo esgarraet, que es pimiento rojo asado con bacalao; croquetas de jamón, queso curado y unas bravas.
+HANNA: Las bravas son… ¿muy picantes?
+ELENA: Qué va. En España casi nada pica de verdad.
+C: Queréis compartir varias cosas. ¿Cómo lo pides?
+  * Pues {{para compartir|to share}}: el esgarraet, unas croquetas y unas bravas. || Las tapas se piden «para compartir» y se ponen en el centro de la mesa.
+  ~ Yo quiero croquetas y ella quiere bravas. || Correcto, pero aquí no se pide un plato para cada uno: las tapas se comparten.
+  - Para dividir: croquetas y bravas. || «Dividir» es para las matemáticas. La comida se «comparte».
+ELENA: Muy bien pedido. Ya habláis como valencianos.
+K: Tapas, raciones y la barra || Una «tapa» es una porción pequeña; una «ración» es un plato para compartir. En la barra se come de pie y se paga al final: el camarero se acuerda de todo. Y si alguien dice «{esta ronda la pago yo|this round is on me}», la siguiente te toca a ti.
+
+== semana | ¿Qué has hecho esta semana? ==
+N: El vino está muy bueno. Elena se apoya en la barra, con ganas de hablar.
+ELENA: A ver, cuéntame. ¿Qué has hecho estos días en Valencia?
+T: Cuenta dos cosas: has visitado la catedral y has comido paella.
+  = He visitado la catedral y he comido paella.
+  = He visitado la catedral y he comido una paella.
+  = He visitado la catedral y he comido paella en la playa.
+  = Pues he visitado la catedral y he comido paella.
+  = He visto la catedral y he comido paella.
+  ! Pretérito perfecto: «{{He visitado|I have visited}}… y he comido…»
+ELENA: ¡Muy bien! ¿Y dónde comiste la paella? Porque hay mucho sitio para turistas, ¿eh?
+C: La comiste ayer en la Malvarrosa con Hanna. ¿Qué dices?
+  * {{La comimos|we ate it (preterite)}} ayer en la Malvarrosa. || Con «ayer», el tiempo está terminado: se usa el indefinido, «comimos». Con «esta semana» o «hoy»: «hemos comido».
+  ~ En la Malvarrosa, con Hanna. || Respuesta corta y correcta. Con el verbo practicas el pasado: «la comimos ayer».
+  - La hemos comido ayer en la Malvarrosa. || En España, con «ayer» se usa el indefinido: «la comimos ayer».
+HANNA: ¡Sí! Y el camarero… no, la camarera, nos explicó el socarrat. ¡Yo comí todo el socarrat!
+ELENA*: ¡Ja, ja! Eso es lo mejor. Pues mira, cuando yo era pequeña, mi abuela hacía paella todos los domingos, con leña de naranjo, en el campo. Venía toda la familia, éramos veinte o más. Ahora ya casi nadie tiene tiempo para eso.
+Q: ¿Qué recuerda Elena de su infancia?
+  * Su abuela hacía paella con leña todos los domingos para toda la familia. || «Era», «hacía», «venía»: imperfecto para costumbres del pasado.
+  - Su abuela tenía un restaurante en la playa. || No: cocinaba en el campo, para la familia.
+  - Su familia comía paella una vez al año. || Era todos los domingos.
+ELENA: ¿Y qué es {{lo que más te ha gustado|what you've liked most}} de Valencia?
+T: Responde: lo que más te ha gustado es la gente.
+  = Lo que más me ha gustado es la gente.
+  = La gente.
+  = Lo que más me ha gustado ha sido la gente.
+  = Lo que más me gusta es la gente.
+  = Lo que más me ha gustado es la gente de aquí.
+  = Pues lo que más me ha gustado es la gente.
+  ! Repite la estructura de Elena y cambia «te» por «me»: «Lo que más me ha gustado es…»
+ELENA*: ¡Qué bonito! Oye, ¿y os gusta el flamenco? El sábado baila una amiga mía, Lola, en un tablao del Carmen. Es sevillana y es buenísima. Si queréis, os apunto en la lista y os guardan una mesa.
+Q: ¿Qué propone Elena?
+  * Ir el sábado a ver bailar a su amiga Lola en un tablao. || «Os apunto en la lista»: ella hace la reserva.
+  - Aprender a bailar flamenco con ella el sábado. || Elena no baila: baila su amiga.
+  - Ir a Sevilla el sábado. || Lola es de Sevilla, pero baila en el Carmen, en Valencia.
+C: Te apetece mucho. ¿Cómo aceptas?
+  * ¡{{Me encantaría|I'd love to}}! Nunca he visto flamenco {en directo|live}. || Condicional para aceptar con entusiasmo. Y «nunca he visto»: perfecto para experiencias.
+  ~ Sí, quiero ir. || Claro y correcto. «¡Me encantaría!» es más cálido.
+  - Me encanta. Nunca vi flamenco. || «Me encanta» es para algo que ya conoces. Para una invitación: «me encantaría». Y para experiencias de la vida: «nunca he visto».
+ELENA: Pues hecho. El sábado a las diez. Y ahora, {{invita la casa|it's on the house}}: os pongo un poquito de mistela, que es un vino dulce de aquí.
+K: «He comido» o «comí» || En España: pretérito perfecto para un tiempo que no ha terminado («hoy», «esta semana», «nunca»): «esta semana he visitado la catedral». Indefinido para un tiempo terminado («ayer», «el lunes», «en 2019»): «ayer comimos paella». Imperfecto para costumbres y descripciones: «mi abuela hacía paella».

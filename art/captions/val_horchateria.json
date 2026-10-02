@@ -1,0 +1,73 @@
+{
+  "high_level_description": "A table at a traditional Valencian horchateria with two tall glasses of creamy horchata and a plate of long sugar-glazed fartons pastries.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "An old cafe interior covered in hand-painted blue and yellow ceramic tiles, with marble tables and bentwood chairs.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          520,
+          120,
+          920,
+          880
+        ],
+        "desc": "A round white marble table seen slightly from above with two tall glasses of pale creamy horchata and a plate of long thin glazed pastries.",
+        "color_palette": [
+          "#FFFFFF",
+          "#F6E7C8",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          560,
+          620,
+          880
+        ],
+        "desc": "A waiter in a white shirt and black apron carrying a small round tray, smiling.",
+        "color_palette": [
+          "#FFFFFF",
+          "#1F3A4D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          520,
+          1000
+        ],
+        "desc": "Walls of traditional glazed tiles painted with blue and yellow floral scenes, with no writing.",
+        "color_palette": [
+          "#2E6F8E",
+          "#E8A33D",
+          "#F6E7C8"
+        ]
+      }
+    ]
+  }
+}

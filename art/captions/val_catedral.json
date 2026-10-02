@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The Plaza de la Reina in Valencia with the cathedral's baroque doorway and the tall octagonal Miguelete tower, seen from the square on a bright morning.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A broad sunny paved square edged with trees and cafe umbrellas beneath a clear sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          420,
+          800,
+          700
+        ],
+        "desc": "The Miguelete, a tall octagonal Gothic bell tower of pale honey stone.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          400,
+          150,
+          820,
+          480
+        ],
+        "desc": "A curved baroque stone church doorway with columns and sculpted figures beside the tower.",
+        "color_palette": [
+          "#E9D3A1",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          640,
+          940,
+          900
+        ],
+        "desc": "A young woman guide holding a small folded umbrella aloft, turning to speak to visitors.",
+        "color_palette": [
+          "#B8402A",
+          "#F2C9A0",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          780,
+          0,
+          1000,
+          620
+        ],
+        "desc": "Cafe tables under cream umbrellas and a few orange trees in planters.",
+        "color_palette": [
+          "#F6E7C8",
+          "#3F7D4E",
+          "#E8A33D"
+        ]
+      }
+    ]
+  }
+}

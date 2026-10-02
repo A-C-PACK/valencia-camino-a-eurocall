@@ -1,0 +1,99 @@
+@id playa
+@name La Malvarrosa
+@zone Playa · El Cabanyal
+@geo 39.4775 -0.3245 city l
+@route Desde el centro: unos treinta minutos en tranvía o en autobús.
+@blurb La playa de la ciudad, a veinte minutos en tranvía. En el paseo marítimo hay restaurantes de arroces de toda la vida. Has quedado con Hanna para comer.
+@goal Pedir mesa, entender la carta, pedir para dos y pagar la cuenta.
+
+== mesa | Una mesa en la terraza ==
+N: Son las dos de la tarde, la hora de comer. Hanna, una amiga sueca que también aprende español, te espera en la puerta de un restaurante.
+HANNA: ¡Hola! ¡Qué bien que has venido! Tengo… ¿cómo se dice?… ¡tengo mucha hambre!
+MARTA: ¡Hola, buenas! ¿{{Tenéis reserva|do you (plural) have a reservation? (vosotros)}}?
+C: No habéis reservado. ¿Qué dices?
+  * No, no tenemos. ¿{{Hay mesa para dos|is there a table for two?}}? || Respondes y preguntas. «¿Hay mesa para…?» es la frase clave al llegar a un restaurante.
+  ~ No. Dos personas. || Se entiende, pero una frase completa suena mucho mejor: «¿hay mesa para dos?».
+  - No, no tenéis. ¿Hay mesa para dos? || Ella pregunta «¿tenéis?» (vosotros); tú respondes con «nosotros»: «no tenemos».
+MARTA*: Estáis de suerte. Me queda una en la terraza, pero la necesito a las cuatro, que tengo otra reserva. ¿Os va bien?
+Q: ¿Qué condición pone Marta?
+  * Tienen que dejar la mesa a las cuatro. || «La necesito a las cuatro»: hay otra reserva después.
+  - Tienen que esperar hasta las cuatro. || No: pueden sentarse ahora.
+  - Solo hay mesa dentro, no en la terraza. || Al contrario: la mesa está en la terraza.
+T: Responde que sí, que os va bien.
+  = Sí, nos va bien.
+  = Sí, perfecto.
+  = Sí, nos va muy bien.
+  = Sí, nos va bien, gracias.
+  = Sí, muy bien.
+  = Sí, está bien.
+  ! Ella pregunta «¿os va bien?». Tú respondes con «nos»: «Sí, {{nos va bien|that suits us}}».
+MARTA: Pues venid por aquí. ¿{{Qué queréis beber|what do you (plural) want to drink?}}?
+HANNA: Para mí, una… una agua con gas, por favor.
+MARTA: Un agua con gas. ¿Y para ti?
+C: Quieres una cerveza pequeña. ¿Cómo la pides?
+  * {{Para mí|for me}}, una caña, por favor. || Una «caña» es una cerveza de barril pequeña: la forma más normal de pedir cerveza en España.
+  ~ Una cerveza, por favor. || Correcto. Te van a preguntar el tamaño: «¿caña, tercio o jarra?».
+  - Para yo, una cerveza. || Después de «para» se dice «mí», no «yo»: «para mí».
+MARTA*: Muy bien. Os dejo la carta. Los arroces son para dos personas como mínimo y tardan unos veinticinco minutos, porque se hacen en el momento. Si tenéis prisa, pedid primero unos entrantes.
+Q: ¿Por qué tardan veinticinco minutos los arroces?
+  * Porque se hacen en el momento. || Una buena paella no está preparada antes. Si te la traen en cinco minutos, mala señal.
+  - Porque hay mucha gente en el restaurante. || No dice eso.
+  - Porque son para cuatro personas. || Son para dos como mínimo.
+K: «El agua» es femenina || Hanna dice «una agua» y Marta la corrige sin darle importancia: «un agua». «Agua» es femenina («agua fría»), pero en singular lleva «el» y «un» porque empieza con «a» tónica. Lo mismo pasa con «el aula» o «el hambre»: por eso se dice «tengo mucha hambre».
+
+== paella | La paella y la cuenta ==
+N: Miráis la carta. Hay paella valenciana, arroz a banda, arroz negro, fideuà…
+HANNA: Yo no como carne. ¿Qué podemos… pedir?
+C: Pregunta a Marta qué lleva la paella valenciana.
+  * Perdona, ¿{{qué lleva|what's in it? (ingredients)}} la paella valenciana? || «Llevar» para los ingredientes, igual que en la horchatería.
+  ~ ¿La paella valenciana tiene carne? || Pregunta directa y útil. «¿Qué lleva?» te sirve para cualquier plato.
+  - ¿Qué trae la paella valenciana adentro? || No suena natural en España. La pregunta es «¿qué lleva?».
+MARTA*: La valenciana, la de verdad, lleva pollo, conejo, judía verde, garrofón y a veces caracoles. Marisco no lleva, ¿eh? Si no coméis carne, os recomiendo la paella de verduras o el arroz a banda, que es de pescado.
+Q: ¿Qué NO lleva la auténtica paella valenciana?
+  * Marisco. || Exacto. La paella con marisco existe, pero se llama «paella de marisco». Y con chorizo, nunca.
+  - Pollo. || Sí lleva pollo.
+  - Judía verde. || Sí lleva: judía verde y garrofón, una alubia blanca grande.
+T: Pide una paella de verduras para dos.
+  = Una paella de verduras para dos, por favor.
+  = Una paella de verduras para dos.
+  = Pues una paella de verduras para dos, por favor.
+  = Queremos una paella de verduras para dos.
+  = Nos pones una paella de verduras para dos.
+  = Nos pones una paella de verduras para dos, por favor.
+  = La paella de verduras para dos, por favor.
+  ! «Una paella de verduras {{para dos|for two}}…»
+MARTA: Muy bien. ¿Y {{de primero|as a starter}}? Tengo unas clóchinas muy buenas, que ahora es temporada.
+HANNA: ¿Clóchinas? ¿Qué es eso?
+MARTA: Son los mejillones de Valencia. Más pequeños que los normales, pero con más sabor.
+N: Media hora después llega la paella. Coméis directamente de la sartén, como se hace aquí.
+MARTA: ¿Qué tal todo? ¿Os ha gustado?
+T: Responde que todo estaba muy bueno.
+  = Todo estaba muy bueno.
+  = Sí, todo estaba muy bueno.
+  = Estaba todo muy bueno.
+  = Sí, estaba todo muy bueno.
+  = Todo estaba muy rico.
+  = Sí, todo estaba muy rico.
+  = Todo muy bueno.
+  = Muy bueno todo.
+  ! La comida «está» buena. En pasado: «todo {{estaba muy bueno|was very good (food)}}».
+MARTA*: Me alegro. Lo mejor es lo de abajo, el socarrat: el arroz tostado que se queda pegado a la sartén. Los valencianos nos peleamos por él.
+Q: ¿Qué es el socarrat?
+  * El arroz tostado del fondo de la sartén. || Es la parte más apreciada. Si lo dejas, alguien te lo va a quitar.
+  - Una salsa para el arroz. || No es una salsa.
+  - El nombre de la sartén. || La sartén se llama «paella», como el plato.
+C: Queréis pagar. ¿Cómo pides la cuenta?
+  * ¿{{Nos traes la cuenta|will you bring us the bill? (tú)}}, por favor? || Perfecto. En España el camarero no trae la cuenta hasta que la pides: no es mal servicio, es educación.
+  ~ La cuenta, por favor. || Siempre correcta.
+  - ¿Podemos tener el cheque? || En España «cheque» es un documento del banco. En el restaurante se pide «la cuenta».
+MARTA: Claro. ¿{{Todo junto|all together}} o por separado?
+T: Quieres invitar a Hanna. Di que todo junto, y que invitas tú.
+  = Todo junto. Invito yo.
+  = Todo junto, invito yo.
+  = Todo junto. Yo invito.
+  = Todo junto, por favor. Invito yo.
+  = Junto. Invito yo.
+  = Todo junto. Hoy invito yo.
+  ! «Todo junto. {{Invito yo|it's on me, my treat}}.»
+HANNA: ¡No, no! Bueno… vale. Pero la próxima vez invito yo. ¡Muchas gracias!
+K: Paella: las reglas || La paella se come a mediodía, nunca para cenar. Es para dos personas o más y tarda en hacerse. La valenciana lleva pollo, conejo y verduras; lo demás son «arroces»: de marisco, a banda, negro, al horno. Y la palabra «paella» es valenciana: significa «sartén».

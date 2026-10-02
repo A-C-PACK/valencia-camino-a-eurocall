@@ -1,0 +1,486 @@
+d|-
+da|gives (dar)
+daban|they were giving (dar, imperfect)
+dale|give him/her (tú command of dar)
+dame|give me (tú command of dar)
+dar|to give
+darlas|to give them (dar palmas = to clap)
+darle|to give it (darle importancia = to make a fuss about it)
+das|you give (dar)
+datos|data
+daño|harm (hacerse daño = to hurt yourself)
+de|of, from
+debajo|underneath
+decid|say (vosotros command of decir)
+decimos|we say (decir)
+decir|to say
+definitivo|final, definitive
+deja|leaves, stops (dejar; dejar de = to stop doing)
+dejar|to leave; to let
+dejarla|to leave it
+dejas|you leave (dejar)
+dejo|I leave (dejar)
+del|of the, from the (de + el)
+delante|in front
+deletréalo|spell it (tú command of deletrear)
+demasiado|too, too much
+demás|the rest (lo demás, los demás)
+dentro|inside
+depende|it depends (depender)
+derecha|right (a la derecha = on the right)
+desayuno|breakfast
+descansar|to rest
+desconocido|stranger
+describe|describes (describir)
+descripciones|descriptions
+desde|since, from
+despacio|slowly
+despedida|goodbye, farewell
+despedirnos|to say goodbye (despedirse)
+despedirse|to say goodbye
+despides|you say goodbye (despedirse)
+después|after, afterwards
+despídete|say goodbye (tú command of despedirse)
+destino|destination
+desviaron|they diverted (desviar, preterite)
+desvió|diverted (desviar, preterite)
+detrás|behind
+devolver|to return, give back
+devuelve|gives back (devolver)
+devuelven|are given back (devolver)
+devuelvo|I give back (devolver)
+di|say (tú command of decir)
+dia|day (Valencian; bon dia = good morning)
+dice|says (decir)
+dices|you say (decir)
+dicho|said (decir)
+diecinueve|nineteen
+diecisiete|seventeen
+diez|ten
+diferencia|difference
+difíciles|difficult
+dile|tell him/her (tú command of decir)
+dilo|say it (tú command of decir)
+dinero|money
+direcció|direction (Valencian)
+dirección|direction (of a train line)
+directa|direct
+directamente|directly, straight
+directo|direct
+disculpen|we apologise for (usted plural command of disculpar)
+disfrutéis|you (plural) enjoy (disfrutar, subjunctive)
+distancia|distance
+distintos|different
+dividir|to divide
+doce|twelve
+documento|document, ID
+dolor|pain, ache
+dolçaina|a Valencian double-reed wind instrument
+domingo|Sunday
+domingos|Sundays
+don|respectful title used with a man's first name
+donde|where
+dormir|to sleep
+dos|two
+doscientos|two hundred
+doy|I give; doy clase = I teach (dar)
+ducha|shower
+duele|hurts (doler)
+duende|the mysterious spirit of deep emotion in flamenco
+dueña|owner (female)
+dulce|sweet
+dulces|sweet
+dura|lasts (durar)
+durante|during, for
+día|day
+días|days
+dígame|tell me; how can I help? (usted command of decir)
+díselo|tell him/her (tú command of decir)
+dónde|where
+edad|age
+edificio|building
+edificios|buildings
+educación|politeness, good manners
+educado|polite
+efectivo|cash
+eh|eh?, right?
+eixida|exit (Valencian)
+ejemplo|example
+el|the
+elena|-
+ella|she, her
+emoción|emotion
+empezamos|we start (empezar)
+empezó|began (empezar, preterite)
+empieza|starts (empezar)
+empleada|employee (female)
+en|in, on, at
+encaja|fits (encajar)
+encanta|me encanta = I love it (encantar)
+encantada|pleased to meet you (said by a woman)
+encantado|pleased to meet you (said by a man)
+encantaría|me encantaría = I would love to
+encender|to switch on
+enciende|switches on (encenderse)
+encima|on top
+encuentran|they find (encontrar)
+encuentras|te encuentras = you feel (encontrarse)
+encuentro|me encuentro = I feel (encontrarse); meeting
+ene|the letter n
+engaña|is deceptive, fools you (engañar)
+engañamos|we cheat (engañar)
+enorme|huge
+enormes|huge
+enseñado|taught (enseñar)
+entender|to understand
+entendido|understood (entender)
+entero|whole
+entiende|se entiende = it can be understood (entender)
+entiendo|I understand (entender)
+entonces|then, so
+entra|enters, goes into (entrar)
+entrada|ticket, entry; entrance
+entradas|tickets
+entrantes|starters
+entras|you go in (entrar)
+entre|among, between
+entusiasmo|enthusiasm
+era|was (ser, imperfect)
+eres|you are (ser)
+es|is (ser)
+esa|that
+escaleras|stairs
+escalones|steps
+escenario|stage
+escribir|to write
+escucha|listen (tú command); listens (escuchar)
+escucharlo|to listen to it
+escultura|sculpture
+esculturas|sculptures
+ese|that; the letter s
+esgarraet|Valencian dish of roasted red pepper with salt cod
+eso|that
+espalda|back
+españa|Spain
+español|Spanish
+españolas|Spanish
+especiales|special
+espectáculo|show, performance
+espera|waits, is waiting (esperar)
+esperan|they expect (esperar)
+esperando|waiting
+esperar|to wait
+espero|I hope (esperar)
+esta|this
+estaba|was (estar, imperfect)
+estaciones|stations
+estació|station (Valencian)
+estación|station
+estados|states (Estados Unidos = United States)
+estamos|we are (estar)
+estar|to be (location, condition)
+estaré|I will be (estar, future)
+estas|these
+este|this
+estilo|style
+estilos|styles
+esto|this
+estos|these
+estoy|I am (estar)
+estrecha|narrow
+estrecho|narrow
+estructura|structure
+estudiantes|students
+está|is (estar)
+estáis|you (plural) are (estar)
+están|are (estar)
+estás|you are (estar)
+estómago|stomach
+euro|euro
+europa|Europe
+euros|euros
+evento|event
+eventos|events
+evidente|obvious
+exacta|exact
+exactamente|exactly
+exacto|exactly, that's right
+exactos|exact
+existe|exists (existir)
+experiencias|experiences
+explica|explain (tú command); explains (explicar)
+explicaciones|explanations
+explicación|explanation
+explicar|to explain
+explicas|you explain (explicar)
+explicó|explained (explicar, preterite)
+expresión|expression
+extremadura|a region of western Spain
+exámenes|exams
+factor|factor (factor cincuenta = SPF 50)
+facultad|faculty, university building
+falla|one of the huge sculptures burned at Fallas
+fallas|Valencia's great festival in March
+falleras|women in traditional Fallas dress
+falta|is missing (faltar); hacer falta = to be necessary
+familia|family
+famoso|famous
+farmacia|pharmacy
+farmacias|pharmacies
+farmacéutica|pharmacist (female)
+farmacéuticos|pharmacists
+fartons|long soft sweet buns for dipping in horchata
+fartón|a long soft sweet bun for dipping in horchata
+favor|por favor = please
+fecha|date
+femenina|feminine
+festivales|festivals
+fianza|deposit
+fideuà|a paella-like dish made with short noodles
+fiebre|fever, a temperature
+fiesta|festival, celebration
+fiestas|festivals, celebrations
+figura|figure
+fila|row; line of people
+fin|end (por fin = at last)
+fina|fine, delicate
+final|end (al final = at the end)
+flamenco|flamenco
+flash|flash
+floor|-
+fondo|back, far end; bottom
+forma|way, form
+formal|formal
+foto|photo
+fotos|photos
+frase|sentence, phrase
+frecuente|frequent, common
+fresco|cool (hace fresco = it's cool)
+frescos|fresh
+fresquito|nice and chilled
+fruta|fruit
+fría|cold
+frío|cold
+fríos|cold
+fue|was (ser, preterite)
+fuente|fountain
+fuerte|strong
+fumar|to smoke
+funciona|works (funcionar)
+funcionan|work (funcionar)
+funcionar|to work, to function
+futuro|future
+fácil|easy
+fórmula|set phrase, formula
+galleta|biscuit, cookie
+ganas|con ganas de = wanting to, in the mood for
+garganta|throat
+garrofón|a large flat white bean used in paella
+gas|con gas = sparkling
+general|general
+genial|great!
+gente|people
+gesto|gesture
+gigante|giant
+girar|to turn
+gitana|Roma, gypsy
+gluten|gluten
+gracias|thank you
+gran|great, big
+grande|big
+grandes|big
+granizada|slushy, with crushed ice
+granizo|hail
+gratis|free (no cost)
+grupo|group
+gràcies|thank you (Valencian)
+guapo|handsome (friendly way to address a man)
+guardado|kept, saved (guardar)
+guardan|they keep, save (guardar)
+guardar|to keep, store
+guardia|farmacia de guardia = duty pharmacy
+guiada|guided
+guitarra|guitar
+gusanos|worms (silkworms)
+gusta|me gusta = I like it (gustar)
+gustado|liked (gustar)
+gustar|to be pleasing (me gusta = I like)
+gustaría|me gustaría = I would like
+gusto|pleasure (mucho gusto = pleased to meet you)
+guía|guide
+gótica|Gothic
+gótico|Gothic
+ha|has (haber; forms the present perfect)
+habitación|room
+habitual|usual
+habla|speaks, talks (hablar)
+hablado|spoken, talked (hablar)
+hablando|speaking, by talking
+hablar|to speak, talk
+hablarlo|to speak it
+hable|speak (hablar, subjunctive)
+habláis|you (plural) speak (hablar)
+habéis|you (plural) have (haber)
+había|there was, there used to be (haber, imperfect)
+hace|does, makes; ago; hace calor = it's hot (hacer)
+hacen|make, do (hacer)
+hacer|to do, to make
+hacerse|to be made, to get done
+haces|you do, make (hacer)
+hacia|towards
+hacéis|you (plural) make (hacer)
+hacía|used to make (hacer, imperfect)
+hambre|hunger (tengo hambre = I'm hungry)
+hanna|-
+harina|flour
+has|you have (haber; forms the present perfect)
+hasta|until, as far as, up to
+hawái|Hawaii
+hay|there is, there are
+he|I have (haber; forms the present perfect)
+hecho|done, made (hacer); hecho = deal, done
+hemisfèric|-
+hemos|we have (haber; forms the present perfect)
+herida|wound, cut
+hidratarse|to keep hydrated
+hielo|ice
+hijo|son (also a friendly way to address someone)
+historia|history
+histórico|historic
+hola|hello
+hombre|man; also an exclamation: well!, of course!
+honesto|honest
+hora|hour, time
+horario|timetable, opening hours
+horarios|timetables, opening hours
+horas|hours
+horchata|a sweet cold drink made from tiger nuts
+horchatería|a café that specialises in horchata
+horno|oven
+hotel|hotel
+hoteles|hotels
+hoy|today
+hubo|there was (haber, preterite)
+huerta|the irrigated farmland around Valencia
+huevo|egg
+humanidad|humanity (Patrimonio de la Humanidad = World Heritage)
+i|and (Valencian); the letter i
+i'm|-
+iban|they were going to (ir, imperfect)
+ibuprofeno|ibuprofen
+idea|idea
+ideal|ideal
+ido|gone (ir)
+iglesias|churches
+igual|the same, equally
+imperativo|imperative, command form
+imperfecto|imperfect (tense)
+importa|matters (importar)
+importancia|importance
+importante|important
+inauguración|opening ceremony
+incluida|included
+incluido|included
+incluye|includes (incluir)
+increíble|incredible
+indefinido|simple past, preterite (tense)
+indica|indicates (indicar)
+indicaciones|directions
+individual|single (room)
+indultat|pardoned (Valencian; ninot indultat = the figure saved from burning)
+infancia|childhood
+infinitivo|infinitive
+inglés|English
+ingredientes|ingredients
+inmaterial|intangible
+instrumento|instrument
+inteligencia|intelligence
+intenta|try (tú command of intentar)
+interesa|interests (te interesa = you're interested)
+interesante|interesting
+internet|internet
+inundó|flooded (inundar, preterite)
+inventaron|were invented (inventar, preterite)
+investiga|researches (investigar)
+investigando|researching
+investigas|you research (investigar)
+invitación|invitation
+invitar|to treat, to pay for someone
+invitas|you're treating, paying (invitar)
+invito|I'm paying, it's on me (invitar)
+ir|to go
+irregular|irregular
+izquierda|left (a la izquierda = on the left)
+ja|ha (laughter)
+jalear|to cheer on flamenco performers
+jamón|ham
+jardín|garden
+jarra|large mug (of beer)
+jordi|-
+joven|young; young man
+judía|bean (judía verde = green bean)
+jueves|Thursday
+junto|together
+kilo|kilo
+kilómetros|kilometres
+la|the; her, it
+lado|side (al lado = next to, nearby)
+ladrillo|brick
+larga|long
+largo|long
+las|the; them
+le|to him/her/you (usted)
+leche|milk
+lejos|far
+lengua|language
+lenguas|languages
+les|to them, to you (plural)
+let's|-
+letras|letters
+levantado|got up (levantarse)
+levantarte|to get up (levantarse)
+leído|read (leer)
+leña|firewood
+libro|book
+ligero|light
+lingüística|linguistics
+lista|list
+llama|se llama = is called (llamarse)
+llamamos|we call (llamar)
+llaman|se llaman = are called (llamarse)
+llamar|to call
+llamas|te llamas = your name is (llamarse)
+llana|flat
+llave|key
+llega|arrives (llegar)
+llegado|arrived (llegar)
+llegar|to arrive, to get to
+llegará|will arrive (llegar, future)
+llego|I get to, arrive (llegar)
+llegues|you arrive (llegar, subjunctive)
+llegué|I arrived (llegar, preterite)
+lleno|full
+lleva|has in it (ingredients); wears; carries (llevar)
+llevan|have in them (ingredients); carry (llevar)
+llevar|to carry, take; to wear; to have in it
+lleve|carries, has (llevar, subjunctive)
+llevo|I'm wearing; I have been (llevar)
+llit|riverbed (Valencian)
+llévala|wear it (tú command of llevar)
+lo|it; the (lo mejor = the best thing)
+local|venue, premises
+lola|-
+lonja|exchange, trading hall
+los|the; them
+luces|lights
+lucía|-
+luego|then, later (hasta luego = see you)
+lugar|place
+lunes|Monday
+luz|light; electricity
+línea|line
+líneas|lines
+línia|line (Valencian)
+líquida|liquid, not frozen
+facultats|-
+facultades|faculties, university buildings

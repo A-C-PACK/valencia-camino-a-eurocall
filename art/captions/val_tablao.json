@@ -1,0 +1,86 @@
+{
+  "high_level_description": "A small intimate flamenco tablao at night: a dancer in a red dress mid-turn on a wooden stage, with a guitarist and a singer seated behind her.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A dark intimate room with a low wooden stage, a deep red back wall and a few candlelit tables in shadow in the foreground.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          180,
+          300,
+          820,
+          720
+        ],
+        "desc": "A flamenco dancer in a long red ruffled dress with one arm raised and her skirt swirling, hair pulled back with a flower.",
+        "color_palette": [
+          "#B8402A",
+          "#D9622B",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          360,
+          60,
+          800,
+          320
+        ],
+        "desc": "A seated guitarist in a dark suit bent over a Spanish guitar.",
+        "color_palette": [
+          "#1F3A4D",
+          "#E8A33D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          360,
+          720,
+          800,
+          960
+        ],
+        "desc": "A seated singer in a dark shirt clapping his hands, head tilted back as he sings.",
+        "color_palette": [
+          "#1F3A4D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          820,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Silhouetted small round tables with candles and glasses at the front edge of the picture.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D"
+        ]
+      }
+    ]
+  }
+}

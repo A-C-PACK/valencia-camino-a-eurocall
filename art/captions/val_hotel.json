@@ -1,0 +1,87 @@
+{
+  "high_level_description": "The reception of a small charming hotel in an old Valencian townhouse, with a receptionist smiling behind a wooden desk.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A cool high-ceilinged lobby with patterned hydraulic floor tiles, a pale wall with an arched doorway and a tall window letting in sunlight.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          420,
+          100,
+          800,
+          900
+        ],
+        "desc": "A long polished wooden reception desk with a brass bell, a small vase of flowers and a rack of room keys on the wall behind it.",
+        "color_palette": [
+          "#5B3A29",
+          "#E8A33D",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          250,
+          380,
+          640,
+          640
+        ],
+        "desc": "A young man in a neat dark waistcoat and white shirt standing behind the desk, smiling politely.",
+        "color_palette": [
+          "#1F3A4D",
+          "#FFFFFF",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          780,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Decorative floor tiles in a repeating geometric pattern of ochre, teal and cream.",
+        "color_palette": [
+          "#E8A33D",
+          "#2E6F8E",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          720,
+          760,
+          980
+        ],
+        "desc": "A large potted palm beside the desk.",
+        "color_palette": [
+          "#3F7D4E",
+          "#D9622B"
+        ]
+      }
+    ]
+  }
+}

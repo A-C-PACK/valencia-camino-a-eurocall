@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The inside of a tidy Spanish pharmacy with a pharmacist in a white coat at the counter.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "Clean white shelves lined with small plain boxes and bottles, filling the whole wall behind the counter.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          260,
+          320,
+          700,
+          690
+        ],
+        "desc": "A woman pharmacist of about forty with shoulder-length dark hair, glasses and an open white coat, standing upright behind the counter, looking straight at the viewer with open eyes and a warm reassuring smile.",
+        "color_palette": [
+          "#FFFFFF",
+          "#F2C9A0",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          600,
+          60,
+          880,
+          940
+        ],
+        "desc": "A pale counter with a small paper bag and a box of tablets on it.",
+        "color_palette": [
+          "#F6E7C8",
+          "#7FC4D6"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          720,
+          260,
+          900
+        ],
+        "desc": "A glowing green pharmacy cross sign on the wall.",
+        "color_palette": [
+          "#3F7D4E",
+          "#FFFFFF"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          560,
+          1000
+        ],
+        "desc": "Tall white shelving with neat rows of small coloured boxes.",
+        "color_palette": [
+          "#FFFFFF",
+          "#7FC4D6",
+          "#E8A33D"
+        ]
+      }
+    ]
+  }
+}

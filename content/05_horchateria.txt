@@ -1,0 +1,91 @@
+@id horchateria
+@name Horchatería
+@zone Ciutat Vella · plaza de Santa Catalina
+@geo 39.47383 -0.37626 centre t
+@route Desde el Mercado Central: tres minutos a pie.
+@blurb Una horchatería de las de toda la vida, con azulejos pintados y mesas de mármol. Aquí se viene a merendar.
+@goal Pedir algo de beber y de comer, preguntar qué lleva y pagar.
+
+== pedir | Horchata y fartons ==
+N: Te sientas en una mesa de mármol. Las paredes están cubiertas de azulejos azules y amarillos. Se acerca un camarero.
+VICENT: Buenas tardes. ¿{{Qué va a tomar|what are you going to have? (usted)}}?
+C: Vienes de parte de Amparo, la del mercado, y quieres probar la horchata. ¿Qué dices?
+  * Buenas tardes. Una horchata, por favor. {{Vengo de parte de|I come on behalf of / (name) sent me}} Amparo. || Perfecto: pides y además usas la frase de Amparo. Vicent va a sonreír.
+  ~ Una horchata. || Correcto, pero muy corto. Saluda primero: «Buenas tardes».
+  - Buenas tardes. Voy a tener una horchata. || «Voy a tener» es inglés traducido. Se dice «una horchata, por favor» o «voy a tomar una horchata».
+VICENT*: ¡Hombre, de Amparo! Entonces le voy a tratar muy bien. ¿Cómo la quiere: líquida, que es la normal, o granizada, que lleva hielo picado y está más fría?
+Q: ¿Qué diferencia hay entre la horchata líquida y la granizada?
+  * La granizada lleva hielo picado y está más fría. || «{Granizada|slushy, with crushed ice}» viene de «granizo», el hielo que cae del cielo.
+  - La líquida lleva más azúcar. || No habla del azúcar.
+  - La granizada se toma caliente. || Al contrario: está más fría.
+T: Hace mucho calor. Pide la granizada.
+  = Granizada, por favor.
+  = La granizada, por favor.
+  = La quiero granizada.
+  = La quiero granizada, por favor.
+  = Granizada.
+  = Pues granizada, por favor.
+  ! «La quiero…» o simplemente el adjetivo + «por favor».
+VICENT: Muy bien. ¿Y {{para comer|to eat}}? La horchata sin fartons no es lo mismo.
+T: No sabes qué es un fartón. Pregunta qué son los fartons.
+  = ¿Qué son los fartons?
+  = Perdone, ¿qué son los fartons?
+  = ¿Qué es un fartón?
+  = ¿Qué son fartons?
+  = ¿Los fartons qué son?
+  ! «¿Qué son…?»
+VICENT*: Son unos bollos alargados, muy tiernos, con azúcar por encima. Se mojan en la horchata. Se inventaron en Alboraya, el pueblo de la chufa, hace unos sesenta años.
+Q: ¿Cómo se comen los fartons?
+  * Se mojan en la horchata. || «{Mojar|to dip, to dunk}»: igual que se moja una galleta en la leche.
+  - Se comen con mantequilla. || No dice nada de mantequilla.
+  - Se comen fríos, con hielo. || El hielo es para la horchata granizada.
+C: Quieres dos fartons. ¿Cómo los pides?
+  * Pues {{póngame|give me, I'll have (usted command of poner)}} dos fartons, por favor. || «Póngame» es «ponme» con usted: ideal con un camarero mayor.
+  ~ Dos fartons, por favor. || Suficiente y correcto. «Póngame…» suena más completo.
+  - Yo como dos fartons, por favor. || «Yo como» describe lo que haces, no lo pide. Para pedir: «póngame» o «quería».
+VICENT: {{Ahora mismo|right away}}. Una horchata granizada y dos fartons.
+K: La merienda || En España se come tarde (a las dos o las tres) y se cena tarde (a las nueve o las diez). Por eso existe la {merienda|afternoon snack}, sobre las seis: una horchata con fartons, un café con leche o un bocadillo pequeño.
+
+== cuenta | ¿Qué lleva? y la cuenta ==
+N: La horchata está fría, dulce y sabe un poco a almendra. Vicent pasa por tu mesa.
+VICENT: ¿Qué tal? ¿{{Le gusta|do you like it? (usted)}}?
+C: Te encanta. ¿Qué dices?
+  * {{Me encanta|I love it}}. Está muy rica. || «Me encanta» es más fuerte que «me gusta». Y la comida «está» rica, con «estar».
+  ~ Sí, me gusta mucho. || Muy bien. Para más entusiasmo: «me encanta».
+  - Sí, soy encantado. || «Me encanta» funciona como «me gusta». «Estoy encantado» significa otra cosa: «pleased to meet you».
+T: Quieres saber los ingredientes. Pregunta qué lleva la horchata.
+  = ¿Qué lleva la horchata?
+  = ¿Qué lleva?
+  = Perdone, ¿qué lleva la horchata?
+  = ¿Qué lleva esta horchata?
+  = ¿Qué tiene la horchata?
+  = ¿De qué es la horchata?
+  = ¿De qué está hecha la horchata?
+  ! Para los ingredientes se usa el verbo «llevar»: «¿Qué {{lleva|does it have in it (ingredients)}}…?»
+VICENT*: Muy poca cosa: chufa, agua y azúcar. Nada más. No lleva leche ni gluten, así que la puede tomar casi todo el mundo. Eso sí, los fartons llevan harina y huevo.
+Q: Una persona que no puede tomar gluten, ¿qué puede pedir?
+  * La horchata sí, pero los fartons no. || La horchata no lleva gluten; los fartons llevan harina.
+  - Los fartons sí, pero la horchata no. || Es al revés.
+  - Ninguna de las dos cosas. || La horchata solo lleva chufa, agua y azúcar.
+VICENT: Y dígame, ¿ya sabe algo de valenciano? Aquí decimos «bon dia» por la mañana, «gràcies» para dar las gracias y «adéu» para despedirnos.
+C: Quieres pagar. ¿Qué dices?
+  * ¿{{Me cobra|can you take for this? (lit. do you charge me?) (usted)}}, por favor? || Muy de aquí. También puedes decir «la cuenta, por favor».
+  * {{La cuenta|the bill}}, por favor. || Clásica y siempre correcta. En un bar también se dice «¿me cobra?».
+  - Quiero pagar ahora. || Se entiende, pero suena brusco. Mejor «¿me cobra?» o «la cuenta, por favor».
+VICENT*: Son cinco euros con setenta. ¿Con tarjeta o en efectivo?
+T: Pagas en efectivo. Dilo.
+  = En efectivo.
+  = En efectivo, por favor.
+  = En efectivo. Aquí tiene.
+  = Efectivo.
+  ! Con tarjeta, pero «{en|in} efectivo».
+VICENT: Muy bien. Tome el cambio. Y vuelva cuando quiera.
+T: Despídete en valenciano: da las gracias y di adiós.
+  = Gràcies. Adéu.
+  = Gràcies, adéu.
+  = Gràcies i adéu.
+  = Moltes gràcies. Adéu.
+  = Gracies. Adeu.
+  ! Las dos palabras que te ha enseñado Vicent: «gràcies» y «adéu».
+VICENT: ¡Adéu! ¡Muy bien dicho!
+K: ¿Propina? || En España la {propina|tip} no es obligatoria y el servicio está incluido en el precio. En un bar mucha gente deja las monedas pequeñas del cambio; en un restaurante, si todo ha ido muy bien, uno o dos euros por persona. Nadie espera un quince o un veinte por ciento.

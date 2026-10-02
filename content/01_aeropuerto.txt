@@ -1,0 +1,87 @@
+@id aeropuerto
+@name Aeropuerto
+@zone Llegada · Manises
+@geo 39.4893 -0.4816 city b
+@route Tu avión aterriza aquí, en Manises, a ocho kilómetros al oeste del centro.
+@blurb Acabas de aterrizar en el aeropuerto de Manises. Tienes que llegar al centro con tu maleta.
+@goal Coger un taxi, decir adónde vas, preguntar el precio y pedir que te repitan algo.
+
+== taxi | Un taxi al centro ==
+N: Sales de la terminal con la maleta. Hace calor. Un taxista mayor te mira desde la parada.
+RAMON: ¡Buenas tardes! ¿Taxi? ¿{{Adónde vamos|where are we going?}}?
+C: Quieres ir a tu hotel, en la calle de la Paz. ¿Qué dices?
+  * Buenas tardes. {{A la calle de la Paz|to Calle de la Paz (a + place = destination)}}, por favor. || Saludo, destino y «por favor»: perfecto para un taxi.
+  ~ Calle de la Paz. || Sin saludo ni «por favor» suena un poco seco en España.
+  - Soy en la calle de la Paz. || «Soy» no indica destino. Para decir adónde vas: «a la calle…» o «voy a la calle…».
+RAMON: Calle de la Paz, muy bien. Eso está en el centro, al lado de la catedral. Venga, {deme|give me (usted command of dar)} la maleta, que la pongo en el {maletero|boot / trunk of a car}.
+RAMON*: Son unos veinte minutos si no hay tráfico. Hoy hay un poco de {{atasco|traffic jam}} en la entrada, así que {{a lo mejor|maybe}} tardamos media hora.
+Q: ¿Cuánto tiempo van a tardar hoy, probablemente?
+  * Media hora, más o menos. || Normalmente son veinte minutos, pero hoy hay atasco.
+  - Veinte minutos exactos. || Eso es «si no hay tráfico». Hoy sí hay.
+  - Una hora. || No: dice «media hora», treinta minutos.
+T: Quieres saber el precio antes de salir. Pregunta cuánto cuesta hasta el centro.
+  = ¿Cuánto cuesta hasta el centro?
+  = ¿Cuánto cuesta ir al centro?
+  = ¿Cuánto es hasta el centro?
+  = ¿Cuánto vale hasta el centro?
+  = ¿Cuánto cuesta al centro?
+  ! Empieza con «¿Cuánto cuesta…?» y termina con «hasta el centro».
+RAMON: Pues unos veinticinco euros, {{más o menos|more or less}}. Va con {taxímetro|taxi meter}, ¿eh? Aquí no engañamos a nadie.
+RAMON*: ¿Y usted de dónde viene, si se puede saber? Porque de aquí no es, eso está claro.
+C: Don Ramón habla rápido y no has entendido la pregunta. ¿Qué dices?
+  * Perdone, ¿{{puede repetir|can you repeat (usted)}} {{más despacio|more slowly}}, por favor? || Educado y claro. Con un desconocido mayor, «perdone» y «puede» (usted) son lo normal.
+  ~ ¿Cómo? || Es muy natural en España, pero no pide que hable más despacio.
+  - ¿Qué? || Con un desconocido suena brusco. Mejor «¿cómo?» o «perdone».
+RAMON: Claro, hombre. Le pregunto: ¿de dónde es usted?
+T: Dile de dónde eres y por qué estás aquí: has venido a un congreso.
+  = Soy de Hawái. He venido a un congreso.
+  = Soy de Hawái y he venido a un congreso.
+  = Soy de Hawái. Vengo a un congreso.
+  = Soy de Hawái y vengo a un congreso.
+  = Soy de Hawái. He venido para un congreso.
+  = Soy de Estados Unidos. He venido a un congreso.
+  ! «Soy de…» + lugar. Después: «He venido a un congreso».
+RAMON: ¡De Hawái! Madre mía, qué lejos. Pues bienvenido a Valencia. Aquí va a comer usted muy bien, {se lo digo yo|take it from me (lit. I tell you so)}.
+K: «He venido», no «vine» || En España se usa mucho el {pretérito perfecto|present perfect (he + participio)} para hablar de hoy o de algo reciente: «he venido a un congreso», «he llegado esta mañana», «¿has comido ya?». En América es más normal decir «vine» o «llegué».
+
+== charla | Por el camino ==
+N: El taxi entra en la ciudad. Don Ramón no para de hablar.
+RAMON*: Mire, a la derecha tiene el antiguo {cauce|riverbed} del río Turia. Hace muchos años hubo una {riada|flood} terrible y {desviaron|they diverted} el río. Ahora es un jardín de nueve kilómetros.
+Q: ¿Qué es hoy el antiguo cauce del río?
+  * Un jardín muy largo. || Sí: el Jardín del Turia cruza toda la ciudad.
+  - Una carretera para coches. || No: es un parque, no una carretera.
+  - Un río con mucha agua. || Ya no: desviaron el río después de la riada.
+RAMON: ¿Es la primera vez que viene a Valencia?
+T: Responde que sí: es tu primera vez en Valencia.
+  = Sí, es mi primera vez en Valencia.
+  = Sí, es la primera vez que vengo a Valencia.
+  = Sí, es la primera vez.
+  = Sí, es mi primera vez.
+  = Sí, la primera vez.
+  ! «Sí, es mi primera vez en…»
+RAMON: Pues {{tiene que probar|you have to try (tener que + infinitive)}} la paella, pero la de verdad, ¿eh? Con pollo y conejo. Y siempre {{a mediodía|at midday, at lunchtime}}. La paella por la noche es para los turistas.
+C: Quieres una recomendación. ¿Cómo se lo preguntas a Don Ramón?
+  * ¿{{Me recomienda|do you recommend (to me) (usted)}} algún restaurante? || «¿Me recomienda…?» con usted. Te va a servir en cualquier sitio.
+  ~ ¿Dónde hay paella buena? || Es directa, pero funciona. Con «¿me recomienda…?» suena más natural.
+  - ¿Me recomiendas tú un restaurante? || Él te habla de usted. Mejor responder igual: «¿me recomienda…?».
+RAMON*: Hombre, claro. Vaya a El Palmar, al lado de la Albufera, o a la playa de la Malvarrosa. Pero reserve mesa, que los domingos está todo lleno.
+Q: ¿Qué consejo le da Don Ramón?
+  * Reservar mesa, sobre todo los domingos. || «Reserve mesa» es un imperativo con usted.
+  - Cenar paella el domingo por la noche. || Al contrario: la paella se come a mediodía.
+  - Comer en el centro, cerca del hotel. || Él recomienda El Palmar o la Malvarrosa.
+N: Media hora después, el taxi para delante del hotel.
+RAMON: Bueno, pues ya estamos. Son veintisiete euros con cuarenta.
+C: Quieres pagar con tarjeta. ¿Qué dices?
+  * ¿{{Puedo pagar con tarjeta|can I pay by card?}}? || Perfecto. Hoy casi todos los taxis aceptan tarjeta.
+  ~ ¿Tarjeta? || Se entiende, pero es mejor una frase completa.
+  - ¿Puedo pagar por tarjeta? || En español se paga «con tarjeta» o «en efectivo».
+RAMON: Sí, sin problema. Acerque la tarjeta aquí… Ya está. ¿Quiere el {{recibo|receipt}}?
+T: Di que sí y pide el recibo con educación.
+  = Sí, el recibo, por favor.
+  = Sí, por favor.
+  = Sí, ¿me da el recibo, por favor?
+  = Sí, deme el recibo, por favor.
+  = Sí, quiero el recibo, por favor.
+  ! «Sí, el recibo, por favor.»
+RAMON: Aquí tiene. Y {{que disfrute|enjoy (I hope you enjoy; que + subjunctive)}} de Valencia. ¡Hasta luego!
+K: ¿Tú o usted? || Con un taxista mayor, en un hotel o en una farmacia, empieza con «usted»: «¿puede…?», «¿me recomienda…?», «perdone». Con gente joven, en los bares y entre colegas, casi todo el mundo usa «tú». Si alguien te dice «{tutéame|call me tú}», cambia a «tú».

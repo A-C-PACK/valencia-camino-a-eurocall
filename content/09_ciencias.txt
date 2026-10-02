@@ -1,0 +1,91 @@
+@id ciencias
+@name Ciudad de las Artes y las Ciencias
+@short Artes y Ciencias
+@zone Jardín del Turia
+@geo 39.45668 -0.35388 city r
+@route Desde las Torres de Serranos: unos veinte minutos en bici por el Jardín del Turia.
+@blurb Los edificios blancos de Calatrava, al final del antiguo cauce del río. La mejor forma de llegar es en bici por el Jardín del Turia.
+@goal Alquilar algo, entender condiciones y precios, y pedir y seguir indicaciones.
+
+== bici | Alquilar una bici ==
+N: Cerca de las Torres de Serranos hay una tienda pequeña con bicicletas en la puerta.
+SERGIO: ¡Buenas! ¿Buscas una bici?
+C: Quieres una bicicleta para hoy. ¿Qué dices?
+  * Sí, {{quería alquilar|I'd like to rent}} una bici para hoy. || «Quería» + infinitivo: amable y natural. «Alquilar» sirve para bicis, coches y pisos.
+  ~ Sí. ¿Tienes bicis? || Funciona, aunque es evidente que tiene. Di qué quieres hacer: «quería alquilar…».
+  - Sí, quiero rentar una bici por hoy. || «Rentar» se dice en México. En España es «alquilar», y «para hoy».
+SERGIO*: Perfecto. Mira, son cuatro euros la hora o doce euros el día entero. Si la vas a usar más de tres horas, te sale mejor el día.
+Q: Vas a usar la bici unas cinco horas. ¿Qué te conviene?
+  * Pagar el día entero: doce euros. || Cinco horas serían veinte euros. «Te sale mejor el día».
+  - Pagar por horas: doce euros. || Cinco horas a cuatro euros son veinte.
+  - Da igual: cuesta lo mismo. || No: por horas serían veinte euros y el día son doce.
+T: Di que la quieres para todo el día.
+  = Para todo el día.
+  = Pues para todo el día.
+  = La quiero para todo el día.
+  = Todo el día.
+  = El día entero.
+  = Pues el día entero.
+  = La quiero todo el día.
+  ! «Para {{todo el día|all day, the whole day}}.»
+SERGIO: Hecho. Necesito {{un documento|an ID document}}, el pasaporte o el carné, y una fianza de veinte euros, que te devuelvo cuando traigas la bici.
+C: No has entendido la palabra «fianza». ¿Qué preguntas?
+  * Perdona, ¿{{qué quiere decir|what does ... mean?}} «fianza»? || «¿Qué quiere decir…?» = «¿qué significa…?». Con cualquiera de las dos vas a aprender mucho.
+  ~ ¿Fianza? No entiendo. || Honesto y útil. Si preguntas «¿qué quiere decir?», te lo van a explicar.
+  - Perdona, ¿qué quieres decir «fianza»? || Preguntas por la palabra, no por Sergio: «¿qué quiere decir?».
+SERGIO*: Es un dinero que me dejas ahora por si le pasa algo a la bici. Si la traes bien, te lo devuelvo todo. La tienda cierra a las ocho y media, así que tienes que estar aquí antes.
+Q: ¿Qué pasa con los veinte euros de la fianza?
+  * Te los devuelve si traes la bici bien. || «{Fianza|deposit}»: también la vas a oír si alquilas un piso.
+  - Son parte del precio y no se devuelven. || Sí se devuelven.
+  - Te los devuelve a las ocho y media de la mañana. || A las ocho y media de la tarde cierra la tienda.
+T: Pregunta si el casco está incluido.
+  = ¿El casco está incluido?
+  = ¿Está incluido el casco?
+  = ¿El casco va incluido?
+  = ¿Incluye el casco?
+  = ¿Va incluido el casco?
+  = ¿Está el casco incluido?
+  ! «¿El {{casco|helmet}} está…?»
+SERGIO: Sí, el casco y el candado. Mira, {{ten cuidado|be careful (tú)}} con el {carril bici|cycle lane}: es rojo y los peatones a veces no miran.
+K: Valencia en bici || Valencia es llana y tiene más de ciento cincuenta kilómetros de carril bici. Además de las tiendas de alquiler existe Valenbisi, las bicis públicas de la ciudad, con estaciones por todas partes.
+
+== llegar | ¿Cómo llego? ==
+N: Ya tienes la bici, el casco y el candado. Solo falta saber el camino.
+T: Pregunta cómo se llega a la Ciudad de las Artes y las Ciencias.
+  = ¿Cómo llego a la Ciudad de las Artes y las Ciencias?
+  = ¿Cómo se llega a la Ciudad de las Artes y las Ciencias?
+  = ¿Cómo voy a la Ciudad de las Artes y las Ciencias?
+  = ¿Cómo se va a la Ciudad de las Artes y las Ciencias?
+  = ¿Cómo puedo llegar a la Ciudad de las Artes y las Ciencias?
+  = ¿Por dónde se va a la Ciudad de las Artes y las Ciencias?
+  ! «¿{{Cómo llego a|how do I get to}}…?»
+SERGIO*: Es muy fácil. Baja al río por esa rampa y {{sigue todo recto|keep going straight on (tú command)}} por el jardín, siempre con el centro a tu derecha. Vas a pasar por debajo de muchos puentes. Después de unos veinte minutos vas a ver los edificios blancos al fondo.
+Q: ¿Qué tienes que hacer?
+  * Bajar al jardín del río y seguir recto unos veinte minutos. || Sin cruzar ninguna calle con coches: todo el camino va por el parque.
+  - Cruzar el primer puente y girar a la izquierda. || No tienes que cruzar los puentes: pasas por debajo.
+  - Ir por la avenida, con el centro a la izquierda. || Vas por el jardín, con el centro a la derecha.
+C: Quieres saber la distancia. ¿Qué preguntas?
+  * ¿{{Está lejos|is it far?}}? || Corta y útil. Lo contrario es «¿está cerca?».
+  * ¿Cuánto se tarda? || Pregunta por el tiempo, no por la distancia, pero también te sirve. En España la respuesta suele ser en minutos.
+  - ¿Es lejos? || Para decir dónde está algo se usa «estar»: «¿está lejos?».
+SERGIO: Qué va, unos cuatro kilómetros. En bici, veinte minutos tranquilamente.
+SERGIO*: Cuando llegues, lo primero que vas a ver es el Palau de les Arts, que es la ópera. Al lado está el Hemisfèric, que parece un ojo gigante. Luego el museo de las ciencias, y al final del todo el Oceanogràfic, que es el acuario más grande de Europa.
+Q: ¿Cuál de estos edificios parece un ojo?
+  * El Hemisfèric. || Dentro hay un cine con una pantalla enorme.
+  - El Oceanogràfic. || Ese es el acuario, al final del todo.
+  - El Palau de les Arts. || Ese es la ópera, lo primero que se ve.
+T: Pregunta dónde puedes dejar la bici allí.
+  = ¿Dónde puedo dejar la bici?
+  = ¿Dónde puedo dejar la bici allí?
+  = ¿Y dónde puedo dejar la bici?
+  = ¿Dónde dejo la bici?
+  = ¿Dónde puedo aparcar la bici?
+  = ¿Dónde puedo dejar la bicicleta?
+  ! «¿Dónde puedo {{dejar|to leave}}…?»
+SERGIO: Hay aparcabicis delante de cada edificio. Ponle siempre el candado, ¿eh? Y si te pierdes, pregunta por «el río»: aquí todos llamamos «el río» al jardín, aunque no lleve agua.
+C: Te despides. ¿Qué dices?
+  * Muchas gracias. {{Nos vemos|see you}} esta tarde. || Vas a volver para devolver la bici: «nos vemos» es perfecto.
+  ~ Gracias. Adiós. || Correcto. «Adiós» suena un poco definitivo: en España es más normal «hasta luego».
+  - Gracias. Te veo esta tarde. || «Te veo» significa que ahora te estoy viendo. Para despedirse: «nos vemos».
+SERGIO: ¡Venga, {{pásalo bien|have a good time (tú command)}}! ¡Hasta luego!
+K: El río que no es un río || En 1957 una riada inundó Valencia. Después, la ciudad desvió el río Turia hacia el sur. Iban a construir una autopista en el cauce vacío, pero los vecinos protestaron: «El llit del Túria és nostre i el volem verd» (el cauce del Turia es nuestro y lo queremos verde). Hoy es un parque de nueve kilómetros.

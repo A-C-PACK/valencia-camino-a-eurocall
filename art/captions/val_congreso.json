@@ -1,0 +1,88 @@
+{
+  "high_level_description": "The registration desk of an academic conference in a bright modern university atrium, with a friendly volunteer handing over a name badge.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A light-filled university hall with tall windows, pale concrete and wood, and blank poster boards along one side.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          520,
+          80,
+          820,
+          920
+        ],
+        "desc": "A long registration table covered with a plain cloth, with rows of name badges on lanyards and a stack of tote bags.",
+        "color_palette": [
+          "#2E6F8E",
+          "#F6E7C8",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          260,
+          360,
+          660,
+          640
+        ],
+        "desc": "A young woman volunteer in a teal t-shirt holding out a name badge on a lanyard with a warm smile.",
+        "color_palette": [
+          "#2E6F8E",
+          "#F2C9A0",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          700,
+          760,
+          960
+        ],
+        "desc": "Two conference attendees chatting with coffee cups in hand.",
+        "color_palette": [
+          "#B8402A",
+          "#1F3A4D",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          0,
+          460,
+          320
+        ],
+        "desc": "Free-standing poster boards with abstract coloured blocks and no readable writing.",
+        "color_palette": [
+          "#FFFFFF",
+          "#D9622B",
+          "#7FC4D6"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1167 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-15T15:22:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 246088956,
+  "lat": 39.4768946,
+  "lon": -0.3591775,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Facultat de Filologia",
+    "network": "EMT",
+    "network:wikidata": "Q11007711",
+    "old_name": "Blasco Ibáñez - Facultat de Filologia",
+    "old_name:es": "Blasco Ibáñez - Facultad de Filología",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "167",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 246089525,
+  "lat": 39.4617583,
+  "lon": -0.3705270,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mercat de Russafa",
+    "network": "EMT",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "720",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 246089617,
+  "lat": 39.4735175,
+  "lon": -0.3796904,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mercat Central",
+    "network": "EMT",
+    "old_name": "Mercat Central - Llotja",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "2214",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 246089627,
+  "lat": 39.4749852,
+  "lon": -0.3839652,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Torres de Quart",
+    "network": "EMT",
+    "old_name": "Guillem de Castro - Torres de Quart",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "793",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es"
+  }
+},
+{
+  "type": "node",
+  "id": 246089631,
+  "lat": 39.4675077,
+  "lon": -0.3764674,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Estació del Nord",
+    "network": "EMT",
+    "network:wikidata": "Q11007711",
+    "old_name": "Xàtiva - Estació del Nord",
+    "old_name:es": "Játiva - Estación del Norte",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "2261",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es"
+  }
+},
+{
+  "type": "node",
+  "id": 246089904,
+  "lat": 39.4731587,
+  "lon": -0.3721693,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Carrer de la Pau",
+    "network": "EMT",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "2227",
+    "shelter": "no",
+    "source": "www.emtvalencia.es",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 246090193,
+  "lat": 39.4548409,
+  "lon": -0.3534144,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Museu de les Ciències",
+    "network": "EMT",
+    "old_name": "Professor López Piñero - Museu de les Ciències",
+    "operator": "Empresa Municipal de Transportes de Valencia",
+    "public_transport": "platform",
+    "ref": "2053",
+    "shelter": "yes",
+    "source": "www.emtvalencia.es",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 825235820,
+  "lat": 39.4738263,
+  "lon": -0.3762568,
+  "tags": {
+    "addr:postcode": "46002",
+    "amenity": "cafe",
+    "check_date": "2024-10-08",
+    "cuisine": "spanish;regional",
+    "name": "Horchateria de Santa Catalina",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wikidata": "Q68290696"
+  }
+},
+{
+  "type": "node",
+  "id": 3352213311,
+  "lat": 39.4848096,
+  "lon": -0.3623520,
+  "tags": {
+    "name": "Benimaclet",
+    "name:ca": "Benimaclet",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner": "Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q8528822",
+    "wikipedia": "es:Estación de Benimaclet"
+  }
+},
+{
+  "type": "node",
+  "id": 3352213320,
+  "lat": 39.4781042,
+  "lon": -0.3618837,
+  "tags": {
+    "name": "Facultats - Manuel Broseta",
+    "network": "Metrovalencia",
+    "network:wikidata": "Q511171",
+    "old_name": "Facultats",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner": "Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q5846225",
+    "wikipedia": "ca:Estació de Facultats-Manuel Broseta"
+  }
+},
+{
+  "type": "node",
+  "id": 3352213337,
+  "lat": 39.4731081,
+  "lon": -0.3660177,
+  "tags": {
+    "name": "Alameda",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner": "Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q8779205",
+    "wikipedia": "ca:Estació de l'Albereda"
+  }
+},
+{
+  "type": "node",
+  "id": 3352213360,
+  "lat": 39.4701853,
+  "lon": -0.3708376,
+  "tags": {
+    "name": "Colón",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner": "Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q8779653",
+    "wikipedia": "ca:Estació de Colom"
+  }
+},
+{
+  "type": "node",
+  "id": 3420403023,
+  "lat": 39.4519522,
+  "lon": -0.3473811,
+  "tags": {
+    "name": "L'Oceanogràfic",
+    "network": "metrovalencia",
+    "network:wikidata": "Q511171",
+    "network:wikipedia": "en:Metrovalencia",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "stop_position",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3420403024,
+  "lat": 39.4519216,
+  "lon": -0.3473791,
+  "tags": {
+    "name": "L'Oceanogràfic",
+    "network": "metrovalencia",
+    "network:wikidata": "Q511171",
+    "network:wikipedia": "en:Metrovalencia",
+    "operator": "Ferrocarrils de la Generalitat Valenciana",
+    "operator:short": "FGV",
+    "operator:wikidata": "Q750832",
+    "operator:wikipedia": "ca:Ferrocarrils de la Generalitat Valenciana",
+    "owner:wikidata": "Q750832",
+    "public_transport": "stop_position",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5046970828,
+  "lat": 39.4762697,
+  "lon": -0.3756026,
+  "tags": {
+    "amenity": "bar",
+    "check_date": "2024-04-01",
+    "name": "El Micalet",
+    "name:es": "El Micalet"
+  }
+},
+{
+  "type": "node",
+  "id": 5047018121,
+  "lat": 39.4756098,
+  "lon": -0.3756088,
+  "tags": {
+    "name": "El Micalet",
+    "name:es": "El Micalet",
+    "shop": "gift",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5405017241,
+  "lat": 39.4762360,
+  "lon": -0.3801731,
+  "tags": {
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9877381951,
+  "lat": 39.4742370,
+  "lon": -0.3785620,
+  "tags": {
+    "board_type": "information",
+    "disused:information": "board",
+    "disused:tourism": "information",
+    "name": "La Llotja de la Seda",
+    "name:es": "La Lonja de la Seda",
+    "operator": "Ajuntament de València",
+    "survey:date": "2025-07-04"
+  }
+},
+{
+  "type": "node",
+  "id": 11366807086,
+  "lat": 39.4791386,
+  "lon": -0.3761372,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "language:ca": "yes",
+    "language:en": "yes",
+    "language:es": "yes",
+    "name": "Torres de Serrans",
+    "network": "València en la Memòria",
+    "ref": "2",
+    "subject:wikidata": "Q2455550",
+    "tourism": "information",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11366988469,
+  "lat": 39.4674260,
+  "lon": -0.3772518,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Estació del Nord",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 12236165380,
+  "lat": 39.4738634,
+  "lon": -0.3764089,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "Apotek",
+    "check_date": "2024-10-08",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Santa Catalina"
+  }
+},
+{
+  "type": "node",
+  "id": 13727710666,
+  "lat": 39.4767464,
+  "lon": -0.3594750,
+  "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "Avinguda de Blasco Ibáñez",
+    "name": "Facultat de Filologia, Traducció i Comunicació",
+    "name:ca": "Facultat de Filologia, Traducció i Comunicació",
+    "name:es": "Facultad de Filología, Traducción y Comunicación",
+    "office": "university",
+    "operator": "Universitat de València",
+    "website": "https://www.uv.es/filtradcom"
+  }
+},
+{
+  "type": "way",
+  "id": 4808255,
+  "center": {
+    "lat": 39.4760239,
+    "lon": -0.3802917
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "name:etymology:wikidata": "Q11942047",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 5007139,
+  "center": {
+    "lat": 39.4734987,
+    "lon": -0.3789285
+  },
+  "tags": {
+    "addr:city": "València",
+    "addr:postcode": "46001",
+    "addr:street": "Plaça de la Ciutat de Bruges",
+    "amenity": "marketplace",
+    "bicycle": "no",
+    "building": "yes",
+    "building:levels": "2",
+    "building:levels:underground": "1",
+    "check_date": "2026-04-11",
+    "dog": "no",
+    "email": "informacion@mercadocentralvalencia.es",
+    "historic": "yes",
+    "level": "0",
+    "name": "Mercat Central",
+    "name:ca": "Mercat Central",
+    "name:en": "Central Market",
+    "name:es": "Mercado Central",
+    "name:it": "Mercato Centrale",
+    "name:ko": "중앙 시장",
+    "name:ru": "Центральный рынок Валенсии",
+    "name:zh": "中央市場",
+    "opening_hours": "Mo-Sa 07:30-15:00; Su off",
+    "phone": "+34 963 829 100",
+    "smoking": "no",
+    "tourism": "attraction",
+    "website": "https://www.mercadocentralvalencia.es",
+    "wikidata": "Q2197068",
+    "wikipedia": "es:Mercado Central de Valencia"
+  }
+},
+{
+  "type": "way",
+  "id": 10153012,
+  "center": {
+    "lat": 39.4661206,
+    "lon": -0.3774453
+  },
+  "tags": {
+    "addr:city": "València",
+    "addr:housenumber": "24",
+    "addr:postcode": "46007",
+    "addr:street": "Carrer de Xàtiva",
+    "alt_name": "València Nord",
+    "alt_name:es": "Valencia Norte",
+    "building": "train_station",
+    "height": "15.15",
+    "historic": "yes",
+    "name": "Estació del Nord",
+    "name:ca": "Estació del Nord",
+    "name:de": "Nordbahnhof",
+    "name:en": "North Station",
+    "name:es": "Estación del Norte",
+    "name:ru": "Северный вокзал",
+    "official_name": "Estació del Nord",
+    "roof:shape": "flat",
+    "wikidata": "Q1102684",
+    "wikipedia": "ca:Estació del Nord (València)"
+  }
+},
+{
+  "type": "way",
+  "id": 10163302,
+  "center": {
+    "lat": 39.4762912,
+    "lon": -0.3803652
+  },
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lit": "yes",
+    "maxspeed": "20",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "name:etymology:wikidata": "Q11942047",
+    "oneway": "yes",
+    "psv": "yes",
+    "smoothness": "good",
+    "surface": "paving_stones",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 11570331,
+  "center": {
+    "lat": 39.4791615,
+    "lon": -0.3784800
+  },
+  "tags": {
+    "bicycle": "yes",
+    "emergency": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen",
+    "psv": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 12403536,
+  "center": {
+    "lat": 39.4620189,
+    "lon": -0.3714053
+  },
+  "tags": {
+    "access:covid19": "yes",
+    "addr:city": "València",
+    "addr:city:ca": "València",
+    "addr:housenumber": "30",
+    "addr:postcode": "46006",
+    "addr:street": "Plaça del Baró de Cortes",
+    "amenity": "marketplace",
+    "building": "retail",
+    "building:levels": "4",
+    "building:levels:underground": "1",
+    "check_date": "2026-06-11",
+    "delivery:covid19": "no",
+    "name": "Mercat de Russafa",
+    "name:ca": "Mercat de Russafa",
+    "name:es": "Mercado de Ruzafa",
+    "opening_hours:covid19": "Mo-Sa 09:00-14:00",
+    "organic": "yes",
+    "takeaway:covid19": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q59429024",
+    "wikipedia": "ca:Mercat de Russafa"
+  }
+},
+{
+  "type": "way",
+  "id": 13073736,
+  "center": {
+    "lat": 39.4759009,
+    "lon": -0.3839263
+  },
+  "tags": {
+    "alt_name:ca": "Torres de Quart",
+    "building": "tower",
+    "building:colour": "beige",
+    "building:levels": "4",
+    "building:material": "stone",
+    "height": "34",
+    "historic": "city_gate",
+    "name": "Torres de Quart",
+    "name:ca": "Torres de Quart",
+    "name:es": "Porta de Quart",
+    "name:ru": "Башни Куарта",
+    "roof:shape": "flat",
+    "wikidata": "Q2343754",
+    "wikipedia": "ca:Porta de Quart"
+  }
+},
+{
+  "type": "way",
+  "id": 23377876,
+  "center": {
+    "lat": 39.4744082,
+    "lon": -0.3784312
+  },
+  "tags": {
+    "addr:city": "València",
+    "addr:housenumber": "2",
+    "addr:postcode": "46001",
+    "addr:street": "Carrer de la Llotja",
+    "building": "yes",
+    "email": "lonja@valencia.es",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "historic": "heritage",
+    "name": "Llotja de la Seda",
+    "name:ca": "Llotja de la Seda",
+    "name:de": "Seidenbörse",
+    "name:en": "Silk Exchange",
+    "name:es": "Lonja de la Seda",
+    "name:ru": "Шелковая биржа",
+    "name:uk": "Шовкова біржа",
+    "name:zh": "絲綢交易中心",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su,PH 10:00-14:00",
+    "phone": "+34 962 084 153",
+    "ref:whc": "782",
+    "tourism": "attraction",
+    "website": "https://www.comunitatvalenciana.com/es/valencia/valencia/monumentos/lonja-de-la-seda-1",
+    "whc:criteria": "(i)(iv)",
+    "whc:inscription_date": "1996",
+    "wikidata": "Q588009",
+    "wikipedia": "en:Lonja de la Seda"
+  }
+},
+{
+  "type": "way",
+  "id": 23433773,
+  "center": {
+    "lat": 39.4580432,
+    "lon": -0.3559153
+  },
+  "tags": {
+    "amenity": "theatre",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Palau de les Arts Reina Sofia",
+    "name:ca": "Palau de les Arts Reina Sofia",
+    "name:de": "Königin Sofia Palast der Künste",
+    "name:en": "Reina Sofia Palace of the Arts",
+    "name:es": "Palacio de las Artes Reina Sofía",
+    "name:etymology:wikidata": "Q156548",
+    "name:fr": "Palais des Arts Reina-Sofía",
+    "name:zh": "索菲亚王后艺术歌剧院",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.lesarts.com",
+    "wheelchair": "yes",
+    "wikidata": "Q747342",
+    "wikipedia": "ca:Palau de les Arts Reina Sofia"
+  }
+},
+{
+  "type": "way",
+  "id": 23433774,
+  "center": {
+    "lat": 39.4566823,
+    "lon": -0.3538811
+  },
+  "tags": {
+    "amenity": "cinema",
+    "building": "yes",
+    "layer": "1",
+    "name": "L'Hemisfèric",
+    "name:ca": "L'Hemisfèric",
+    "name:es": "El Hemisférico",
+    "name:etymology:wikidata": "Q2712673",
+    "wikidata": "Q2712673",
+    "wikipedia": "ca:L'Hemisfèric"
+  }
+},
+{
+  "type": "way",
+  "id": 47511708,
+  "center": {
+    "lat": 39.4761510,
+    "lon": -0.3802952
+  },
+  "tags": {
+    "bicycle": "yes",
+    "emergency": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "name:etymology:wikidata": "Q11942047",
+    "parking:both": "no",
+    "psv": "yes",
+    "smoothness": "excellent",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 47511709,
+  "center": {
+    "lat": 39.4761432,
+    "lon": -0.3803503
+  },
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "lane",
+    "emergency": "yes",
+    "highway": "living_street",
+    "lit": "yes",
+    "maxspeed": "20",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "name:etymology:wikidata": "Q11942047",
+    "oneway": "yes",
+    "psv": "yes",
+    "smoothness": "intermediate",
+    "surface": "paving_stones",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 47511716,
+  "center": {
+    "lat": 39.4761848,
+    "lon": -0.3801794
+  },
+  "tags": {
+    "alt_name": "Plaça del Tros Alt",
+    "name": "Plaça del Tossal",
+    "name:ca": "Plaça del Tossal",
+    "name:es": "Plaza del Tossal",
+    "place": "square",
+    "wikidata": "Q11942047",
+    "wikipedia": "ca:Plaça del Tossal"
+  }
+},
+{
+  "type": "way",
+  "id": 135630267,
+  "center": {
+    "lat": 39.4755689,
+    "lon": -0.3751044
+  },
+  "tags": {
+    "addr:city": "València",
+    "alt_name": "Catedral de Santa María",
+    "alt_name:es": "Catedral de Santa María",
+    "amenity": "place_of_worship",
+    "basilica": "minor",
+    "building": "cathedral",
+    "building:colour": "#cfccb9",
+    "building:material": "sandstone",
+    "denomination": "roman_catholic",
+    "height": "13",
+    "long_name": "Catedral de Santa María de Valencia",
+    "long_name:es": "Catedral de Santa María de Valencia",
+    "name": "Catedral de València",
+    "name:ar": "كاتدرائية بلنسية",
+    "name:ca": "Catedral de València",
+    "name:de": "Kathedrale von Valencia",
+    "name:el": "Καθεδρικός Ναός της Βαλένθιας",
+    "name:en": "Valencia Cathedral",
+    "name:es": "Catedral de Valencia",
+    "name:it": "Cattedrale di Valencia",
+    "name:pt": "Catedral de Valência",
+    "name:ur": "بالنسیا کیتھیڈرل",
+    "religion": "christian",
+    "roof": "yes",
+    "roof:colour": "#c19d86",
+    "roof:shape": "flat",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1466926",
+    "wikipedia": "es:Catedral de Santa María (Valencia)"
+  }
+},
+{
+  "type": "way",
+  "id": 150794807,
+  "center": {
+    "lat": 39.4793327,
+    "lon": -0.3235939
+  },
+  "tags": {
+    "name": "Platja de la Malva-rosa",
+    "name:ca": "Platja de la Malva-rosa",
+    "name:en": "La Malvarrosa Beach",
+    "name:es": "Playa de la Malvarrosa",
+    "natural": "beach",
+    "surface": "sand",
+    "wikidata": "Q3331761",
+    "wikipedia": "es:Playa de la Malvarrosa"
+  }
+},
+{
+  "type": "way",
+  "id": 154012610,
+  "center": {
+    "lat": 39.4736233,
+    "lon": -0.3747379
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "3",
+    "lanes:psv": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "motor_vehicle": "delivery;destination;permit",
+    "name": "Carrer de la Pau",
+    "name:ca": "Carrer de la Pau",
+    "name:es": "Calle de la Paz",
+    "name:etymology:wikidata": "Q649229",
+    "oneway": "yes",
+    "psv": "yes",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "paving_stones",
+    "sidewalk:right": "separate",
+    "smoothness": "good",
+    "surface": "sett",
+    "turn:lanes": "left|right|",
+    "wikidata": "Q649229",
+    "wikipedia": "ca:Carrer de la Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 237114949,
+  "center": {
+    "lat": 39.4985242,
+    "lon": -0.3494881
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 237114950,
+  "center": {
+    "lat": 39.4985067,
+    "lon": -0.3490998
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 447710247,
+  "center": {
+    "lat": 39.4732328,
+    "lon": -0.3727889
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "3",
+    "lanes:psv": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Carrer de la Pau",
+    "name:ca": "Carrer de la Pau",
+    "name:es": "Calle de la Paz",
+    "name:etymology:wikidata": "Q649229",
+    "oneway": "yes",
+    "sidewalk:both": "separate",
+    "surface": "asphalt",
+    "wikidata": "Q649229",
+    "wikipedia": "ca:Carrer de la Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 515256276,
+  "center": {
+    "lat": 39.4664769,
+    "lon": -0.3760775
+  },
+  "tags": {
+    "addr:city": "València",
+    "addr:city:ca": "València",
+    "addr:housenumber": "28",
+    "addr:postcode": "46004",
+    "addr:street": "Carrer de Xàtiva",
+    "leisure": "stadium",
+    "name": "Plaça de Bous de València",
+    "name:ca": "Plaça de Bous de València",
+    "name:en": "Valencia Bullring",
+    "name:es": "Plaza de Toros de Valencia",
+    "name:etymology:wikidata": "Q526528",
+    "name:ru": "Арена для боя быков",
+    "source": "field_work",
+    "sport": "bullfighting",
+    "tourism": "attraction",
+    "website": "http://www.plaçadebous.es/",
+    "wheelchair": "yes",
+    "wikidata": "Q6080287",
+    "wikipedia": "es:Plaza de Toros de Valencia"
+  }
+},
+{
+  "type": "way",
+  "id": 770904165,
+  "center": {
+    "lat": 39.4734837,
+    "lon": -0.3740434
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "3",
+    "lanes:psv": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Carrer de la Pau",
+    "name:ca": "Carrer de la Pau",
+    "name:es": "Calle de la Paz",
+    "name:etymology:wikidata": "Q649229",
+    "old_name": "Carrer del Gall",
+    "oneway": "yes",
+    "sidewalk:both": "separate",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through|",
+    "wikidata": "Q649229",
+    "wikipedia": "ca:Carrer de la Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 770904166,
+  "center": {
+    "lat": 39.4729815,
+    "lon": -0.3715293
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "3",
+    "lanes:psv": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Carrer de la Pau",
+    "name:ca": "Carrer de la Pau",
+    "name:es": "Calle de la Paz",
+    "name:etymology:wikidata": "Q649229",
+    "oneway": "yes",
+    "sidewalk:both": "separate",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through|",
+    "wikidata": "Q649229",
+    "wikipedia": "ca:Carrer de la Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 807732279,
+  "center": {
+    "lat": 39.4792019,
+    "lon": -0.3788416
+  },
+  "tags": {
+    "bicycle": "yes",
+    "emergency": "yes",
+    "highway": "pedestrian",
+    "maxspeed": "walk",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen",
+    "psv": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 807732280,
+  "center": {
+    "lat": 39.4789995,
+    "lon": -0.3784268
+  },
+  "tags": {
+    "bicycle": "yes",
+    "emergency": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen",
+    "psv": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 807732281,
+  "center": {
+    "lat": 39.4790404,
+    "lon": -0.3786890
+  },
+  "tags": {
+    "bicycle": "yes",
+    "emergency": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "motor_vehicle": "permit",
+    "motor_vehicle:conditional": "delivery @ (06:00-10:00)",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen",
+    "psv": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 1246411945,
+  "center": {
+    "lat": 39.4733786,
+    "lon": -0.3735139
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "3",
+    "lanes:psv": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Carrer de la Pau",
+    "name:ca": "Carrer de la Pau",
+    "name:es": "Calle de la Paz",
+    "name:etymology:wikidata": "Q649229",
+    "old_name": "Carrer del Gall",
+    "oneway": "yes",
+    "sidewalk:both": "separate",
+    "surface": "asphalt",
+    "wikidata": "Q649229",
+    "wikipedia": "ca:Carrer de la Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 1423965777,
+  "center": {
+    "lat": 39.4984031,
+    "lon": -0.3491923
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 1423965778,
+  "center": {
+    "lat": 39.4984508,
+    "lon": -0.3489642
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 1423965779,
+  "center": {
+    "lat": 39.4986114,
+    "lon": -0.3490279
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen"
+  }
+},
+{
+  "type": "relation",
+  "id": 11141679,
+  "center": {
+    "lat": 39.4791270,
+    "lon": -0.3785589
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "pedestrian",
+    "name": "Plaça del Carme",
+    "name:ca": "Plaça del Carme",
+    "name:es": "Plaza del Carmen",
+    "place": "square",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14235298,
+  "center": {
+    "lat": 39.4519369,
+    "lon": -0.3473801
+  },
+  "tags": {
+    "name": "L'Oceanogràfic",
+    "name:ca": "L'Oceanogràfic",
+    "public_transport": "stop_area",
+    "type": "public_transport"
+  }
+},
+{
+  "type": "relation",
+  "id": 14693200,
+  "center": {
+    "lat": 39.4556333,
+    "lon": -0.3518224
+  },
+  "tags": {
+    "building": "roof;yes",
+    "designation": "Museo De Las Artes y Las Ciencias \"Principe Felipe\"",
+    "layer": "1",
+    "name": "Museu de les Ciències «Príncep Felip»",
+    "name:ca": "Museu de les Ciències «Príncep Felip»",
+    "name:en": "Príncipe Felipe Science Museum",
+    "name:es": "Museo de las Ciencias «Príncipe Felipe»",
+    "name:etymology:wikidata": "Q939288",
+    "name:it": "Museo delle scienze \"Principe Felipe\"",
+    "name:ru": "Музей наук принца Фелипе",
+    "opening_hours": "10:00-18:00; Jan 08-Mar 28,Oct 15-Dec 05,Dec 10-Dec 23: Fr-Su 10:00-19:00; Jan 02-Jan 07,Mar 29-Jun 29,Sep 10-Oct 14,Dec 06-09,Dec 26-Dec 30: 10:00-19:00; Jun 30-Sep 09: 10:00-21:00; Jan 01: 16:00-20:00; Dec 24: 10:00-14:00; Dec 25: 17:00-21:00",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q939288",
+    "wikipedia": "ca:Museu de les Ciències Príncep Felip"
+  }
+}
+
+  ]
+}

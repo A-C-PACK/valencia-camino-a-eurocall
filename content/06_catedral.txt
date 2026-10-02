@@ -1,0 +1,83 @@
+@id catedral
+@name Catedral y Miguelete
+@short Catedral
+@zone Ciutat Vella · plaza de la Reina
+@geo 39.47557 -0.37510 centre r
+@route Desde la horchatería: tres minutos a pie.
+@blurb La catedral, la torre del Miguelete y, a cinco minutos, la Lonja de la Seda. Lucía hace una visita guiada por el centro histórico.
+@goal Comprar entradas, seguir una explicación en pasado y hacer preguntas a una guía.
+
+== visita | La visita guiada ==
+N: En la plaza de la Reina hay un grupo pequeño alrededor de una guía con un paraguas rojo.
+LUCIA: ¡Hola a todos! Yo soy Lucía. La visita dura una hora y media y cuesta doce euros. ¿{{Te apuntas|are you joining? / do you want to sign up? (tú)}}?
+C: Te interesa. ¿Qué dices?
+  * Sí, {{me apunto|I'm in, count me in}}. ¿Puedo pagar ahora? || «Apuntarse» es unirse a un plan. Lo vas a oír mucho: «¿te apuntas?» — «¡me apunto!».
+  ~ Sí, quiero ir. Una entrada, por favor. || Correcto. «Me apunto» es la respuesta más natural a «¿te apuntas?».
+  - Sí, yo apunto. || Falta el pronombre: «me apunto». Sin «me», «apuntar» significa escribir o señalar.
+LUCIA*: ¡Genial! Pues empezamos. Esta catedral se empezó a construir en el siglo trece, sobre una antigua mezquita. Por eso tiene tres puertas de tres estilos distintos: una románica, una gótica y una barroca.
+Q: ¿Qué había aquí antes de la catedral?
+  * Una mezquita. || Valencia fue una ciudad musulmana durante cinco siglos, hasta 1238.
+  - Un mercado. || No: había una mezquita.
+  - Tres iglesias pequeñas. || Lo que hay son tres puertas de tres estilos.
+LUCIA*: La torre se llama el Miguelete. Tiene doscientos siete escalones y no hay ascensor. Pero {{vale la pena|it's worth it}}: desde arriba se ve toda la ciudad, la huerta y, los días claros, el mar.
+Q: ¿Cuántos escalones tiene el Miguelete?
+  * 207 || Doscientos siete. Y hay que subirlos todos a pie.
+  - 270 || Casi: «doscientos siete», no «doscientos setenta».
+  - 107 || Son más: «doscientos», no «cien».
+T: Pregunta si se puede subir a la torre.
+  = ¿Se puede subir a la torre?
+  = ¿Se puede subir?
+  = ¿Se puede subir al Miguelete?
+  = ¿Podemos subir a la torre?
+  = ¿Puedo subir a la torre?
+  = Perdona, ¿se puede subir a la torre?
+  ! Para preguntar si algo está permitido: «¿{{Se puede|is it possible to / can one}}…?» + infinitivo.
+LUCIA: Sí, claro. La entrada a la torre cuesta dos euros y medio y {se paga aparte|is paid for separately}. Eso sí, arriba hace bastante viento.
+LUCIA*: Y una curiosidad: todos los jueves, a las doce, se reúne en esta puerta el Tribunal de las Aguas. Es un tribunal de agricultores que resuelve los problemas del riego desde hace más de mil años. Todo se hace hablando, en valenciano, y sin papeles.
+Q: ¿Qué es el Tribunal de las Aguas?
+  * Un tribunal de agricultores que se reúne los jueves a las doce. || Es Patrimonio Inmaterial de la Humanidad. Si estás en Valencia un jueves, merece la pena verlo.
+  - Una fuente muy antigua de la plaza. || No es una fuente: es un tribunal.
+  - Un museo sobre el agua. || No es un museo. Se reúne en la calle, delante de la puerta de la catedral.
+C: Quieres hacer una foto del grupo con la catedral. ¿Cómo se lo pides a Lucía?
+  * ¿{{Nos haces una foto|will you take a photo of us? (tú)}}, por favor? || En español las fotos se «hacen» (en América también se «toman» o se «sacan»).
+  ~ ¿Puedes tomar una foto? || Se entiende perfectamente. En España es más común «hacer una foto».
+  - ¿Nos haces una pintura? || Una pintura es un cuadro. Lo que hace el móvil es una foto.
+LUCIA: ¡Claro! A ver, {juntaos|get closer together (vosotros command)} un poco… ¡Decid «pa-ta-ta»!
+K: El «se» impersonal || «Se puede subir», «se paga aparte», «se empezó a construir». En las explicaciones y en los carteles se usa mucho «se» + verbo cuando no importa quién hace la acción: «se habla español», «no se puede fumar», «se alquilan bicis».
+
+== lonja | La Lonja y las Fallas ==
+N: El grupo camina cinco minutos hasta un edificio gótico delante del Mercado Central.
+LUCIA*: Esto es la Lonja de la Seda. Aquí, en el siglo quince, los comerciantes compraban y vendían seda. Valencia era entonces una de las ciudades más ricas del Mediterráneo. Desde mil novecientos noventa y seis es Patrimonio de la Humanidad.
+Q: ¿Para qué servía la Lonja?
+  * Para comprar y vender seda. || «Compraban y vendían»: imperfecto, porque era algo habitual en esa época.
+  - Para guardar el agua de la ciudad. || No: era un lugar de comercio.
+  - Era la casa del rey. || No: era el lugar de los comerciantes.
+C: Lucía habla rápido y te has perdido una palabra: «seda». ¿Qué preguntas?
+  * Perdona, ¿{{qué significa|what does ... mean?}} «seda»? || La pregunta más importante para aprender. También: «¿qué quiere decir…?».
+  ~ ¿Qué es «seda»? || Sirve. «¿Qué significa…?» es más precisa cuando preguntas por una palabra.
+  - ¿Qué significas «seda»? || El sujeto es la palabra, no Lucía: «¿qué significa?».
+LUCIA: La seda es una tela muy fina y muy cara. La hacen unos gusanos. Los vestidos de las falleras, por ejemplo, son de seda.
+T: No sabes qué son las Fallas. Pregúntalo.
+  = ¿Qué son las Fallas?
+  = Perdona, ¿qué son las Fallas?
+  = ¿Y qué son las Fallas?
+  = ¿Las Fallas qué son?
+  = ¿Qué significa Fallas?
+  ! «¿Qué son…?»
+LUCIA*: ¡Las Fallas son la gran fiesta de Valencia! Se celebran en marzo. Durante un año, los artistas construyen unas esculturas enormes de cartón y madera, y la noche del diecinueve de marzo las quemamos todas. Bueno, todo menos una figura, que se salva y va al museo.
+Q: ¿Qué pasa con las esculturas la noche del 19 de marzo?
+  * Se queman; solo una figura se salva. || Esa noche se llama «la Cremà». Cada escultura se llama «falla» y cada figura, «ninot».
+  - Se llevan todas a un museo. || Solo una figura va al museo: el «ninot indultat».
+  - Se venden a los turistas. || No: se queman.
+LUCIA: Y todos los días de Fallas, a las dos de la tarde, hay una {{mascletà|a daytime firecracker display (Valencian)}} en la plaza del Ayuntamiento: cinco minutos de petardos. No es para ver, es para oír. ¡Tiembla el suelo!
+T: Te parece increíble. Dile que te gustaría verlo.
+  = Me gustaría verlo.
+  = Me gustaría mucho verlo.
+  = ¡Me gustaría verlo!
+  = Me gustaría verla.
+  = Me gustaría ver las Fallas.
+  = Me encantaría verlo.
+  = Me gustaría ver eso.
+  ! Condicional de «gustar»: «{{Me gustaría|I would like}}…» + infinitivo.
+LUCIA: Pues tienes que volver en marzo. Bueno, {chicos|guys}, aquí termina la visita. ¡Muchas gracias a todos y que disfrutéis de Valencia!
+K: Imperfecto para describir el pasado || Cuando Lucía describe cómo era la vida antes, usa el imperfecto: «los comerciantes compraban y vendían», «Valencia era una ciudad rica». Para un hecho concreto con fecha, usa el indefinido: «se empezó a construir en el siglo trece».

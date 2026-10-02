@@ -1,0 +1,96 @@
+@id mercado
+@name Mercado Central
+@zone Ciutat Vella
+@geo 39.4735 -0.3789 centre l
+@route Desde el hotel: unos ocho minutos a pie.
+@blurb Uno de los mercados de alimentos frescos más grandes de Europa, en un edificio modernista de 1928. Abre por las mañanas, de lunes a sábado.
+@goal Pedir fruta por peso, preguntar precios y entender los números.
+
+== fruta | En el puesto de fruta ==
+N: Son las diez de la mañana. El mercado está lleno de gente y de colores. Hay varias personas esperando en un puesto de fruta.
+C: No hay cola, pero hay gente esperando. ¿Qué preguntas antes de pedir?
+  * ¿{{Quién es el último|who's last? (how you find your place in the queue)}}? || Así se hace en España: preguntas quién es el último y ya sabes cuándo te toca.
+  ~ Perdón, ¿hay cola? || Se entiende, pero la pregunta que todos esperan es «¿quién es el último?».
+  - ¿Dónde está la línea? || «Línea» no es una fila de personas. Se dice «cola», y la pregunta habitual es «¿quién es el último?».
+AMPARO: ¡{A ver|let's see}, guapo, {{te toca|it's your turn}}! ¿{{Qué te pongo|what can I get you? (lit. what do I put for you)}}?
+C: Quieres naranjas. ¿Cómo las pides?
+  * {{Me pones|can I have (lit. you put me); the normal way to order in Spain}} un kilo de naranjas, por favor. || En tiendas y bares de España se pide así, con «me pones». No es maleducado: es lo normal.
+  ~ Quería un kilo de naranjas, por favor. || Muy correcta y amable. «Me pones…» es más de mercado, más de tú.
+  - Puedo tener un kilo de naranjas. || Es una traducción del inglés. En español no se pide con «puedo tener».
+AMPARO*: Muy bien. Estas son de zumo y estas son de mesa. Las de mesa son más dulces, pero las de zumo están a uno ochenta el kilo y las de mesa a dos con cincuenta.
+Q: ¿Cuánto cuesta el kilo de naranjas de mesa?
+  * Dos euros con cincuenta. || «A dos con cincuenta»: dos euros y cincuenta céntimos.
+  - Un euro con ochenta. || Ese es el precio de las de zumo.
+  - Dos euros con quince. || Escucha otra vez: «cincuenta», no «quince».
+T: Quieres las de mesa, pero solo medio kilo. Díselo.
+  = Medio kilo de las de mesa, por favor.
+  = Me pones medio kilo de las de mesa.
+  = Me pones medio kilo de las de mesa, por favor.
+  = Las de mesa. Medio kilo, por favor.
+  = Medio kilo de las de mesa.
+  = Quería medio kilo de las de mesa.
+  = Quería medio kilo de las de mesa, por favor.
+  ! «{{Medio kilo|half a kilo}} de las de mesa…»
+AMPARO: Medio kilo. Toma, {pruébala|try it (tú command + it)}, ya verás qué dulce. ¿{{Algo más|anything else?}}, cariño?
+C: También quieres tomates, pero no sabes el precio. Pregunta.
+  * ¿{{A cuánto están|how much are they (today)? (for prices that change)}} los tomates? || Para precios que cambian cada día (fruta, pescado) se usa «¿a cuánto está…?».
+  ~ ¿Cuánto cuestan los tomates? || Totalmente correcta. En un mercado vas a oír mucho «¿a cuánto están?».
+  - ¿Cuánto es los tomates? || «Los tomates» es plural: «¿cuánto cuestan?» o «¿a cuánto están?».
+AMPARO: A tres euros el kilo. Son de El Perelló, {buenísimos|really good (-ísimo = very)}. ¿Te pongo un kilo?
+T: Es mucho para ti. Pide solo cuatro tomates.
+  = No, solo cuatro tomates.
+  = No, solo cuatro, por favor.
+  = No, cuatro tomates, por favor.
+  = Solo cuatro tomates, por favor.
+  = No, ponme solo cuatro.
+  = No, me pones solo cuatro.
+  = No, solo cuatro.
+  ! «No, {solo|only}…» + número.
+AMPARO*: Venga, cuatro tomates. Pues mira: las naranjas, uno con veinticinco, y los tomates, uno con sesenta. Son dos con ochenta y cinco en total.
+Q: ¿Cuánto tienes que pagar?
+  * 2,85 €. || Dos con ochenta y cinco.
+  - 2,25 €. || Suma otra vez: 1,25 + 1,60.
+  - 1,60 €. || Eso son solo los tomates.
+K: Pedir sin «por favor» en cada frase || En los mercados y bares de España la gente es directa: «me pones», «ponme», «dame». La amabilidad está en el tono, en el saludo y en palabras como «guapo», «cariño» o «reina», que las vendedoras usan con todo el mundo. No es una falta de respeto: es cercanía.
+
+== preguntar | ¿Y esto qué es? ==
+N: Amparo te prepara la bolsa. En el puesto hay unas cosas pequeñas y marrones que no conoces.
+T: Señala las cosas marrones y pregunta qué son.
+  = ¿Qué es esto?
+  = ¿Esto qué es?
+  = Perdona, ¿qué es esto?
+  = ¿Y esto qué es?
+  = ¿Qué son estos?
+  = ¿Qué son estas?
+  ! Cuando no sabes el nombre de algo: «¿Qué es…?» + «esto».
+AMPARO*: ¿Eso? Eso son chufas, hijo. Es un {tubérculo|tuber} pequeñito que se cultiva aquí al lado, en Alboraya. Con las chufas se hace la horchata. Aquí la tomamos muy fría, en verano, con fartons.
+Q: ¿Para qué sirven las chufas?
+  * Para hacer horchata. || Sí. La horchata valenciana es de chufa, no de arroz como la mexicana.
+  - Para hacer paella. || No: con chufas se hace una bebida.
+  - Para hacer zumo de naranja. || El zumo se hace con naranjas, claro.
+C: Nunca has probado la horchata. ¿Cómo le preguntas dónde tomarla?
+  * ¿{{Dónde puedo probar|where can I try}} una buena horchata? || «¿Dónde puedo…?» + infinitivo: la pregunta perfecta del viajero.
+  ~ ¿Dónde hay horchata? || Funciona. Con «¿dónde puedo probar…?» practicas una estructura que vas a usar mucho.
+  - ¿Dónde puedo probando horchata? || Después de «poder» va el infinitivo: «puedo probar».
+AMPARO: Uy, pues aquí mismo, detrás del mercado, en la plaza de Santa Catalina. Hay una horchatería {de toda la vida|that has been there forever, traditional}. Dile a Vicent que vas de parte de Amparo.
+T: Pregunta si tiene una bolsa.
+  = ¿Tienes una bolsa?
+  = ¿Tienes una bolsa, por favor?
+  = ¿Me das una bolsa?
+  = ¿Me das una bolsa, por favor?
+  = ¿Me pones una bolsa?
+  = ¿Tiene una bolsa?
+  = ¿Me puedes dar una bolsa?
+  ! Ella te habla de tú. «¿Tienes una…?»
+AMPARO: Claro que sí. Toma. Son dos con ochenta y cinco.
+C: Solo tienes un billete de veinte euros. ¿Qué dices al pagar?
+  * Toma. Lo siento, {{no tengo suelto|I don't have change (small coins)}}. || «Suelto» son monedas o billetes pequeños. En los puestos lo agradecen si avisas.
+  ~ Toma, veinte euros. || Correcto. Si añades «no tengo suelto», quedas muy bien.
+  - Toma. No tengo cambios pequeños. || No se dice así. La palabra es «suelto»: «no tengo suelto».
+AMPARO*: No pasa nada, cariño. Diecisiete con quince de vuelta. Y acuérdate: el mercado cierra a las tres y los domingos no abrimos.
+Q: ¿Cuándo está cerrado el mercado?
+  * Por las tardes, a partir de las tres, y los domingos. || Es un mercado de mañana. Si quieres verlo, ven antes de comer.
+  - Los lunes por la mañana. || Abre de lunes a sábado.
+  - Solo en verano. || No dice eso: cierra a las tres y los domingos.
+AMPARO: ¡Venga, {{hasta luego|see you, bye (the everyday goodbye)}}, guapo! ¡Que vaya bien!
+K: «Hasta luego» || En España «hasta luego» es la despedida más común, aunque no vayas a ver a esa persona nunca más. También vas a oír «venga», «venga, hasta luego» y, en Valencia, «adéu».

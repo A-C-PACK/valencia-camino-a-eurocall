@@ -1,0 +1,406 @@
+# word|gloss   ("-" = no gloss needed)
+a|to, at
+abajo|down, below
+abierta|open
+abre|opens (abrir)
+abrimos|we open (abrir)
+abrir|to open
+abuela|grandmother
+acabas|you have just (acabar de + infinitive)
+acción|action
+acentos|accents, stressed beats
+aceptan|they accept (aceptar)
+aceptar|to accept
+aceptas|you accept (aceptar)
+acerca|comes over, approaches (acercarse)
+acerque|bring (it) close (usted command of acercar)
+acondicionado|conditioned (aire acondicionado = air conditioning)
+aconsejan|they give advice (aconsejar)
+acordar|to agree, arrange
+acreditaciones|conference badges
+acreditación|conference badge, accreditation
+actos|events (salón de actos = auditorium)
+acuario|aquarium
+acuerda|remembers (acordarse de)
+acuérdate|remember (tú command of acordarse)
+además|besides, also
+adentro|inside
+adiós|goodbye
+adjetivo|adjective
+adéu|goodbye (Valencian)
+adónde|where to
+aeropuerto|airport
+aeropuertos|airports
+afina|is being tuned (afinar)
+agotado|exhausted
+agradecen|they appreciate (agradecer)
+agricultores|farmers
+agua|water
+aguas|waters
+ah|ah
+ahora|now
+ahí|there
+aire|air; air conditioning
+al|to the, at the (a + el)
+alargados|long, elongated
+alboraya|-
+albufera|-
+alegro|I'm glad (alegrarse)
+alegrías|a lively flamenco style
+alergia|allergy
+algo|something
+alguien|someone
+algunos|some
+algún|some, any
+aliento|breath (sin aliento = out of breath)
+alimentos|food, foodstuffs
+allí|there
+almendra|almond
+alquilan|are rented (alquilar)
+alquilar|to rent, hire
+alquilas|you rent (alquilar)
+alquiler|rental
+alrededor|around
+alubia|bean
+alérgico|allergic
+amabilidad|kindness, politeness
+amable|kind, polite
+amarillos|yellow
+amiga|friend (female)
+amigos|friends
+amparo|-
+ampolla|blister
+ampollas|blisters
+américa|the Americas, Latin America
+anda|wow!, well I never! (expression of surprise)
+andaluces|Andalusian (plural)
+andalucía|Andalusia (southern Spain)
+andaluz|Andalusian
+andaluza|Andalusian
+andén|platform
+animar|to cheer on, encourage
+antes|before
+antigua|old, former
+antiguas|old
+antiguo|old, former
+apagan|go out, are switched off (apagar)
+aparato|device, appliance
+aparcabicis|bike racks
+aparte|separately
+apetece|appeals (¿te apetece? = do you feel like it?)
+apetecer|to appeal, to feel like
+apetecido|(not a real expression here)
+aplaudir|to clap, applaud
+aplausos|applause
+aplicada|applied
+apoya|leans (apoyarse)
+apreciada|prized, valued
+aprende|learns, is learning (aprender)
+aprender|to learn
+apuntar|to write down; apuntarse = to sign up, join in
+apuntarse|to sign up, to join in
+apuntas|you sign up (apuntarse)
+apunto|I sign up; I put (you) down (apuntar)
+apuntó|put (us) down (apuntar, preterite)
+aquí|here
+arriba|up, at the top
+arroces|rice dishes
+arroz|rice
+arsa|a flamenco shout of encouragement
+artes|arts
+artificial|artificial
+artista|artist, performer
+artistas|artists, performers
+arts|-
+artículo|article (el, la, un, una)
+asado|roasted
+ascensor|lift, elevator
+así|like this, this way; así que = so
+atasco|traffic jam
+atención|attention
+aterrizar|to land
+aula|classroom, lecture room
+aunque|although, even if
+austin|-
+autobús|bus
+autopista|motorway, highway
+auténtica|authentic, real
+avenida|avenue
+avisas|you let (them) know (avisar)
+avisos|announcements
+avión|plane
+ay|oh!, ouch!
+ayer|yesterday
+ayuda|helps; help
+ayuntamiento|town hall
+azul|blue
+azulejos|glazed tiles
+azules|blue
+azúcar|sugar
+añade|add (tú command of añadir)
+añades|you add (añadir)
+año|year
+años|years
+b|-
+bacalao|cod
+baila|dances (bailar)
+bailador|dancer (general word; flamenco uses bailaor)
+bailaor|flamenco dancer (male)
+bailar|to dance
+bailarín|dancer
+baile|dance, dancing
+baja|go down (tú command of bajar)
+bajar|to go down; to get off (a train, bus)
+bajas|you go down; you get off (bajar)
+baje|get off (usted command of bajar)
+bajo|I get off (bajar)
+baldosas|floor tiles
+banco|bank
+band-aids|-
+banda|arroz a banda = rice cooked in fish stock
+bandas|bands (of musicians)
+bar|bar, café
+barata|cheap
+barato|cheap
+bares|bars
+barra|bar counter
+barril|barrel (cerveza de barril = draught beer)
+barrio|neighbourhood
+barroca|baroque
+bastante|enough; quite
+bata|white coat, lab coat
+beba|drink (usted command of beber)
+beber|to drink
+bebida|drink
+bebidas|drinks
+benimaclet|-
+bici|bike
+bicicleta|bicycle
+bicicletas|bicycles
+bicis|bikes
+bien|well, fine, good
+bienvenido|welcome
+billete|ticket; banknote
+billetes|tickets; banknotes
+blanca|white
+blanco|white; white wine
+blancos|white
+bobal|a red grape variety from Utiel-Requena
+bocadillo|sandwich (in a baguette)
+bollos|buns, pastries
+bolsa|bag
+bombillas|light bulbs
+bon|good (Valencian; bon dia = good morning)
+bonita|pretty, nice
+bonito|lovely, nice
+botella|bottle
+bottle|-
+botón|button
+bravas|patatas bravas: fried potatoes with spicy sauce
+brisa|breeze
+brusco|abrupt, brusque
+buen|good
+buena|good
+buenas|good (buenas tardes); buenas = hi
+bueno|good; well...
+buenos|good
+buenísima|really good
+bulerías|a fast, festive flamenco style
+busca|look for (tú command of buscar)
+buscas|you are looking for (buscar)
+básicos|basic
+búscanos|look for us (tú command)
+cabeza|head
+cada|each, every
+cae|falls (caer)
+caen|fall (caer)
+cafetería|café, cafeteria
+café|coffee
+caiga|falls off (caer, subjunctive)
+calatrava|-
+caliente|hot
+calle|street
+calles|streets
+calor|heat (hace calor = it's hot)
+camarera|waitress
+camarero|waiter
+camareros|waiters
+cambia|switch (tú command of cambiar)
+cambian|they change (cambiar)
+cambiar|to change
+cambiarla|to change it
+cambias|you change (cambiar)
+cambio|change (money back); I change
+cambios|changes
+camina|walks (caminar)
+caminado|walked (caminar)
+camino|way, route
+camiseta|T-shirt
+campo|countryside
+campus|campus
+candado|padlock, bike lock
+cansado|tired
+cansar|to tire, to wear out
+canta|sings; se canta = there is singing
+cantante|singer (general word; flamenco uses cantaor)
+cantaor|flamenco singer
+cante|flamenco singing
+cara|expensive
+caracoles|snails
+cariño|dear, love (affectionate way to address someone)
+carmen|-
+carne|meat
+carné|ID card
+carrer|street (Valencian)
+carretera|road
+carril|lane (carril bici = cycle lane)
+carta|menu
+carteles|signs, notices
+cartón|cardboard
+casa|house; la casa = the establishment
+casco|helmet
+casi|almost
+castellano|Castilian, i.e. Spanish
+catalina|-
+catedral|cathedral
+cauce|riverbed
+causa|cause
+caña|small draught beer
+celebran|are held, are celebrated (celebrar)
+cena|dinner
+cenar|to have dinner
+central|central
+centro|centre, city centre
+cerca|near, nearby
+cercanía|closeness, warmth
+cerrado|closed
+cerveza|beer
+charlar|to chat
+cheque|cheque (bank document)
+chorizo|chorizo (spicy sausage)
+chufa|tiger nut
+chufas|tiger nuts
+chupar|to suck (pastillas de chupar = lozenges)
+cielo|sky
+cien|a hundred
+ciencias|sciences
+ciento|a hundred (ciento cincuenta = 150); por ciento = per cent
+cierra|closes (cerrar)
+cinco|five
+cincuenta|fifty
+cine|cinema
+circula|is running (circular)
+cita|date, appointment
+citarse|to arrange to meet
+ciudad|city
+ciudades|cities
+clara|clear
+claro|of course; clear
+claros|clear
+clase|class
+clave|key (frase clave = key phrase)
+clásica|classic
+clóchinas|small Valencian mussels
+cobra|charges (cobrar)
+coches|cars
+cocinaba|used to cook (cocinar, imperfect)
+coger|to take, to catch (transport)
+coges|you take, catch (coger)
+coja|take (usted command of coger)
+cola|queue, line
+colegas|colleagues
+colgando|hanging
+colores|colours
+come|is eaten; eats (comer)
+comen|are eaten; they eat (comer)
+comer|to eat; to have lunch
+comerciantes|merchants, traders
+comercio|trade
+comida|food; lunch
+comido|eaten (comer)
+comimos|we ate (comer, preterite)
+comiste|you ate (comer, preterite)
+como|like, as
+compara|compare (tú command)
+comparte|is shared (compartir)
+comparten|are shared (compartir)
+compartir|to share
+completa|complete
+completo|complete
+compraban|used to buy (comprar, imperfect)
+comprar|to buy
+compás|the rhythmic cycle of a flamenco style
+coméis|you (plural) eat (comer)
+comí|I ate (comer, preterite)
+comía|used to eat (comer, imperfect)
+común|common
+con|with
+concreta|specific
+concreto|specific
+condicional|conditional (tense)
+condiciones|conditions, terms
+condición|condition
+conejo|rabbit
+confirmar|to confirm, check
+congreso|conference
+conocer|to meet; to know (a person, place)
+conoces|you know, are familiar with (conocer)
+consejo|piece of advice
+construir|to build
+construyen|they build (construir)
+consumición|a drink (included in the entry price)
+contar|to tell
+contrario|opposite (al contrario = on the contrary)
+contraseña|password
+conversación|conversation
+conviene|suits, is the better deal (convenir)
+copa|(wine) glass
+copas|(wine) glasses
+corazón|heart
+correcta|correct
+correcto|correct
+correspondencia|connection, interchange (transport)
+corrige|corrects (corregir)
+corta|short
+corto|short
+cosa|thing
+cosas|things
+costumbres|habits, customs
+crema|cream; sunscreen
+cremà|the burning of the fallas on 19 March (Valencian)
+creo|I think, I believe (creer)
+croquetas|croquettes
+cruz|cross
+cruza|crosses (cruzar)
+cruzar|to cross
+cuadro|painting, picture
+cualquier|any
+cualquiera|either, any one
+cuando|when
+cuarenta|forty
+cuarto|quarter
+cuatro|four
+cuatrocientos|four hundred
+cubiertas|covered
+cuenta|bill; tells (contar)
+cuerpo|body
+cuesta|costs (costar)
+cuestan|cost (costar)
+cuidado|care (ten cuidado = be careful)
+cultiva|is grown (cultivar)
+cultura|culture
+curado|cured, mature (cheese)
+curiosidad|interesting fact
+cuál|which, what
+cuándo|when
+cuántas|how many
+cuánto|how much
+cuántos|how many
+cuéntame|tell me (tú command of contar)
+cálido|warm
+céntimos|cents
+cómo|how; ¿cómo? = pardon?
+cómodos|comfortable
+aterriza|lands (aterrizar)
+ensanche|the Eixample: the 19th-century grid district beside the old town
+oeste|west

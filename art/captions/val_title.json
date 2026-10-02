@@ -1,0 +1,86 @@
+{
+  "high_level_description": "A tall travel-poster view of Valencia's old town at golden hour, with the octagonal Miguelete bell tower rising over terracotta rooftops, orange trees in the foreground and swifts in a wide warm sky.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A wide glowing sky fading from pale gold near the rooftops to soft teal at the top, above a sea of terracotta roofs and pale stone facades.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          180,
+          380,
+          720,
+          640
+        ],
+        "desc": "The Miguelete, a tall octagonal Gothic stone bell tower with a small belfry on top, pale honey stone lit warmly from the left.",
+        "color_palette": [
+          "#E9D3A1",
+          "#D9622B",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          560,
+          0,
+          820,
+          1000
+        ],
+        "desc": "Layered terracotta rooftops and a blue-tiled church dome among pale plastered buildings with small balconies.",
+        "color_palette": [
+          "#D9622B",
+          "#2E6F8E",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Foreground orange trees with dark glossy leaves and bright round oranges, framing the bottom of the picture.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E8A33D",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          100,
+          300,
+          900
+        ],
+        "desc": "A few small dark swifts wheeling in the open sky.",
+        "color_palette": [
+          "#1F3A4D"
+        ]
+      }
+    ]
+  }
+}

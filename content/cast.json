@@ -1,0 +1,123 @@
+{
+  "YO": {
+    "name": "Tú",
+    "role": "",
+    "color": "#2E6F8E",
+    "voice": "a Spanish man in his late 30s from Valencia, clear, friendly and calm, native Peninsular Spanish speaker with Castilian pronunciation, moderate unhurried pace, absolutely no foreign accent",
+    "ref": "Hola, buenas tardes. Tengo una reserva a mi nombre para cinco noches. ¿Me puede ayudar, por favor?"
+  },
+  "RAMON": {
+    "name": "Don Ramón",
+    "role": "taxista",
+    "color": "#8A5A2B",
+    "voice": "an older Spanish man from Valencia, around 70, a weathered taxi driver with a deep rough gravelly voice, blunt and good-humoured, strong native Castilian accent, unhurried and gruff",
+    "seed": 1725377528,
+    "ref": "De verdad. Pero escucha, yo conozco esta ciudad como la palma de mi mano. Treinta años conduciendo el taxi. Me llamo Ramón."
+  },
+  "PABLO": {
+    "name": "Pablo",
+    "role": "recepcionista",
+    "color": "#4F6D7A",
+    "voice": "a Spanish man in his late 20s, a polite and attentive hotel receptionist, smooth pleasant voice, native Peninsular Spanish speaker with Castilian pronunciation, clear professional pace, absolutely no foreign accent",
+    "ref": "Buenas tardes y bienvenido al hotel. ¿Tiene usted una reserva? Si me deja su pasaporte, lo compruebo ahora mismo."
+  },
+  "NURIA": {
+    "name": "Nuria",
+    "role": "empleada del metro",
+    "color": "#B8402A",
+    "voice": "a Spanish woman in her 40s from Valencia, a brisk helpful public transport employee, bright practical voice, native Peninsular Spanish speaker with Castilian pronunciation, fairly quick natural pace, absolutely no foreign accent",
+    "ref": "Buenos días. Para ir al centro tiene que coger la línea tres o la cinco. Son unos veinticinco minutos, más o menos."
+  },
+  "MEGAFONIA": {
+    "name": "Megafonía",
+    "role": "aviso de la estación",
+    "color": "#6B6B6B",
+    "voice": "a calm, clear Spanish woman reading public transport announcements over a station loudspeaker, neutral and measured, native Peninsular Spanish speaker with Castilian pronunciation, slow even pace, absolutely no foreign accent",
+    "ref": "Atención, por favor. Próxima parada: Xàtiva. Correspondencia con las líneas tres, cinco y nueve. Cuidado con el hueco entre el tren y el andén."
+  },
+  "AMPARO": {
+    "name": "Amparo",
+    "role": "frutera",
+    "color": "#D9622B",
+    "voice": "a Spanish woman in her early 50s from Valencia, warm, direct and lively, native Castilian pronunciation, speaks at a natural conversational pace",
+    "ref": "¡Buenos días, guapo! Mira qué naranjas tengo hoy, recién cogidas, dulces como la miel. ¿Qué te pongo, cariño?",
+    "seed": 1664461607
+  },
+  "VICENT": {
+    "name": "Vicent",
+    "role": "camarero",
+    "color": "#3F7D4E",
+    "voice": "a kindly Spanish waiter in his 50s from Valencia, gentle patient baritone voice, proud of local tradition, native Peninsular Spanish speaker with Castilian pronunciation, relaxed unhurried pace, absolutely no foreign accent",
+    "ref": "Buenas tardes, señor. Aquí hacemos la horchata como se ha hecho toda la vida, con chufa de Alboraya. ¿La quiere líquida o granizada?"
+  },
+  "LUCIA": {
+    "name": "Lucía",
+    "role": "guía turística",
+    "color": "#C2477A",
+    "voice": "an enthusiastic Spanish woman in her late 20s, a tour guide with a bright clear expressive voice, native Peninsular Spanish speaker with Castilian pronunciation, articulate and well paced, absolutely no foreign accent",
+    "ref": "¡Bienvenidos a la plaza de la Reina! Yo soy Lucía y hoy vamos a descubrir juntos los secretos del centro histórico de Valencia."
+  },
+  "PILAR": {
+    "name": "Pilar",
+    "role": "farmacéutica",
+    "color": "#3F8F7A",
+    "voice": "a calm reassuring Spanish pharmacist woman in her 40s, soft professional voice, native Peninsular Spanish speaker with Castilian pronunciation, careful measured pace, absolutely no foreign accent",
+    "ref": "Buenos días. Dígame, ¿qué le pasa? ¿Desde cuándo tiene usted esos síntomas? No se preocupe, seguro que no es nada grave."
+  },
+  "MARTA": {
+    "name": "Marta",
+    "role": "camarera",
+    "color": "#2E86AB",
+    "voice": "a quick friendly Spanish waitress in her 30s from Valencia, energetic cheerful voice, native Peninsular Spanish speaker with Castilian pronunciation, fast natural conversational pace, absolutely no foreign accent",
+    "ref": "¡Hola, buenas! ¿Mesa para dos? Tenéis suerte, me queda una en la terraza con vistas al mar. Venid por aquí."
+  },
+  "SERGIO": {
+    "name": "Sergio",
+    "role": "alquiler de bicis",
+    "color": "#6A8D3A",
+    "voice": "a relaxed easy-going Spanish man around 30 from Valencia, friendly casual voice, native Peninsular Spanish speaker with Castilian pronunciation, laid-back conversational pace, absolutely no foreign accent",
+    "ref": "¡Buenas! ¿Quieres alquilar una bici? Es la mejor manera de ver Valencia, te lo digo yo. Todo es llano y hay carril bici por todas partes."
+  },
+  "AITANA": {
+    "name": "Aitana",
+    "role": "voluntaria del congreso",
+    "color": "#7A5AA8",
+    "voice": "a cheerful Spanish university student woman in her early 20s from Valencia, clear bright articulate voice with crisp diction, native Peninsular Spanish speaker with Castilian pronunciation, moderate unhurried pace, absolutely no foreign accent",
+    "ref": "¡Hola, bienvenido al congreso! Soy Aitana, una de las voluntarias. ¿Me dices tu apellido y te busco la acreditación?"
+  },
+  "JORDI": {
+    "name": "Jordi",
+    "role": "profesor de la universidad",
+    "color": "#37506B",
+    "voice": "a cordial Spanish university professor in his 50s from Valencia, warm thoughtful educated voice, native Peninsular Spanish speaker with Castilian pronunciation, calm articulate pace, absolutely no foreign accent",
+    "ref": "Encantado de conocerte. Yo soy Jordi, trabajo aquí en la universidad, en el departamento de lingüística aplicada. ¿Y tú de dónde vienes?"
+  },
+  "ELENA": {
+    "name": "Elena",
+    "role": "dueña del bar",
+    "color": "#A23B5A",
+    "voice": "a Spanish woman in her mid 30s from Valencia, warm, direct and lively, native Castilian pronunciation, speaks at a natural conversational pace",
+    "ref": "Hola, buenas tardes. Bienvenido a El Rincón de Elena. ¿Eres nuevo por aquí? Siéntate donde quieras, que ahora mismo te atiendo."
+  },
+  "HANNA": {
+    "name": "Hanna",
+    "role": "viajera sueca",
+    "color": "#C9A227",
+    "voice": "a Swedish woman in her mid 30s speaking Spanish as a second language, bright and self-deprecating, careful and slightly hesitant with a light Scandinavian accent",
+    "ref": "Sí, soy sueca. Me llamo Hanna. Soy diseñadora, pero ahora estoy de viaje y estoy aprendiendo español poco a poco."
+  },
+  "LOLA": {
+    "name": "Lola",
+    "role": "bailaora",
+    "color": "#B8402A",
+    "voice": "a Spanish flamenco dancer woman in her 40s from Seville, deep husky passionate voice, native Andalusian Spanish accent, expressive and warm, unhurried rhythm, absolutely no foreign accent",
+    "ref": "Buenas noches y bienvenidos al tablao. Yo soy Lola, soy de Sevilla, pero llevo ya veinte años bailando aquí en Valencia."
+  },
+  "SENORA": {
+    "name": "Una señora",
+    "role": "pasajera",
+    "color": "#8E6C8A",
+    "voice": "an elderly Spanish woman around 75 from Valencia, gentle slightly frail polite voice, native Peninsular Spanish speaker with Castilian pronunciation, slow kindly pace, absolutely no foreign accent",
+    "ref": "Perdone, joven, ¿va a bajar en la próxima parada? Es que yo también bajo aquí y hay muchísima gente en el tren."
+  }
+}

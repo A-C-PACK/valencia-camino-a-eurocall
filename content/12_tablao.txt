@@ -1,0 +1,85 @@
+@id tablao
+@name Tablao flamenco
+@short Tablao
+@zone El Carmen
+@geo 39.4783 -0.3795 centre l
+@route Desde la catedral: unos siete minutos a pie, en el barrio del Carmen.
+@blurb El flamenco nació en Andalucía, no en Valencia, pero en el barrio del Carmen hay tablaos pequeños donde se escucha muy de cerca. Esta noche baila Lola.
+@goal Confirmar una reserva, entender unas normas y hablar de música y de lo que sientes.
+
+== entradas | En la puerta del tablao ==
+N: Sábado, diez menos cuarto de la noche. Una calle estrecha del Carmen, una puerta de madera y, dentro, una guitarra que se afina.
+LOLA: Buenas noches. ¿Tenéis entrada o {estáis en lista|are you on the list}?
+C: Elena os apuntó en la lista. ¿Qué dices?
+  * Buenas noches. {{Estamos en la lista|we're on the list}}, a nombre de Elena. || «A nombre de», igual que en el hotel. Y «estamos», porque vienes con Hanna.
+  ~ Buenas noches. Elena nos apuntó. || Correcto: usas el pasado y el verbo «apuntar». Con «a nombre de Elena» lo encuentran antes.
+  - Buenas noches. Somos en la lista. || Para decir dónde estás o en qué situación: «estar». «Estamos en la lista».
+LOLA*: ¡Ah, los amigos de Elena! Pasad, pasad. Yo soy Lola. Os he guardado una mesa en primera fila. La entrada son veinte euros con una consumición. Empezamos a las diez en punto y dura una hora, más o menos.
+Q: ¿Qué incluye la entrada?
+  * El espectáculo y una bebida. || Una «{consumición|a drink (included with entry)}» es una bebida incluida en el precio.
+  - El espectáculo y la cena. || Solo una bebida, no la cena.
+  - Dos bebidas por persona. || Una consumición: una bebida.
+T: Pregunta si se pueden hacer fotos.
+  = ¿Se pueden hacer fotos?
+  = ¿Se puede hacer fotos?
+  = ¿Puedo hacer fotos?
+  = ¿Podemos hacer fotos?
+  = Perdona, ¿se pueden hacer fotos?
+  = ¿Se pueden hacer fotos durante el espectáculo?
+  ! Recuerda la catedral: «¿Se puede…?». Aquí en plural: «¿Se pueden {{hacer fotos|to take photos}}?»
+LOLA*: Al final sí, todas las que queráis. Pero durante el baile, por favor, nada de móviles ni de flash. Y otra cosa: mientras se canta, silencio. El cante hay que escucharlo con respeto. Los olés, cuando salgan del corazón.
+Q: ¿Cuándo se pueden hacer fotos?
+  * Al final del espectáculo. || «Nada de móviles ni de flash» durante el baile.
+  - Durante el baile, pero sin flash. || Durante el baile, nada de móviles.
+  - No se pueden hacer fotos nunca. || Al final sí: «todas las que queráis».
+LOLA: ¿Qué vais a tomar?
+C: Quieres un vino tinto. ¿Qué dices?
+  * Para mí, {{una copa de tinto|a glass of red wine}}, por favor. || «Tinto» ya significa vino tinto. No hace falta decir «vino».
+  ~ Un vino rojo, por favor. || Te van a entender, pero el vino no es «rojo»: es «tinto».
+  - Para mí, un vaso de rojo. || El vino se sirve en «copa» y es «tinto», no «rojo».
+LOLA: Ahora mismo. Y poneos cómodos, que esto empieza ya.
+K: Flamenco en Valencia || El flamenco es andaluz, y también de Extremadura y Murcia. Nació del encuentro de la cultura gitana con otras tradiciones del sur. Pero muchos artistas andaluces viven y trabajan por toda España, y en Valencia hay tablaos, peñas y festivales. La música propia de Valencia es otra: las bandas de música, que hay en todos los pueblos, y la dolçaina, un instrumento de viento que suena en las fiestas.
+
+== cante | Cante, toque y baile ==
+N: Se apagan las luces. Durante una hora nadie mira el móvil. Después, Lola se sienta en vuestra mesa, todavía sin aliento.
+LOLA: Bueno, ¿qué? ¿Os ha gustado?
+T: Dile que ha sido increíble.
+  = Ha sido increíble.
+  = ¡Ha sido increíble!
+  = Sí, ha sido increíble.
+  = Me ha encantado. Ha sido increíble.
+  = Sí, mucho. Ha sido increíble.
+  = Ha sido impresionante.
+  ! Pretérito perfecto de «ser»: «{{Ha sido|it has been / it was (just now)}}…»
+LOLA*: Me alegro mucho. Mira, el flamenco tiene tres partes: el cante, que es la voz; el toque, que es la guitarra; y el baile. Pero lo primero siempre es el cante. El bailaor baila lo que oye, no al revés.
+Q: Según Lola, ¿qué es lo más importante en el flamenco?
+  * El cante: la voz. || «El bailaor baila lo que oye». En flamenco se dice «bailaor» y «cantaor», no «bailador» ni «cantante».
+  - El baile. || Es lo que más se ve, pero Lola dice que lo primero es el cante.
+  - La guitarra. || La guitarra es «el toque», la segunda parte.
+C: Quieres preguntar por las palmas que daban los músicos. ¿Cómo lo dices?
+  * ¿Y {{las palmas|the handclaps}}? ¿Cómo sabéis cuándo hay que darlas? || «Dar palmas» es aplaudir con ritmo. Y preguntas con «vosotros»: «¿cómo sabéis?».
+  ~ ¿Por qué hacéis ruido con las manos? || Se entiende, pero la palabra es «palmas»: «dar palmas».
+  - ¿Y los aplausos de los músicos? || «Aplausos» son los del público al final. Las del flamenco son «palmas».
+LOLA*: Eso es el compás. Cada palo, cada estilo, tiene el suyo. La soleá, por ejemplo, tiene doce tiempos, y los acentos caen en el tres, el seis, el ocho, el diez y el doce. Si te pierdes en el compás, {estás perdido|you're lost}. Escucha.
+M: solea
+Q: En una soleá, ¿en qué tiempos caen los acentos?
+  * En el 3, el 6, el 8, el 10 y el 12. || Doce tiempos con cinco acentos. Las bulerías usan el mismo compás, pero mucho más rápido.
+  - En el 1, el 4, el 7 y el 10. || Eso sería un compás regular de tres. La soleá es más irregular.
+  - En todos los tiempos pares. || El ocho, el diez y el doce sí, pero también el tres y el seis.
+HANNA: ¿Y qué es el… el «duende»? Lo he leído en un libro.
+LOLA*: Uf, el duende. Eso no se puede explicar, niña. Es cuando el artista deja de pensar y algo le sale de dentro. Hay noches que viene y noches que no. Esta noche, yo creo que ha venido un poquito.
+Q: ¿Qué es «el duende» para Lola?
+  * Un momento de emoción auténtica que no se puede explicar. || Es una de las palabras más difíciles de traducir del español.
+  - El nombre de un estilo de baile. || Los estilos se llaman «palos»: soleá, bulerías, alegrías, tangos.
+  - Un cantaor famoso. || No es una persona.
+T: Es tu última noche en Valencia. Dile a Lola que vas a volver.
+  = Voy a volver.
+  = Voy a volver pronto.
+  = Voy a volver a Valencia.
+  = Voy a volver seguro.
+  = Seguro que voy a volver.
+  = Volveré.
+  = Volveré pronto.
+  ! «Ir a» + infinitivo para tus planes: «{{Voy a volver|I'm going to come back}}».
+LOLA: Eso espero. Y la próxima vez, {{te animas|you'll give it a go, pluck up the courage}} y das unas palmas con nosotros. ¡Buen viaje, y olé!
+K: Palabras del flamenco || «Palo» es cada estilo: soleá, bulerías, alegrías, tangos, seguiriyas. «Cantaor» y «bailaor» son el cantante y el bailarín. El «tablao» es el escenario de madera y también el local. «Jalear» es animar a los artistas: «¡olé!», «¡eso es!», «¡arsa!». Muchas de estas palabras reflejan la pronunciación andaluza, que pierde la «d» entre vocales.

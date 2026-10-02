@@ -1,0 +1,96 @@
+@id farmacia
+@name Farmacia
+@zone L'Eixample
+@geo 39.4682 -0.3700 centre r
+@route Desde el hotel: unos diez minutos a pie, hacia el Ensanche.
+@blurb Después del vuelo y del aire acondicionado, no te encuentras muy bien. En España, para casi todo, primero se va a la farmacia: busca la cruz verde.
+@goal Explicar qué te pasa, entender cómo tomar un medicamento y pedir productos básicos.
+
+== dolor | No me encuentro bien ==
+N: Te has levantado con dolor de cabeza y de garganta. Entras en una farmacia. La farmacéutica lleva bata blanca.
+PILAR: Buenos días. {{Dígame|tell me / yes, how can I help? (usted)}}.
+C: Explica qué te pasa.
+  * Buenos días. {{Me duele|my ... hurts (lit. it hurts me)}} la cabeza y también la garganta. || «Me duele» + la parte del cuerpo, con artículo: «la cabeza», no «mi cabeza».
+  ~ Buenos días. Tengo dolor de cabeza y de garganta. || Totalmente correcta. «Me duele…» es la forma más frecuente al hablar.
+  - Buenos días. Mi cabeza duele y mi garganta. || En español no se usa el posesivo con el cuerpo: «me duele la cabeza».
+PILAR*: Vaya. ¿Desde cuándo le duele? ¿Tiene fiebre o tos?
+T: Te duele desde ayer y no tienes fiebre. Responde.
+  = Desde ayer. No tengo fiebre.
+  = Desde ayer, y no tengo fiebre.
+  = Me duele desde ayer. No tengo fiebre.
+  = Desde ayer. No, no tengo fiebre.
+  = Desde ayer. No tengo fiebre ni tos.
+  = Me duele desde ayer, pero no tengo fiebre.
+  ! «{{Desde ayer|since yesterday}}…» y «no tengo…».
+PILAR: Bien. Seguramente es por el avión y por el aire acondicionado. ¿{{Es alérgico|are you allergic (to)}} a algún medicamento?
+C: No tienes ninguna alergia. ¿Qué respondes?
+  * No, {{que yo sepa|as far as I know}}, no. || «Que yo sepa» es una expresión muy útil cuando no estás seguro al cien por cien.
+  * No, a ninguno. || Clara y correcta: «a ninguno» = a ningún medicamento.
+  - No, no soy alergia. || «Alergia» es el nombre. El adjetivo es «alérgico»: «no soy alérgico».
+PILAR*: Pues le voy a dar ibuprofeno de cuatrocientos. Tome una pastilla cada ocho horas, siempre después de comer, nunca con el estómago vacío. Y para la garganta, estas pastillas de chupar: una cada tres horas.
+Q: ¿Cómo hay que tomar el ibuprofeno?
+  * Una pastilla cada ocho horas, después de comer. || «{Cada|every} ocho horas» y nunca con el estómago vacío.
+  - Una pastilla cada tres horas, antes de comer. || Cada tres horas son las pastillas para la garganta.
+  - Dos pastillas cada ocho horas, con el estómago vacío. || Al revés: una pastilla, y siempre después de comer.
+T: Pregunta si necesitas receta.
+  = ¿Necesito receta?
+  = ¿Necesito una receta?
+  = ¿Hace falta receta?
+  = ¿Hace falta una receta?
+  = ¿Necesito receta para esto?
+  = ¿Se necesita receta?
+  ! «¿Necesito {{receta|prescription}}?»
+PILAR: No, para esto no. {{Si no mejora|if it doesn't get better}} en dos o tres días, vaya a un centro de salud. ¿Tiene seguro médico de viaje?
+T: Responde que sí, que tienes seguro.
+  = Sí, tengo seguro.
+  = Sí, tengo seguro de viaje.
+  = Sí, tengo seguro médico.
+  = Sí, tengo un seguro de viaje.
+  = Sí, tengo.
+  = Sí, lo tengo.
+  ! «Sí, tengo…»
+PILAR: Perfecto. Son siete euros con veinte. {{Que se mejore|get well soon (usted)}}.
+K: La farmacia primero || En España los farmacéuticos aconsejan mucho, y para problemas pequeños la gente va a la farmacia antes que al médico. Muchos medicamentos se venden sin receta, pero solo en farmacias, no en supermercados. Por la noche y los domingos siempre hay una «farmacia de guardia» abierta en cada zona.
+
+== playa | Después de la playa ==
+N: Dos días después. Has pasado la mañana en la playa sin crema y has caminado mucho con zapatos nuevos. Vuelves a la farmacia.
+PILAR: ¡Hombre, hola otra vez! ¿Qué tal la garganta?
+C: La garganta está mejor, pero tienes otro problema. ¿Qué dices?
+  * Mucho mejor, gracias. Pero ahora {{me he quemado|I've got sunburnt (lit. I have burnt myself)}} con el sol. || Pretérito perfecto y verbo reflexivo: «me he quemado».
+  ~ Mejor. Pero tengo mucho sol en la espalda. || Se entiende la idea, pero no se dice así. La expresión es «me he quemado».
+  - Mejor, gracias. Pero ahora estoy quemando. || «Estoy quemando» significa que tú quemas algo. Lo tuyo es «me he quemado».
+PILAR*: ¡Ay, ya lo veo! Está usted muy rojo. El sol de aquí engaña, porque con la brisa del mar no se nota. Le doy una crema para después del sol y, para mañana, un protector solar de factor cincuenta.
+Q: ¿Por qué es fácil quemarse en la playa de Valencia?
+  * Porque con la brisa no notas el sol. || «El sol engaña»: no sientes el calor, pero te quemas.
+  - Porque el agua del mar está muy caliente. || No habla del agua.
+  - Porque no venden crema en la playa. || No dice eso.
+T: También tienes una ampolla en el pie por los zapatos nuevos. Pide tiritas.
+  = ¿Tiene tiritas?
+  = ¿Tienen tiritas?
+  = También quería tiritas.
+  = También necesito tiritas.
+  = Quería unas tiritas.
+  = Quería unas tiritas, por favor.
+  = ¿Me da unas tiritas?
+  = ¿Me da tiritas, por favor?
+  ! En España los «band-aids» se llaman «{{tiritas|plasters, band-aids}}». Pregunta: «¿Tiene…?»
+PILAR: Sí, claro. ¿Para qué son? ¿Se ha hecho una herida?
+C: Explica que tienes una ampolla en el pie.
+  * No, {{tengo una ampolla|I have a blister}} en el pie. Llevo zapatos nuevos. || Perfecto, y además explicas la causa.
+  ~ No. Es para el pie. || Funciona, aunque no dices qué te pasa. La palabra es «ampolla».
+  - No, tengo una botella en el pie. || «Botella» es «bottle». La palabra que buscas es «ampolla».
+PILAR*: Entonces le doy estas, que son especiales para ampollas. Póngase una ahora y no se la quite hasta que se caiga sola. Y beba mucha agua, que con este calor hay que hidratarse.
+Q: ¿Qué tiene que hacer con la tirita?
+  * Ponérsela ahora y dejarla hasta que se caiga sola. || «No se la quite»: no la tiene que quitar.
+  - Cambiarla cada tres horas. || No dice eso.
+  - Quitársela antes de dormir. || Al contrario: no hay que quitarla.
+T: Pregunta cuánto es todo.
+  = ¿Cuánto es todo?
+  = ¿Cuánto es?
+  = ¿Cuánto es en total?
+  = ¿Cuánto le debo?
+  = ¿Cuánto cuesta todo?
+  = ¿Qué le debo?
+  ! «¿Cuánto es…?»
+PILAR: La crema, el protector y las tiritas… veintiocho con cuarenta. {{Cuídese|take care of yourself (usted)}}, y mañana, {a la sombra|in the shade}.
+K: Me duele, me he quemado, me encuentro mal || Para hablar de la salud se usan mucho los pronombres: «me duele la cabeza», «me he quemado», «me encuentro mal», «me he hecho daño». Y con el cuerpo, artículo en lugar de posesivo: «me duele el pie», no «mi pie».

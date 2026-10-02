@@ -1,0 +1,1432 @@
+[
+ {
+  "id": "f49da55234f4",
+  "who": "RAMON",
+  "text": "¡Buenas tardes! ¿Taxi? ¿Adónde vamos?"
+ },
+ {
+  "id": "1fd74d933d91",
+  "who": "YO",
+  "text": "Buenas tardes. A la calle de la Paz, por favor."
+ },
+ {
+  "id": "aa80d20c6187",
+  "who": "YO",
+  "text": "Calle de la Paz."
+ },
+ {
+  "id": "9edaef0a5320",
+  "who": "RAMON",
+  "text": "Calle de la Paz, muy bien. Eso está en el centro, al lado de la catedral. Venga, deme la maleta, que la pongo en el maletero."
+ },
+ {
+  "id": "678d504dd94b",
+  "who": "RAMON",
+  "text": "Son unos veinte minutos si no hay tráfico. Hoy hay un poco de atasco en la entrada, así que a lo mejor tardamos media hora."
+ },
+ {
+  "id": "6d06f87c5442",
+  "who": "YO",
+  "text": "¿Cuánto cuesta hasta el centro?"
+ },
+ {
+  "id": "b374b93d567e",
+  "who": "RAMON",
+  "text": "Pues unos veinticinco euros, más o menos. Va con taxímetro, ¿eh? Aquí no engañamos a nadie."
+ },
+ {
+  "id": "5359e997454c",
+  "who": "RAMON",
+  "text": "¿Y usted de dónde viene, si se puede saber? Porque de aquí no es, eso está claro."
+ },
+ {
+  "id": "40f18a4d386e",
+  "who": "YO",
+  "text": "Perdone, ¿puede repetir más despacio, por favor?"
+ },
+ {
+  "id": "60931b7525f9",
+  "who": "YO",
+  "text": "¿Cómo?"
+ },
+ {
+  "id": "eff61b17da94",
+  "who": "RAMON",
+  "text": "Claro, hombre. Le pregunto: ¿de dónde es usted?"
+ },
+ {
+  "id": "b859dc5ed9a5",
+  "who": "YO",
+  "text": "Soy de Hawái. He venido a un congreso."
+ },
+ {
+  "id": "60ac91b15aa3",
+  "who": "RAMON",
+  "text": "¡De Hawái! Madre mía, qué lejos. Pues bienvenido a Valencia. Aquí va a comer usted muy bien, se lo digo yo."
+ },
+ {
+  "id": "62329bfdb154",
+  "who": "RAMON",
+  "text": "Mire, a la derecha tiene el antiguo cauce del río Turia. Hace muchos años hubo una riada terrible y desviaron el río. Ahora es un jardín de nueve kilómetros."
+ },
+ {
+  "id": "75517d85a1bc",
+  "who": "RAMON",
+  "text": "¿Es la primera vez que viene a Valencia?"
+ },
+ {
+  "id": "97f0f152ac6d",
+  "who": "YO",
+  "text": "Sí, es mi primera vez en Valencia."
+ },
+ {
+  "id": "839953c39956",
+  "who": "RAMON",
+  "text": "Pues tiene que probar la paella, pero la de verdad, ¿eh? Con pollo y conejo. Y siempre a mediodía. La paella por la noche es para los turistas."
+ },
+ {
+  "id": "5b630694b312",
+  "who": "YO",
+  "text": "¿Me recomienda algún restaurante?"
+ },
+ {
+  "id": "782959ce752a",
+  "who": "YO",
+  "text": "¿Dónde hay paella buena?"
+ },
+ {
+  "id": "99667fe5d14d",
+  "who": "RAMON",
+  "text": "Hombre, claro. Vaya a El Palmar, al lado de la Albufera, o a la playa de la Malvarrosa. Pero reserve mesa, que los domingos está todo lleno."
+ },
+ {
+  "id": "549a359f221a",
+  "who": "RAMON",
+  "text": "Bueno, pues ya estamos. Son veintisiete euros con cuarenta."
+ },
+ {
+  "id": "ba907dcc0f26",
+  "who": "YO",
+  "text": "¿Puedo pagar con tarjeta?"
+ },
+ {
+  "id": "f53ddd38d05d",
+  "who": "YO",
+  "text": "¿Tarjeta?"
+ },
+ {
+  "id": "3b9a4268dd5b",
+  "who": "RAMON",
+  "text": "Sí, sin problema. Acerque la tarjeta aquí… Ya está. ¿Quiere el recibo?"
+ },
+ {
+  "id": "b935e92d6bc4",
+  "who": "YO",
+  "text": "Sí, el recibo, por favor."
+ },
+ {
+  "id": "a118e1c6425a",
+  "who": "RAMON",
+  "text": "Aquí tiene. Y que disfrute de Valencia. ¡Hasta luego!"
+ },
+ {
+  "id": "9896538b5551",
+  "who": "PABLO",
+  "text": "Buenas tardes y bienvenido. ¿En qué puedo ayudarle?"
+ },
+ {
+  "id": "3c6537154f68",
+  "who": "YO",
+  "text": "Buenas tardes. Tengo una reserva a nombre de Austin."
+ },
+ {
+  "id": "dffff0e69c23",
+  "who": "YO",
+  "text": "Hola. Reserva, Austin."
+ },
+ {
+  "id": "a10e8e3cf9a4",
+  "who": "PABLO",
+  "text": "Perfecto, un momento, que lo miro… Sí, aquí está: una habitación individual, cinco noches, con desayuno incluido. ¿Me deja su pasaporte, por favor?"
+ },
+ {
+  "id": "101ab289febb",
+  "who": "YO",
+  "text": "Aquí tiene."
+ },
+ {
+  "id": "69522b07e546",
+  "who": "PABLO",
+  "text": "Gracias. Su habitación es la trescientos doce, en la tercera planta. El ascensor está al fondo del pasillo, a la izquierda. El desayuno se sirve de siete y media a diez y media en la primera planta."
+ },
+ {
+  "id": "b78d95c861ef",
+  "who": "YO",
+  "text": "¿Cuál es la contraseña del wifi?"
+ },
+ {
+  "id": "c81eba697e6a",
+  "who": "PABLO",
+  "text": "La contraseña está en esta tarjeta, con la llave. Si necesita cualquier cosa, marque el nueve desde el teléfono de la habitación."
+ },
+ {
+  "id": "2cfbdbc60af7",
+  "who": "YO",
+  "text": "¿A qué hora empieza el desayuno?"
+ },
+ {
+  "id": "934b86a88574",
+  "who": "YO",
+  "text": "¿Cuándo es el desayuno?"
+ },
+ {
+  "id": "0c2a72c75221",
+  "who": "PABLO",
+  "text": "A las siete y media. Pero si tiene que salir antes, le podemos preparar un café y algo para llevar."
+ },
+ {
+  "id": "316d459643ab",
+  "who": "PABLO",
+  "text": "Que descanse, y bienvenido a Valencia."
+ },
+ {
+  "id": "e5a158f48dc6",
+  "who": "PABLO",
+  "text": "Hola otra vez. ¿Todo bien en la habitación?"
+ },
+ {
+  "id": "763c205f3fa6",
+  "who": "YO",
+  "text": "Perdone, el aire acondicionado no funciona."
+ },
+ {
+  "id": "2fe552c98f7b",
+  "who": "YO",
+  "text": "Hay un problema con el aire."
+ },
+ {
+  "id": "84d0a8bd9879",
+  "who": "PABLO",
+  "text": "Vaya, lo siento mucho. A veces hay que meter la tarjeta de la habitación en la ranura que hay al lado de la puerta. Si no, no hay luz ni aire. ¿Lo ha probado?"
+ },
+ {
+  "id": "b7b8986bf139",
+  "who": "YO",
+  "text": "No, no lo he probado."
+ },
+ {
+  "id": "0b9d49833cf4",
+  "who": "PABLO",
+  "text": "No se preocupe, le pasa a todo el mundo. Pruébelo y, si sigue sin funcionar, le cambio de habitación."
+ },
+ {
+  "id": "5488d158cdc5",
+  "who": "YO",
+  "text": "¿Me puede dar otra toalla, por favor?"
+ },
+ {
+  "id": "1af9f7a0dec7",
+  "who": "YO",
+  "text": "Necesito otra toalla."
+ },
+ {
+  "id": "6b262f63baa7",
+  "who": "PABLO",
+  "text": "Por supuesto. Ahora mismo se la subo. ¿Necesita algo más?"
+ },
+ {
+  "id": "3dc73a2596b3",
+  "who": "YO",
+  "text": "No, nada más. Muchas gracias."
+ },
+ {
+  "id": "f060aac2d2c0",
+  "who": "PABLO",
+  "text": "A usted. Y recuerde: el último día tiene que dejar la habitación antes de las doce."
+ },
+ {
+  "id": "b26c311261dc",
+  "who": "NURIA",
+  "text": "Buenos días. ¿Le ayudo con la máquina?"
+ },
+ {
+  "id": "07d35755ab00",
+  "who": "YO",
+  "text": "Sí, gracias. Quería un billete para varios viajes."
+ },
+ {
+  "id": "3c62dd231d3e",
+  "who": "YO",
+  "text": "Sí. Quiero un billete."
+ },
+ {
+  "id": "78b6efdc9cb1",
+  "who": "NURIA",
+  "text": "Pues lo mejor es la tarjeta SUMA de diez viajes. Sirve para el metro, el tranvía y el autobús, y la puede recargar en cualquier máquina. Sale mucho más barato que el billete sencillo."
+ },
+ {
+  "id": "fbeb19fff128",
+  "who": "YO",
+  "text": "¿Cuánto cuesta la tarjeta?"
+ },
+ {
+  "id": "afe85eba59d3",
+  "who": "NURIA",
+  "text": "Depende de las zonas. Para moverse por la ciudad, con la zona A tiene bastante. Pulse aquí… y ahora puede pagar con tarjeta o en efectivo."
+ },
+ {
+  "id": "d95b378295e9",
+  "who": "YO",
+  "text": "¿Qué línea tengo que coger para ir a la universidad?"
+ },
+ {
+  "id": "790814610002",
+  "who": "YO",
+  "text": "¿Qué línea va a la universidad?"
+ },
+ {
+  "id": "c51eff85ffff",
+  "who": "NURIA",
+  "text": "Coja la línea tres, dirección Rafelbunyol, y baje en Facultats. Son solo tres paradas y no tiene que hacer transbordo. Al salir del metro, las facultades están a cinco minutos andando."
+ },
+ {
+  "id": "e6389902a74f",
+  "who": "YO",
+  "text": "¿Cuántas paradas son hasta Facultats?"
+ },
+ {
+  "id": "73064ae651bf",
+  "who": "NURIA",
+  "text": "Tres. Y el andén es el de la derecha. ¡Buen viaje!"
+ },
+ {
+  "id": "e64276d2fa1a",
+  "who": "MEGAFONIA",
+  "text": "Pròxim tren: línia tres, direcció Rafelbunyol. Próximo tren: línea tres, dirección Rafelbunyol. Llegará en dos minutos."
+ },
+ {
+  "id": "d08fc2321613",
+  "who": "YO",
+  "text": "Perdone, ¿este tren va a Facultats?"
+ },
+ {
+  "id": "568299fc673c",
+  "who": "YO",
+  "text": "¿Facultats?"
+ },
+ {
+  "id": "db29bf1afc69",
+  "who": "NURIA",
+  "text": "Sí, sí, este es. Suba, que se van a cerrar las puertas."
+ },
+ {
+  "id": "496e44134585",
+  "who": "MEGAFONIA",
+  "text": "Atención: por motivos técnicos, este tren circula con cinco minutos de retraso. Disculpen las molestias."
+ },
+ {
+  "id": "20e0d363be69",
+  "who": "MEGAFONIA",
+  "text": "Pròxima parada: Facultats. Próxima parada: Facultats. Correspondencia con la línea nueve."
+ },
+ {
+  "id": "41a98f97f251",
+  "who": "YO",
+  "text": "Perdón, ¿me deja pasar?"
+ },
+ {
+  "id": "604d2b564a42",
+  "who": "SENORA",
+  "text": "Perdone, joven, ¿va a bajar en la próxima?"
+ },
+ {
+  "id": "01f651bcbc80",
+  "who": "YO",
+  "text": "Sí, bajo en la próxima."
+ },
+ {
+  "id": "151667f1cfe0",
+  "who": "YO",
+  "text": "Sí."
+ },
+ {
+  "id": "8b9e769a42f1",
+  "who": "YO",
+  "text": "¿Quién es el último?"
+ },
+ {
+  "id": "30e10dc8286a",
+  "who": "YO",
+  "text": "Perdón, ¿hay cola?"
+ },
+ {
+  "id": "eb3852b63cf1",
+  "who": "AMPARO",
+  "text": "¡A ver, guapo, te toca! ¿Qué te pongo?"
+ },
+ {
+  "id": "18d4b3f694fd",
+  "who": "YO",
+  "text": "Me pones un kilo de naranjas, por favor."
+ },
+ {
+  "id": "1361f714bee8",
+  "who": "YO",
+  "text": "Quería un kilo de naranjas, por favor."
+ },
+ {
+  "id": "f546e6ca7161",
+  "who": "AMPARO",
+  "text": "Muy bien. Estas son de zumo y estas son de mesa. Las de mesa son más dulces, pero las de zumo están a uno ochenta el kilo y las de mesa a dos con cincuenta."
+ },
+ {
+  "id": "3c37d8a06757",
+  "who": "YO",
+  "text": "Medio kilo de las de mesa, por favor."
+ },
+ {
+  "id": "409faffade82",
+  "who": "AMPARO",
+  "text": "Medio kilo. Toma, pruébala, ya verás qué dulce. ¿Algo más, cariño?"
+ },
+ {
+  "id": "e0515bd39e1e",
+  "who": "YO",
+  "text": "¿A cuánto están los tomates?"
+ },
+ {
+  "id": "1d31e49ae6dd",
+  "who": "YO",
+  "text": "¿Cuánto cuestan los tomates?"
+ },
+ {
+  "id": "b4ae13c4ff4d",
+  "who": "AMPARO",
+  "text": "A tres euros el kilo. Son de El Perelló, buenísimos. ¿Te pongo un kilo?"
+ },
+ {
+  "id": "b3ec0fcc316b",
+  "who": "YO",
+  "text": "No, solo cuatro tomates."
+ },
+ {
+  "id": "5b295c22684a",
+  "who": "AMPARO",
+  "text": "Venga, cuatro tomates. Pues mira: las naranjas, uno con veinticinco, y los tomates, uno con sesenta. Son dos con ochenta y cinco en total."
+ },
+ {
+  "id": "398df34684d2",
+  "who": "YO",
+  "text": "¿Qué es esto?"
+ },
+ {
+  "id": "feb0f13b22c5",
+  "who": "AMPARO",
+  "text": "¿Eso? Eso son chufas, hijo. Es un tubérculo pequeñito que se cultiva aquí al lado, en Alboraya. Con las chufas se hace la horchata. Aquí la tomamos muy fría, en verano, con fartons."
+ },
+ {
+  "id": "f7043e31e0b7",
+  "who": "YO",
+  "text": "¿Dónde puedo probar una buena horchata?"
+ },
+ {
+  "id": "8c3a72a64cf5",
+  "who": "YO",
+  "text": "¿Dónde hay horchata?"
+ },
+ {
+  "id": "3d52757275f7",
+  "who": "AMPARO",
+  "text": "Uy, pues aquí mismo, detrás del mercado, en la plaza de Santa Catalina. Hay una horchatería de toda la vida. Dile a Vicent que vas de parte de Amparo."
+ },
+ {
+  "id": "4618f1732a75",
+  "who": "YO",
+  "text": "¿Tienes una bolsa?"
+ },
+ {
+  "id": "3a094e681fb2",
+  "who": "AMPARO",
+  "text": "Claro que sí. Toma. Son dos con ochenta y cinco."
+ },
+ {
+  "id": "eb8625ad73b4",
+  "who": "YO",
+  "text": "Toma. Lo siento, no tengo suelto."
+ },
+ {
+  "id": "121bb80be49c",
+  "who": "YO",
+  "text": "Toma, veinte euros."
+ },
+ {
+  "id": "02a022419bd6",
+  "who": "AMPARO",
+  "text": "No pasa nada, cariño. Diecisiete con quince de vuelta. Y acuérdate: el mercado cierra a las tres y los domingos no abrimos."
+ },
+ {
+  "id": "20935bf71a78",
+  "who": "AMPARO",
+  "text": "¡Venga, hasta luego, guapo! ¡Que vaya bien!"
+ },
+ {
+  "id": "456dff6613be",
+  "who": "VICENT",
+  "text": "Buenas tardes. ¿Qué va a tomar?"
+ },
+ {
+  "id": "b19c7c00f3e2",
+  "who": "YO",
+  "text": "Buenas tardes. Una horchata, por favor. Vengo de parte de Amparo."
+ },
+ {
+  "id": "b9fab95eb11a",
+  "who": "YO",
+  "text": "Una horchata."
+ },
+ {
+  "id": "9f00b6f33c32",
+  "who": "VICENT",
+  "text": "¡Hombre, de Amparo! Entonces le voy a tratar muy bien. ¿Cómo la quiere: líquida, que es la normal, o granizada, que lleva hielo picado y está más fría?"
+ },
+ {
+  "id": "67560f943ae7",
+  "who": "YO",
+  "text": "Granizada, por favor."
+ },
+ {
+  "id": "aa2560a15942",
+  "who": "VICENT",
+  "text": "Muy bien. ¿Y para comer? La horchata sin fartons no es lo mismo."
+ },
+ {
+  "id": "ca7a631bd16f",
+  "who": "YO",
+  "text": "¿Qué son los fartons?"
+ },
+ {
+  "id": "70d83093d9f0",
+  "who": "VICENT",
+  "text": "Son unos bollos alargados, muy tiernos, con azúcar por encima. Se mojan en la horchata. Se inventaron en Alboraya, el pueblo de la chufa, hace unos sesenta años."
+ },
+ {
+  "id": "bd67836efdc7",
+  "who": "YO",
+  "text": "Pues póngame dos fartons, por favor."
+ },
+ {
+  "id": "354caf089d1a",
+  "who": "YO",
+  "text": "Dos fartons, por favor."
+ },
+ {
+  "id": "46d1e63653bc",
+  "who": "VICENT",
+  "text": "Ahora mismo. Una horchata granizada y dos fartons."
+ },
+ {
+  "id": "25faf9885575",
+  "who": "VICENT",
+  "text": "¿Qué tal? ¿Le gusta?"
+ },
+ {
+  "id": "86ffcd3ae3bf",
+  "who": "YO",
+  "text": "Me encanta. Está muy rica."
+ },
+ {
+  "id": "a28451b8ead5",
+  "who": "YO",
+  "text": "Sí, me gusta mucho."
+ },
+ {
+  "id": "5c4b3411b40b",
+  "who": "YO",
+  "text": "¿Qué lleva la horchata?"
+ },
+ {
+  "id": "1cc53943ac3d",
+  "who": "VICENT",
+  "text": "Muy poca cosa: chufa, agua y azúcar. Nada más. No lleva leche ni gluten, así que la puede tomar casi todo el mundo. Eso sí, los fartons llevan harina y huevo."
+ },
+ {
+  "id": "d4b3f59ea4df",
+  "who": "VICENT",
+  "text": "Y dígame, ¿ya sabe algo de valenciano? Aquí decimos «bon dia» por la mañana, «gràcies» para dar las gracias y «adéu» para despedirnos."
+ },
+ {
+  "id": "6c1ad85c0b71",
+  "who": "YO",
+  "text": "¿Me cobra, por favor?"
+ },
+ {
+  "id": "7d8ddfbd98d7",
+  "who": "YO",
+  "text": "La cuenta, por favor."
+ },
+ {
+  "id": "91035e9c4124",
+  "who": "VICENT",
+  "text": "Son cinco euros con setenta. ¿Con tarjeta o en efectivo?"
+ },
+ {
+  "id": "069fa35f0ed9",
+  "who": "YO",
+  "text": "En efectivo."
+ },
+ {
+  "id": "2c348e5d08ea",
+  "who": "VICENT",
+  "text": "Muy bien. Tome el cambio. Y vuelva cuando quiera."
+ },
+ {
+  "id": "30a555cd5e70",
+  "who": "YO",
+  "text": "Gràcies. Adéu."
+ },
+ {
+  "id": "de139610d0ed",
+  "who": "VICENT",
+  "text": "¡Adéu! ¡Muy bien dicho!"
+ },
+ {
+  "id": "768bab7fde85",
+  "who": "LUCIA",
+  "text": "¡Hola a todos! Yo soy Lucía. La visita dura una hora y media y cuesta doce euros. ¿Te apuntas?"
+ },
+ {
+  "id": "4fa2f9ddd7ee",
+  "who": "YO",
+  "text": "Sí, me apunto. ¿Puedo pagar ahora?"
+ },
+ {
+  "id": "6a39ff6d852e",
+  "who": "YO",
+  "text": "Sí, quiero ir. Una entrada, por favor."
+ },
+ {
+  "id": "8a1eca3fa26e",
+  "who": "LUCIA",
+  "text": "¡Genial! Pues empezamos. Esta catedral se empezó a construir en el siglo trece, sobre una antigua mezquita. Por eso tiene tres puertas de tres estilos distintos: una románica, una gótica y una barroca."
+ },
+ {
+  "id": "a6d2ab06554e",
+  "who": "LUCIA",
+  "text": "La torre se llama el Miguelete. Tiene doscientos siete escalones y no hay ascensor. Pero vale la pena: desde arriba se ve toda la ciudad, la huerta y, los días claros, el mar."
+ },
+ {
+  "id": "0dcf537ff7c9",
+  "who": "YO",
+  "text": "¿Se puede subir a la torre?"
+ },
+ {
+  "id": "ac0630f6cc75",
+  "who": "LUCIA",
+  "text": "Sí, claro. La entrada a la torre cuesta dos euros y medio y se paga aparte. Eso sí, arriba hace bastante viento."
+ },
+ {
+  "id": "dbd23a751119",
+  "who": "LUCIA",
+  "text": "Y una curiosidad: todos los jueves, a las doce, se reúne en esta puerta el Tribunal de las Aguas. Es un tribunal de agricultores que resuelve los problemas del riego desde hace más de mil años. Todo se hace hablando, en valenciano, y sin papeles."
+ },
+ {
+  "id": "80f151ae4458",
+  "who": "YO",
+  "text": "¿Nos haces una foto, por favor?"
+ },
+ {
+  "id": "4c54bda6a81c",
+  "who": "YO",
+  "text": "¿Puedes tomar una foto?"
+ },
+ {
+  "id": "a45cb125e7b4",
+  "who": "LUCIA",
+  "text": "¡Claro! A ver, juntaos un poco… ¡Decid «pa-ta-ta»!"
+ },
+ {
+  "id": "fc5fea89e97e",
+  "who": "LUCIA",
+  "text": "Esto es la Lonja de la Seda. Aquí, en el siglo quince, los comerciantes compraban y vendían seda. Valencia era entonces una de las ciudades más ricas del Mediterráneo. Desde mil novecientos noventa y seis es Patrimonio de la Humanidad."
+ },
+ {
+  "id": "d8934d24cd76",
+  "who": "YO",
+  "text": "Perdona, ¿qué significa «seda»?"
+ },
+ {
+  "id": "b422408e6021",
+  "who": "YO",
+  "text": "¿Qué es «seda»?"
+ },
+ {
+  "id": "aa391241cd8f",
+  "who": "LUCIA",
+  "text": "La seda es una tela muy fina y muy cara. La hacen unos gusanos. Los vestidos de las falleras, por ejemplo, son de seda."
+ },
+ {
+  "id": "4102f5e7e21d",
+  "who": "YO",
+  "text": "¿Qué son las Fallas?"
+ },
+ {
+  "id": "3c24c3b66a4e",
+  "who": "LUCIA",
+  "text": "¡Las Fallas son la gran fiesta de Valencia! Se celebran en marzo. Durante un año, los artistas construyen unas esculturas enormes de cartón y madera, y la noche del diecinueve de marzo las quemamos todas. Bueno, todo menos una figura, que se salva y va al museo."
+ },
+ {
+  "id": "f1e77ac0709a",
+  "who": "LUCIA",
+  "text": "Y todos los días de Fallas, a las dos de la tarde, hay una mascletà en la plaza del Ayuntamiento: cinco minutos de petardos. No es para ver, es para oír. ¡Tiembla el suelo!"
+ },
+ {
+  "id": "d9ed4594a5cf",
+  "who": "YO",
+  "text": "Me gustaría verlo."
+ },
+ {
+  "id": "7c079f1a5145",
+  "who": "LUCIA",
+  "text": "Pues tienes que volver en marzo. Bueno, chicos, aquí termina la visita. ¡Muchas gracias a todos y que disfrutéis de Valencia!"
+ },
+ {
+  "id": "72795cda69fe",
+  "who": "PILAR",
+  "text": "Buenos días. Dígame."
+ },
+ {
+  "id": "a77ec6759eac",
+  "who": "YO",
+  "text": "Buenos días. Me duele la cabeza y también la garganta."
+ },
+ {
+  "id": "0a9d4babdcd9",
+  "who": "YO",
+  "text": "Buenos días. Tengo dolor de cabeza y de garganta."
+ },
+ {
+  "id": "5f5c11bee10f",
+  "who": "PILAR",
+  "text": "Vaya. ¿Desde cuándo le duele? ¿Tiene fiebre o tos?"
+ },
+ {
+  "id": "5e3383731038",
+  "who": "YO",
+  "text": "Desde ayer. No tengo fiebre."
+ },
+ {
+  "id": "4b15c750bbb5",
+  "who": "PILAR",
+  "text": "Bien. Seguramente es por el avión y por el aire acondicionado. ¿Es alérgico a algún medicamento?"
+ },
+ {
+  "id": "df77b4e96b77",
+  "who": "YO",
+  "text": "No, que yo sepa, no."
+ },
+ {
+  "id": "a629f99c3808",
+  "who": "YO",
+  "text": "No, a ninguno."
+ },
+ {
+  "id": "176c7fc41381",
+  "who": "PILAR",
+  "text": "Pues le voy a dar ibuprofeno de cuatrocientos. Tome una pastilla cada ocho horas, siempre después de comer, nunca con el estómago vacío. Y para la garganta, estas pastillas de chupar: una cada tres horas."
+ },
+ {
+  "id": "a3e7c1bce9fc",
+  "who": "YO",
+  "text": "¿Necesito receta?"
+ },
+ {
+  "id": "67c22985e857",
+  "who": "PILAR",
+  "text": "No, para esto no. Si no mejora en dos o tres días, vaya a un centro de salud. ¿Tiene seguro médico de viaje?"
+ },
+ {
+  "id": "bdb20861181b",
+  "who": "YO",
+  "text": "Sí, tengo seguro."
+ },
+ {
+  "id": "ecf8fcba7e36",
+  "who": "PILAR",
+  "text": "Perfecto. Son siete euros con veinte. Que se mejore."
+ },
+ {
+  "id": "b760525b3dbc",
+  "who": "PILAR",
+  "text": "¡Hombre, hola otra vez! ¿Qué tal la garganta?"
+ },
+ {
+  "id": "53bb87702f63",
+  "who": "YO",
+  "text": "Mucho mejor, gracias. Pero ahora me he quemado con el sol."
+ },
+ {
+  "id": "61fa388ef4b2",
+  "who": "YO",
+  "text": "Mejor. Pero tengo mucho sol en la espalda."
+ },
+ {
+  "id": "9f3bcf7c930d",
+  "who": "PILAR",
+  "text": "¡Ay, ya lo veo! Está usted muy rojo. El sol de aquí engaña, porque con la brisa del mar no se nota. Le doy una crema para después del sol y, para mañana, un protector solar de factor cincuenta."
+ },
+ {
+  "id": "58a334982eca",
+  "who": "YO",
+  "text": "¿Tiene tiritas?"
+ },
+ {
+  "id": "ca2f62224854",
+  "who": "PILAR",
+  "text": "Sí, claro. ¿Para qué son? ¿Se ha hecho una herida?"
+ },
+ {
+  "id": "761b20f04b17",
+  "who": "YO",
+  "text": "No, tengo una ampolla en el pie. Llevo zapatos nuevos."
+ },
+ {
+  "id": "623f31f2354e",
+  "who": "YO",
+  "text": "No. Es para el pie."
+ },
+ {
+  "id": "577bb398bfd5",
+  "who": "PILAR",
+  "text": "Entonces le doy estas, que son especiales para ampollas. Póngase una ahora y no se la quite hasta que se caiga sola. Y beba mucha agua, que con este calor hay que hidratarse."
+ },
+ {
+  "id": "62c6a849df78",
+  "who": "YO",
+  "text": "¿Cuánto es todo?"
+ },
+ {
+  "id": "c61e779cc3eb",
+  "who": "PILAR",
+  "text": "La crema, el protector y las tiritas… veintiocho con cuarenta. Cuídese, y mañana, a la sombra."
+ },
+ {
+  "id": "376d159fea3e",
+  "who": "HANNA",
+  "text": "¡Hola! ¡Qué bien que has venido! Tengo… ¿cómo se dice?… ¡tengo mucha hambre!"
+ },
+ {
+  "id": "2e8278e7f496",
+  "who": "MARTA",
+  "text": "¡Hola, buenas! ¿Tenéis reserva?"
+ },
+ {
+  "id": "a826cec9f725",
+  "who": "YO",
+  "text": "No, no tenemos. ¿Hay mesa para dos?"
+ },
+ {
+  "id": "9afc5e0101e1",
+  "who": "YO",
+  "text": "No. Dos personas."
+ },
+ {
+  "id": "8d5c039e4a03",
+  "who": "MARTA",
+  "text": "Estáis de suerte. Me queda una en la terraza, pero la necesito a las cuatro, que tengo otra reserva. ¿Os va bien?"
+ },
+ {
+  "id": "9c0865772c01",
+  "who": "YO",
+  "text": "Sí, nos va bien."
+ },
+ {
+  "id": "afa71005a728",
+  "who": "MARTA",
+  "text": "Pues venid por aquí. ¿Qué queréis beber?"
+ },
+ {
+  "id": "18628f6e3292",
+  "who": "HANNA",
+  "text": "Para mí, una… una agua con gas, por favor."
+ },
+ {
+  "id": "b91c947a8892",
+  "who": "MARTA",
+  "text": "Un agua con gas. ¿Y para ti?"
+ },
+ {
+  "id": "27fbeeb61f0f",
+  "who": "YO",
+  "text": "Para mí, una caña, por favor."
+ },
+ {
+  "id": "82d88e9e5b6d",
+  "who": "YO",
+  "text": "Una cerveza, por favor."
+ },
+ {
+  "id": "f49a9a4252c6",
+  "who": "MARTA",
+  "text": "Muy bien. Os dejo la carta. Los arroces son para dos personas como mínimo y tardan unos veinticinco minutos, porque se hacen en el momento. Si tenéis prisa, pedid primero unos entrantes."
+ },
+ {
+  "id": "85a5b791d0bd",
+  "who": "HANNA",
+  "text": "Yo no como carne. ¿Qué podemos… pedir?"
+ },
+ {
+  "id": "4e35731f4c73",
+  "who": "YO",
+  "text": "Perdona, ¿qué lleva la paella valenciana?"
+ },
+ {
+  "id": "8cf074009ebe",
+  "who": "YO",
+  "text": "¿La paella valenciana tiene carne?"
+ },
+ {
+  "id": "851db8ff50a1",
+  "who": "MARTA",
+  "text": "La valenciana, la de verdad, lleva pollo, conejo, judía verde, garrofón y a veces caracoles. Marisco no lleva, ¿eh? Si no coméis carne, os recomiendo la paella de verduras o el arroz a banda, que es de pescado."
+ },
+ {
+  "id": "ddceef5d134c",
+  "who": "YO",
+  "text": "Una paella de verduras para dos, por favor."
+ },
+ {
+  "id": "9148eab4b93b",
+  "who": "MARTA",
+  "text": "Muy bien. ¿Y de primero? Tengo unas clóchinas muy buenas, que ahora es temporada."
+ },
+ {
+  "id": "5fabc0259e70",
+  "who": "HANNA",
+  "text": "¿Clóchinas? ¿Qué es eso?"
+ },
+ {
+  "id": "bd059451b0ad",
+  "who": "MARTA",
+  "text": "Son los mejillones de Valencia. Más pequeños que los normales, pero con más sabor."
+ },
+ {
+  "id": "2016f587aedb",
+  "who": "MARTA",
+  "text": "¿Qué tal todo? ¿Os ha gustado?"
+ },
+ {
+  "id": "976363c40f0f",
+  "who": "YO",
+  "text": "Todo estaba muy bueno."
+ },
+ {
+  "id": "6ac3dc11439b",
+  "who": "MARTA",
+  "text": "Me alegro. Lo mejor es lo de abajo, el socarrat: el arroz tostado que se queda pegado a la sartén. Los valencianos nos peleamos por él."
+ },
+ {
+  "id": "752861d14ca5",
+  "who": "YO",
+  "text": "¿Nos traes la cuenta, por favor?"
+ },
+ {
+  "id": "e9163f7ffa14",
+  "who": "MARTA",
+  "text": "Claro. ¿Todo junto o por separado?"
+ },
+ {
+  "id": "b00f8f945e8c",
+  "who": "YO",
+  "text": "Todo junto. Invito yo."
+ },
+ {
+  "id": "4d490da176f5",
+  "who": "HANNA",
+  "text": "¡No, no! Bueno… vale. Pero la próxima vez invito yo. ¡Muchas gracias!"
+ },
+ {
+  "id": "646fb4ba2999",
+  "who": "SERGIO",
+  "text": "¡Buenas! ¿Buscas una bici?"
+ },
+ {
+  "id": "0a2739403271",
+  "who": "YO",
+  "text": "Sí, quería alquilar una bici para hoy."
+ },
+ {
+  "id": "6d67340ed1c0",
+  "who": "YO",
+  "text": "Sí. ¿Tienes bicis?"
+ },
+ {
+  "id": "b37f843ac550",
+  "who": "SERGIO",
+  "text": "Perfecto. Mira, son cuatro euros la hora o doce euros el día entero. Si la vas a usar más de tres horas, te sale mejor el día."
+ },
+ {
+  "id": "bebb6f0c8eed",
+  "who": "YO",
+  "text": "Para todo el día."
+ },
+ {
+  "id": "ff23798912f7",
+  "who": "SERGIO",
+  "text": "Hecho. Necesito un documento, el pasaporte o el carné, y una fianza de veinte euros, que te devuelvo cuando traigas la bici."
+ },
+ {
+  "id": "2ae98d63d584",
+  "who": "YO",
+  "text": "Perdona, ¿qué quiere decir «fianza»?"
+ },
+ {
+  "id": "e21eefd6c4a5",
+  "who": "YO",
+  "text": "¿Fianza? No entiendo."
+ },
+ {
+  "id": "f4c34a34a150",
+  "who": "SERGIO",
+  "text": "Es un dinero que me dejas ahora por si le pasa algo a la bici. Si la traes bien, te lo devuelvo todo. La tienda cierra a las ocho y media, así que tienes que estar aquí antes."
+ },
+ {
+  "id": "60d24d0fabb3",
+  "who": "YO",
+  "text": "¿El casco está incluido?"
+ },
+ {
+  "id": "84efdb055d43",
+  "who": "SERGIO",
+  "text": "Sí, el casco y el candado. Mira, ten cuidado con el carril bici: es rojo y los peatones a veces no miran."
+ },
+ {
+  "id": "49fcd28ce8c4",
+  "who": "YO",
+  "text": "¿Cómo llego a la Ciudad de las Artes y las Ciencias?"
+ },
+ {
+  "id": "a58360b48cc5",
+  "who": "SERGIO",
+  "text": "Es muy fácil. Baja al río por esa rampa y sigue todo recto por el jardín, siempre con el centro a tu derecha. Vas a pasar por debajo de muchos puentes. Después de unos veinte minutos vas a ver los edificios blancos al fondo."
+ },
+ {
+  "id": "8a77a97348bb",
+  "who": "YO",
+  "text": "¿Está lejos?"
+ },
+ {
+  "id": "36f9315b44eb",
+  "who": "YO",
+  "text": "¿Cuánto se tarda?"
+ },
+ {
+  "id": "9748c2c554b7",
+  "who": "SERGIO",
+  "text": "Qué va, unos cuatro kilómetros. En bici, veinte minutos tranquilamente."
+ },
+ {
+  "id": "624d6dcd4199",
+  "who": "SERGIO",
+  "text": "Cuando llegues, lo primero que vas a ver es el Palau de les Arts, que es la ópera. Al lado está el Hemisfèric, que parece un ojo gigante. Luego el museo de las ciencias, y al final del todo el Oceanogràfic, que es el acuario más grande de Europa."
+ },
+ {
+  "id": "1ec5af7f58d3",
+  "who": "YO",
+  "text": "¿Dónde puedo dejar la bici?"
+ },
+ {
+  "id": "47a34fde9023",
+  "who": "SERGIO",
+  "text": "Hay aparcabicis delante de cada edificio. Ponle siempre el candado, ¿eh? Y si te pierdes, pregunta por «el río»: aquí todos llamamos «el río» al jardín, aunque no lleve agua."
+ },
+ {
+  "id": "3db79648cbc8",
+  "who": "YO",
+  "text": "Muchas gracias. Nos vemos esta tarde."
+ },
+ {
+  "id": "40d071a7688b",
+  "who": "YO",
+  "text": "Gracias. Adiós."
+ },
+ {
+  "id": "30877d04a5bc",
+  "who": "SERGIO",
+  "text": "¡Venga, pásalo bien! ¡Hasta luego!"
+ },
+ {
+  "id": "a512a3af4b7e",
+  "who": "AITANA",
+  "text": "¡Hola, buenos días! ¿Vienes al congreso?"
+ },
+ {
+  "id": "2e80d7d3f01a",
+  "who": "YO",
+  "text": "Sí, vengo a recoger mi acreditación."
+ },
+ {
+  "id": "516cdf557041",
+  "who": "YO",
+  "text": "Sí, soy del congreso."
+ },
+ {
+  "id": "5eb4761262c9",
+  "who": "AITANA",
+  "text": "Genial. ¿Me dices tu nombre? Es que no lo oigo bien con tanto ruido."
+ },
+ {
+  "id": "059c449772de",
+  "who": "YO",
+  "text": "Austin. A, u, ese, te, i, ene."
+ },
+ {
+  "id": "8382a7840fb3",
+  "who": "AITANA",
+  "text": "Austin… Aquí estás. Mira, esta es tu acreditación; llévala siempre puesta. En la bolsa tienes el programa y los vales para la comida. La inauguración es a las nueve y media en el salón de actos, que está en la planta baja, al fondo a la derecha."
+ },
+ {
+  "id": "79a6056277d9",
+  "who": "YO",
+  "text": "Perdona, ¿sabes dónde está el aula 2.3?"
+ },
+ {
+  "id": "05c715a5c78d",
+  "who": "YO",
+  "text": "¿Dónde está el aula 2.3?"
+ },
+ {
+  "id": "7b31aa238f31",
+  "who": "AITANA",
+  "text": "Sí, mira: el dos es la planta y el tres es el aula. O sea, tienes que subir a la segunda planta y es la tercera puerta. Las escaleras están ahí mismo, detrás de los pósteres."
+ },
+ {
+  "id": "6c96b9478a74",
+  "who": "YO",
+  "text": "¿A qué hora es la pausa del café?"
+ },
+ {
+  "id": "3deaef3c2caa",
+  "who": "AITANA",
+  "text": "A las once, aquí mismo, en el vestíbulo. Y cualquier cosa, búscanos: los voluntarios vamos de azul."
+ },
+ {
+  "id": "68dbfea4f056",
+  "who": "YO",
+  "text": "Muchas gracias. Eres muy amable."
+ },
+ {
+  "id": "cff35a9a099b",
+  "who": "AITANA",
+  "text": "¡De nada! ¡Que vaya muy bien el congreso!"
+ },
+ {
+  "id": "7209c71a89af",
+  "who": "JORDI",
+  "text": "Perdona, ¿tú eres el de Hawái? He visto tu nombre en el programa. Soy Jordi, de aquí, de la universidad."
+ },
+ {
+  "id": "7f1eb07d2a22",
+  "who": "YO",
+  "text": "Encantado, Jordi. Sí, trabajo en una universidad de Hawái."
+ },
+ {
+  "id": "9aa88164f4d9",
+  "who": "YO",
+  "text": "Hola, Jordi. Sí, soy yo."
+ },
+ {
+  "id": "52937fbebcae",
+  "who": "JORDI",
+  "text": "¡Qué lejos! ¿Y a qué te dedicas exactamente? ¿Qué investigas?"
+ },
+ {
+  "id": "dc3e292c069d",
+  "who": "YO",
+  "text": "Soy profesor de inglés."
+ },
+ {
+  "id": "c5d83194d156",
+  "who": "JORDI",
+  "text": "¡Anda, como yo! Bueno, yo doy clase de lingüística aplicada. Ahora estoy investigando cómo usan los estudiantes la inteligencia artificial para practicar la conversación. La verdad es que todavía no tenemos muchos datos, pero los resultados son prometedores."
+ },
+ {
+  "id": "7ae93169754b",
+  "who": "YO",
+  "text": "¡Qué interesante! Yo también trabajo con inteligencia artificial."
+ },
+ {
+  "id": "3ad3215e312e",
+  "who": "YO",
+  "text": "Es interesante. Yo también."
+ },
+ {
+  "id": "b5a7a92385fc",
+  "who": "JORDI",
+  "text": "¿Ah, sí? Pues tenemos que hablar. ¿Cuándo es tu ponencia?"
+ },
+ {
+  "id": "b1398000d6dd",
+  "who": "YO",
+  "text": "Mañana a las diez."
+ },
+ {
+  "id": "f30b21341bb7",
+  "who": "JORDI",
+  "text": "Allí estaré. Oye, esta noche algunos colegas vamos a cenar por Ruzafa, un barrio que está muy bien. Nada formal: unas tapas y un vino. ¿Te apetece venir?"
+ },
+ {
+  "id": "b8a69b5cf4b4",
+  "who": "YO",
+  "text": "¡Claro! Me apetece mucho. ¿A qué hora quedamos?"
+ },
+ {
+  "id": "000cb0d9ee47",
+  "who": "YO",
+  "text": "Sí, gracias. Voy."
+ },
+ {
+  "id": "798e4c3cbe56",
+  "who": "JORDI",
+  "text": "Quedamos a las nueve en la puerta del Mercado de Ruzafa. Y nada de «usted» con nadie, ¿eh?, que aquí somos todos colegas."
+ },
+ {
+  "id": "a762ad0194f3",
+  "who": "ELENA",
+  "text": "¡Hombre, el profesor de Hawái! Pasa, pasa. Hanna me ha hablado de ti. ¿Qué tal el congreso?"
+ },
+ {
+  "id": "adec72700888",
+  "who": "YO",
+  "text": "Muy bien, pero estoy agotado. Hoy he hablado inglés todo el día."
+ },
+ {
+  "id": "83d9a0ac8291",
+  "who": "YO",
+  "text": "Bien. Estoy muy cansado."
+ },
+ {
+  "id": "f9e0ebbe68b4",
+  "who": "ELENA",
+  "text": "Pues aquí se viene a descansar. ¿Qué os pongo de beber?"
+ },
+ {
+  "id": "e95eb6a04994",
+  "who": "HANNA",
+  "text": "Yo quiero un vino tinto, pero no sé… no sé cuál."
+ },
+ {
+  "id": "f5965e6cdf48",
+  "who": "YO",
+  "text": "¿Qué nos recomiendas?"
+ },
+ {
+  "id": "eec4447b4cb8",
+  "who": "YO",
+  "text": "¿Cuál es bueno?"
+ },
+ {
+  "id": "77e2a8a9c721",
+  "who": "ELENA",
+  "text": "Si os gusta el tinto, tenéis que probar un bobal. Es la uva de mi pueblo, de Requena, a una hora de aquí. Es un vino con cuerpo, pero suave. Y si preferís algo más ligero, tengo un blanco de merseguera muy fresquito."
+ },
+ {
+  "id": "cafeef435d8d",
+  "who": "YO",
+  "text": "Dos copas de bobal, por favor."
+ },
+ {
+  "id": "b5eb37bb2e65",
+  "who": "ELENA",
+  "text": "Marchando. ¿Y para picar? Tengo esgarraet, que es pimiento rojo asado con bacalao; croquetas de jamón, queso curado y unas bravas."
+ },
+ {
+  "id": "9e00e3680723",
+  "who": "HANNA",
+  "text": "Las bravas son… ¿muy picantes?"
+ },
+ {
+  "id": "8df791905856",
+  "who": "ELENA",
+  "text": "Qué va. En España casi nada pica de verdad."
+ },
+ {
+  "id": "826d67c9e734",
+  "who": "YO",
+  "text": "Pues para compartir: el esgarraet, unas croquetas y unas bravas."
+ },
+ {
+  "id": "5cb17c5ef537",
+  "who": "YO",
+  "text": "Yo quiero croquetas y ella quiere bravas."
+ },
+ {
+  "id": "e07c88bcce36",
+  "who": "ELENA",
+  "text": "Muy bien pedido. Ya habláis como valencianos."
+ },
+ {
+  "id": "90103001c65b",
+  "who": "ELENA",
+  "text": "A ver, cuéntame. ¿Qué has hecho estos días en Valencia?"
+ },
+ {
+  "id": "3142082128b6",
+  "who": "YO",
+  "text": "He visitado la catedral y he comido paella."
+ },
+ {
+  "id": "5cb889ec1af7",
+  "who": "ELENA",
+  "text": "¡Muy bien! ¿Y dónde comiste la paella? Porque hay mucho sitio para turistas, ¿eh?"
+ },
+ {
+  "id": "92249dba2d32",
+  "who": "YO",
+  "text": "La comimos ayer en la Malvarrosa."
+ },
+ {
+  "id": "ecb47ed7a2b8",
+  "who": "YO",
+  "text": "En la Malvarrosa, con Hanna."
+ },
+ {
+  "id": "c38eb21687b9",
+  "who": "HANNA",
+  "text": "¡Sí! Y el camarero… no, la camarera, nos explicó el socarrat. ¡Yo comí todo el socarrat!"
+ },
+ {
+  "id": "d5ac571d397e",
+  "who": "ELENA",
+  "text": "¡Ja, ja! Eso es lo mejor. Pues mira, cuando yo era pequeña, mi abuela hacía paella todos los domingos, con leña de naranjo, en el campo. Venía toda la familia, éramos veinte o más. Ahora ya casi nadie tiene tiempo para eso."
+ },
+ {
+  "id": "1495c37b276b",
+  "who": "ELENA",
+  "text": "¿Y qué es lo que más te ha gustado de Valencia?"
+ },
+ {
+  "id": "a01863320508",
+  "who": "YO",
+  "text": "Lo que más me ha gustado es la gente."
+ },
+ {
+  "id": "8ab30691fa53",
+  "who": "ELENA",
+  "text": "¡Qué bonito! Oye, ¿y os gusta el flamenco? El sábado baila una amiga mía, Lola, en un tablao del Carmen. Es sevillana y es buenísima. Si queréis, os apunto en la lista y os guardan una mesa."
+ },
+ {
+  "id": "75de933613be",
+  "who": "YO",
+  "text": "¡Me encantaría! Nunca he visto flamenco en directo."
+ },
+ {
+  "id": "f982278134f4",
+  "who": "YO",
+  "text": "Sí, quiero ir."
+ },
+ {
+  "id": "41be778c1090",
+  "who": "ELENA",
+  "text": "Pues hecho. El sábado a las diez. Y ahora, invita la casa: os pongo un poquito de mistela, que es un vino dulce de aquí."
+ },
+ {
+  "id": "939cbb53992d",
+  "who": "LOLA",
+  "text": "Buenas noches. ¿Tenéis entrada o estáis en lista?"
+ },
+ {
+  "id": "34c311647027",
+  "who": "YO",
+  "text": "Buenas noches. Estamos en la lista, a nombre de Elena."
+ },
+ {
+  "id": "bf68d767bc28",
+  "who": "YO",
+  "text": "Buenas noches. Elena nos apuntó."
+ },
+ {
+  "id": "dcca4ab78532",
+  "who": "LOLA",
+  "text": "¡Ah, los amigos de Elena! Pasad, pasad. Yo soy Lola. Os he guardado una mesa en primera fila. La entrada son veinte euros con una consumición. Empezamos a las diez en punto y dura una hora, más o menos."
+ },
+ {
+  "id": "2ba806fce62c",
+  "who": "YO",
+  "text": "¿Se pueden hacer fotos?"
+ },
+ {
+  "id": "1a02a2c4e1dd",
+  "who": "LOLA",
+  "text": "Al final sí, todas las que queráis. Pero durante el baile, por favor, nada de móviles ni de flash. Y otra cosa: mientras se canta, silencio. El cante hay que escucharlo con respeto. Los olés, cuando salgan del corazón."
+ },
+ {
+  "id": "2e8e75f409aa",
+  "who": "LOLA",
+  "text": "¿Qué vais a tomar?"
+ },
+ {
+  "id": "84fa6e262ea3",
+  "who": "YO",
+  "text": "Para mí, una copa de tinto, por favor."
+ },
+ {
+  "id": "2cb87ce095c1",
+  "who": "YO",
+  "text": "Un vino rojo, por favor."
+ },
+ {
+  "id": "29a9c7ae9557",
+  "who": "LOLA",
+  "text": "Ahora mismo. Y poneos cómodos, que esto empieza ya."
+ },
+ {
+  "id": "5ae805ba8534",
+  "who": "LOLA",
+  "text": "Bueno, ¿qué? ¿Os ha gustado?"
+ },
+ {
+  "id": "526f1c599a73",
+  "who": "YO",
+  "text": "Ha sido increíble."
+ },
+ {
+  "id": "425ae85182ed",
+  "who": "LOLA",
+  "text": "Me alegro mucho. Mira, el flamenco tiene tres partes: el cante, que es la voz; el toque, que es la guitarra; y el baile. Pero lo primero siempre es el cante. El bailaor baila lo que oye, no al revés."
+ },
+ {
+  "id": "3252ea4c9ae1",
+  "who": "YO",
+  "text": "¿Y las palmas? ¿Cómo sabéis cuándo hay que darlas?"
+ },
+ {
+  "id": "aefe959b682b",
+  "who": "YO",
+  "text": "¿Por qué hacéis ruido con las manos?"
+ },
+ {
+  "id": "71d46b2c0143",
+  "who": "LOLA",
+  "text": "Eso es el compás. Cada palo, cada estilo, tiene el suyo. La soleá, por ejemplo, tiene doce tiempos, y los acentos caen en el tres, el seis, el ocho, el diez y el doce. Si te pierdes en el compás, estás perdido. Escucha."
+ },
+ {
+  "id": "37ee78b6e6f4",
+  "who": "HANNA",
+  "text": "¿Y qué es el… el «duende»? Lo he leído en un libro."
+ },
+ {
+  "id": "02200f6a3205",
+  "who": "LOLA",
+  "text": "Uf, el duende. Eso no se puede explicar, niña. Es cuando el artista deja de pensar y algo le sale de dentro. Hay noches que viene y noches que no. Esta noche, yo creo que ha venido un poquito."
+ },
+ {
+  "id": "5d15e945328b",
+  "who": "YO",
+  "text": "Voy a volver."
+ },
+ {
+  "id": "9a7c770d8c29",
+  "who": "LOLA",
+  "text": "Eso espero. Y la próxima vez, te animas y das unas palmas con nosotros. ¡Buen viaje, y olé!"
+ }
+]

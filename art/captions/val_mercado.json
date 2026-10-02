@@ -1,0 +1,87 @@
+{
+  "high_level_description": "A fruit and vegetable stall inside Valencia's Central Market, piled with oranges and tomatoes beneath the market's iron and stained-glass dome.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "The soaring interior of a modernist market hall with slender iron columns, coloured glass panels and ceramic tile details, light pouring down from a dome.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          520,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A generous market stall with sloping crates of oranges, lemons, tomatoes, peppers and bunches of herbs.",
+        "color_palette": [
+          "#E8A33D",
+          "#B8402A",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          330,
+          640,
+          660
+        ],
+        "desc": "A cheerful woman of about fifty in a striped apron behind the stall, holding up an orange.",
+        "color_palette": [
+          "#F2C9A0",
+          "#2E6F8E",
+          "#E8A33D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          150,
+          330,
+          850
+        ],
+        "desc": "The underside of a great dome of iron ribs and stained glass in amber and blue.",
+        "color_palette": [
+          "#E8A33D",
+          "#7FC4D6",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          330,
+          0,
+          540,
+          300
+        ],
+        "desc": "Hanging cured hams and strings of dried peppers at a neighbouring stall.",
+        "color_palette": [
+          "#B8402A",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}

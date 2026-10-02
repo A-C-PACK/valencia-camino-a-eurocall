@@ -1,0 +1,86 @@
+{
+  "high_level_description": "The taxi rank outside a small modern Mediterranean airport terminal on a sunny afternoon, with an older taxi driver waiting beside his white taxi.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A low glass-and-steel terminal building under a clear blue sky, with a row of palm trees and a covered walkway along the kerb.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          430,
+          80,
+          900,
+          760
+        ],
+        "desc": "A white four-door saloon taxi parked at the kerb, seen from the side, with a small green light on its roof and all of its doors closed.",
+        "color_palette": [
+          "#FFFFFF",
+          "#3F7D4E",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          380,
+          660,
+          920,
+          900
+        ],
+        "desc": "A man of about seventy with grey hair, a short-sleeved shirt and a weathered friendly face, standing on the pavement beside the taxi with one arm raised in greeting.",
+        "color_palette": [
+          "#F2C9A0",
+          "#F6E7C8",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          760,
+          300,
+          960,
+          520
+        ],
+        "desc": "A rolling suitcase standing on the pavement in the foreground.",
+        "color_palette": [
+          "#B8402A",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          120,
+          0,
+          480,
+          1000
+        ],
+        "desc": "Tall palm trees in a row in front of the terminal.",
+        "color_palette": [
+          "#3F7D4E",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}
