@@ -1,0 +1,9 @@
+Valencia: Camino a EUROCALL
+
+Map data (c) OpenStreetMap contributors, Open Database Licence
+  https://www.openstreetmap.org/copyright
+Illustrations generated with Ideogram 4 under its Non-Commercial Model
+  Agreement: this build is for non-commercial use.
+Voices generated with Qwen3-TTS.
+Fonts: Source Sans 3, Lora and Noto Sans Symbols 2, SIL Open Font Licence 1.1.
+Built with Godot Engine (MIT licence), https://godotengine.org/license
