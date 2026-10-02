@@ -1,0 +1,88 @@
+{
+  "high_level_description": "The front of the North Station in Valencia, an ornate early twentieth century railway station decorated with ceramic oranges and orange blossom, with a white taxi outside.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A clear warm sky above a wide pavement with palm trees.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          120,
+          0,
+          760,
+          1000
+        ],
+        "desc": "A wide symmetrical station facade in cream and ochre with small towers, tall windows, bands of green and white tiles and clusters of ceramic oranges with leaves, with no lettering.",
+        "color_palette": [
+          "#F6E7C8",
+          "#E8A33D",
+          "#3F7D4E",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          60,
+          400,
+          260,
+          600
+        ],
+        "desc": "A decorative crest at the top centre of the facade with a five-pointed star.",
+        "color_palette": [
+          "#E8A33D",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          700,
+          80,
+          960,
+          620
+        ],
+        "desc": "A white four-door saloon taxi parked at the kerb with a small green light on its roof.",
+        "color_palette": [
+          "#FFFFFF",
+          "#3F7D4E",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          620,
+          640,
+          960,
+          820
+        ],
+        "desc": "A grey-haired taxi driver of about seventy in a short-sleeved shirt standing by the taxi, looking up at the station.",
+        "color_palette": [
+          "#F2C9A0",
+          "#F6E7C8",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}

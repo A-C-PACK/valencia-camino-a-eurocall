@@ -1,0 +1,103 @@
+@part 2
+@id almoina
+@name L'Almoina
+@era Valentia romana · 138 antes de Cristo
+@geo 39.47619 -0.37431 centre r
+@focus 0.47
+@route Plaza de Décimo Junio Bruto, detrás de la catedral.
+@blurb Bajo una plaza con un estanque de cristal están los restos de la primera Valencia: la ciudad romana, la visigoda y la islámica, una encima de otra.
+@visit El Centro Arqueológico de l'Almoina: las termas romanas, el foro y un baptisterio visigodo, todo bajo tierra.
+
+== fundacion | Una ciudad para soldados ==
+N: El congreso ha terminado y todavía te quedan unos días en Valencia. Lucía, la guía de la catedral, te ha propuesto una ruta distinta: la historia de la ciudad, un lugar cada día. Empezáis detrás de la catedral, junto a un estanque con el fondo de cristal.
+LUCIA: ¡Hola otra vez! Hoy no hay paraguas rojo ni grupo: la ruta es solo para ti. Vamos a empezar por el principio, y el principio está aquí debajo. Mira a través del agua.
+C: Debajo del cristal se ven unos muros muy antiguos. ¿Qué dices?
+  * ¡Qué curioso! ¿{{De qué época|from what period}} son esas ruinas? || «¿De qué época es…?» es la pregunta perfecta para empezar cualquier visita.
+  ~ Muy interesante. ¿Son muy viejas? || Se entiende. Para edificios y ruinas es mejor «antiguas»; «viejo» suena a algo gastado.
+  - ¡Qué curioso! ¿De cuál tiempo son? || «Tiempo» no se usa así. Para hablar de historia: «¿de qué época son?».
+LUCIA*: Son romanas: tienen más de dos mil años. Antes de bajar al museo, te doy un texto para leer. Es un poco más difícil que lo que hemos hablado hasta ahora, pero no te preocupes. Léelo con calma, toca las palabras que no conozcas y después te hago unas preguntas.
+H: Una ciudad para soldados
+R: Valencia tiene fecha de nacimiento: el año 138 antes de Cristo. Aquel año, el cónsul romano Décimo Junio Bruto {{fundó|founded (fundar)}} una ciudad nueva en una pequeña isla del río Turia, muy cerca del mar. No la construyó para comerciantes ni para campesinos, sino para soldados. Unos dos mil hombres que {habían luchado|had fought (pluperfect of luchar)} durante años en las guerras de Roma en la península recibieron allí tierras {como premio|as a reward}. La llamaron Valentia, que en latín significa «valor» o «fuerza».
+R: El lugar estaba bien elegido. Por allí pasaba el gran camino que unía Italia con el sur de la península y que más tarde se llamaría Vía Augusta. La tierra era {llana|flat} y fértil, había agua dulce y el mar {quedaba|was (located)} a pocos kilómetros. Los fundadores {trazaron|laid out, drew (trazar)} dos calles principales que se cruzaban en el centro, como en todas las ciudades romanas: una de norte a sur y otra de este a oeste. Junto al cruce construyeron el foro, que era la plaza pública, un templo, un almacén para el grano y unas termas. Esas termas, que todavía se pueden ver, están entre las más antiguas de la península.
+R: {{Sin embargo|however}}, la primera Valentia duró poco. En el año 75 antes de Cristo, Roma estaba en guerra civil y los dos bandos lucharon también en Hispania. Valentia {{apoyó|supported (apoyar)}} al general Sertorio, y su enemigo, Pompeyo, la castigó {sin piedad|without mercy}: sus tropas tomaron la ciudad, la incendiaron y mataron a muchos de sus habitantes. Los arqueólogos han encontrado en l'Almoina los esqueletos de varios hombres que murieron aquel día, junto a sus armas. Durante unos cincuenta años, Valentia quedó prácticamente abandonada.
+R: La ciudad {{volvió a nacer|was born again (volver a + infinitive = to do again)}} en tiempos del emperador Augusto y creció durante los dos siglos siguientes. Tuvo un foro nuevo y más grande, un puerto en el río y un circo de más de trescientos metros de largo para las carreras de caballos. No era una gran capital, como Tarraco, pero sí una ciudad próspera y bien comunicada por tierra y por mar.
+R: Hoy casi nada de aquello se ve {{en la superficie|on the surface}}. Para encontrar la Valencia romana hay que mirar hacia abajo: está a varios metros bajo los pies de quien cruza la plaza.
+Q: ¿Para quién se fundó Valentia?
+  * Para soldados que habían luchado para Roma. || Recibieron tierras «como premio» después de años de guerra.
+  - Para comerciantes que llegaban por mar. || El texto dice lo contrario: «no la construyó para comerciantes».
+  - Para los campesinos que ya vivían en la zona. || Tampoco: «ni para campesinos, sino para soldados».
+Q: Según el texto, ¿por qué era un buen lugar para una ciudad?
+  * Porque tenía buena tierra, agua y un camino importante. || Tierra llana y fértil, agua dulce, el mar cerca y la futura Vía Augusta.
+  - Porque estaba en una montaña fácil de defender. || No: la tierra era «llana», y la ciudad estaba en una isla del río.
+  - Porque ya había un puerto muy grande. || El puerto en el río llegó más tarde, con la segunda ciudad.
+Q: «Pompeyo la castigó sin piedad» quiere decir que…
+  * fue muy duro con la ciudad. || «Sin piedad»: sin compasión. Tomó la ciudad, la incendió y mató a muchos habitantes.
+  - perdonó a sus habitantes. || Al contrario: «castigar» es lo opuesto de perdonar.
+  - la ciudad le pagó dinero. || No se habla de dinero, sino de incendios y muertos.
+Q: ¿Cómo sabemos hoy lo que pasó en el año 75 antes de Cristo?
+  * Entre otras cosas, por lo que han encontrado los arqueólogos. || Esqueletos y armas: la arqueología confirma lo que contaron los historiadores antiguos.
+  - Porque algunos edificios de aquel día siguen en pie en la plaza. || No: en la superficie no se ve casi nada.
+  - Porque Pompeyo lo escribió en un muro del foro. || El texto no dice nada de eso.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Décimo Junio Bruto funda Valentia para unos dos mil soldados.
+  = Las tropas de Pompeyo toman y queman la ciudad.
+  = Valentia queda casi abandonada durante medio siglo.
+  = La ciudad renace en tiempos de Augusto.
+  = Valentia tiene un foro nuevo, un puerto y un circo.
+  ! Fundación, destrucción, abandono y un segundo nacimiento: la historia de Valencia empieza dos veces.
+K: Una acción anterior a otra || «Unos dos mil hombres que habían luchado… recibieron allí tierras». Primero lucharon; después recibieron las tierras. Para la acción que pasó antes de otra acción pasada se usa el pluscuamperfecto: «había» + participio. Lo vas a ver mucho en los textos de historia.
+LUCIA: ¿Has visto? Dos mil años en cinco párrafos. Y lo has leído tú solo. Ahora te toca a ti: hazme una pregunta sobre la ciudad, como si fueras un turista del grupo.
+T: Pregunta a Lucía en qué año se fundó la ciudad.
+  = ¿En qué año se fundó la ciudad?
+  = ¿En qué año se fundó Valencia?
+  = ¿En qué año se fundó?
+  = ¿Cuándo se fundó la ciudad?
+  = ¿Cuándo se fundó Valencia?
+  = ¿En qué año fue fundada la ciudad?
+  = ¿En qué año fundaron la ciudad?
+  ! Como en los carteles: «se» + verbo. «¿En qué año {{se fundó|was founded (se + verb, passive)}}…?»
+LUCIA: En el ciento treinta y ocho antes de Cristo. ¡Muy bien preguntado! Venga, vamos a bajar.
+
+== capas | Una ciudad encima de otra ==
+N: Bajáis una escalera y, de repente, estáis debajo de la plaza. Encima de vuestras cabezas, el agua del estanque se mueve con la luz. Alrededor hay muros, columnas y calles de piedra.
+LUCIA: Aquí abajo no hay una ciudad, sino varias. Fíjate en los colores de los carteles: cada color es una época distinta. Te dejo otro texto, y después lo comprobamos con las piedras.
+H: Una ciudad encima de otra
+R: El nombre de este lugar no es romano. «Almoina» significa «limosna» en valenciano: en la Edad Media hubo aquí una casa de la Iglesia donde se daba de comer a los pobres. Aquel edificio desapareció hace mucho, y durante años el lugar fue solo un espacio vacío detrás de la catedral. En 1985, los arqueólogos empezaron a {{excavar|to excavate, dig}}. {Tardaron veinte años en|they took twenty years to (tardar en)} terminar, y lo que encontraron no fue una ciudad, sino varias, una encima de otra, como los pisos de un edificio.
+R: En {{el nivel|level, layer}} más profundo está la Valentia de la fundación, con sus termas y su almacén. Encima aparece la ciudad de la época imperial: parte del foro, un tramo de la Vía Augusta y la curia, donde se reunía el gobierno local.
+R: {{A partir del|from ... onwards}} siglo III, el Imperio entró en crisis y Valentia se hizo más pequeña. Al mismo tiempo, una nueva religión ganaba fuerza. Según la tradición, en el año 304 un diácono llamado Vicente fue torturado y murió en una cárcel de la ciudad {por negarse a|for refusing to} abandonar el cristianismo. Su tumba atrajo a peregrinos durante siglos, y hoy san Vicente Mártir es el patrón de Valencia. Cuando el poder romano desapareció, fueron los obispos quienes gobernaron {{de hecho|in practice, in fact}} la ciudad. En la época visigoda, en el {siglo VI|6th century (siglo sexto)}, {{se levantó|was built (levantarse)}} aquí una catedral con su baptisterio, y sus restos son hoy una de las partes más valiosas del museo.
+R: La capa siguiente es islámica. Desde el siglo VIII, Valencia formó parte de al-Ándalus, y en esta zona estuvo el alcázar, la residencia de los gobernantes. De él quedan algunos muros, un patio y una noria para sacar agua.
+R: Desde 2007, todo el conjunto se puede visitar. Una fina capa de agua sobre un suelo de cristal sirve de techo, {{de modo que|so that, in such a way that}} la luz del sol llega hasta las ruinas y, desde la plaza, cualquiera puede {asomarse|to lean over and look} a mirar. Pocas ciudades permiten ver en un solo lugar, y en apenas unos metros, más de mil años de su historia.
+Q: ¿De dónde viene el nombre «Almoina»?
+  * De una casa medieval donde se daba de comer a los pobres. || «Almoina» es «limosna» en valenciano: lo que se da a los pobres.
+  - Del nombre del cónsul que fundó la ciudad. || El cónsul da nombre a la plaza: Décimo Junio Bruto.
+  - De una palabra romana para «termas». || El nombre no es romano, sino medieval y valenciano.
+Q: ¿Qué encontraron los arqueólogos?
+  * Restos de varias épocas, unos encima de otros. || «Como los pisos de un edificio»: lo más antiguo está más abajo.
+  - Una ciudad romana completa y nada más. || También hay restos visigodos e islámicos.
+  - Solo los restos de la casa de los pobres. || Ese edificio había desaparecido; lo importante estaba debajo.
+Q: Cuando desapareció el poder romano, ¿quién gobernó en la práctica la ciudad?
+  * Los obispos. || «Fueron los obispos quienes gobernaron de hecho la ciudad».
+  - Los soldados de Pompeyo. || Pompeyo es de seis siglos antes.
+  - Los gobernantes del alcázar. || Ellos llegaron después, a partir del siglo VIII.
+Q: Los obispos gobernaron «de hecho». ¿Qué significa aquí «de hecho»?
+  * En la práctica, aunque no fuera su función oficial. || «De hecho» = en realidad, en la práctica. Lo contrario sería «de derecho» o «en teoría».
+  - Durante muy poco tiempo. || «De hecho» no habla del tiempo, sino de la realidad.
+  - Con la ayuda del emperador. || El texto dice que el poder romano había desaparecido.
+Q: ¿Verdadero o falso? «San Vicente fue un obispo de la época visigoda.»
+  * Falso. || Era un diácono y murió en el año 304, todavía en época romana. La catedral visigoda es dos siglos posterior.
+  - Verdadero. || Mira otra vez las fechas: Vicente murió en 304; la catedral visigoda es del {siglo VI|6th century (siglo sexto)}.
+Q: ¿Para qué sirve el estanque de la plaza?
+  * Es el techo del museo y deja pasar la luz. || «Una fina capa de agua sobre un suelo de cristal sirve de techo».
+  - Es una reconstrucción de las termas romanas. || Las termas están abajo; el estanque es moderno.
+  - Recoge el agua de la noria islámica. || La noria es un resto arqueológico: ya no funciona.
+K: Los siglos, en números romanos || En español los siglos se escriben con números romanos: «siglo III», «siglo VIII», «siglo XV». Hasta el diez se suelen leer como ordinales («siglo tercero», «siglo octavo»), y a partir del once, como números normales: «siglo once», «siglo quince». En la calle oirás casi siempre la forma fácil: «el siglo tres», «el siglo ocho».
+LUCIA*: ¿Ves ese edificio pequeño con forma de cruz? Es el baptisterio. Y aquel muro grueso del fondo ya es del alcázar. En veinte pasos has caminado seis siglos.
+T: Quieres saber la época del baptisterio. Pregunta de qué siglo es.
+  = ¿De qué siglo es el baptisterio?
+  = ¿De qué siglo es?
+  = ¿El baptisterio de qué siglo es?
+  = ¿De qué siglo es este baptisterio?
+  = Perdona, ¿de qué siglo es el baptisterio?
+  = ¿De qué época es el baptisterio?
+  ! Igual que «¿de qué época…?», pero con «siglo»: «¿{{De qué siglo|from which century}} es…?»
+LUCIA: Del siglo sexto, de la época visigoda. Mañana seguimos con la capa siguiente: la Valencia musulmana. Te va a sorprender.

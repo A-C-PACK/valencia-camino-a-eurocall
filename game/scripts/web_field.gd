@@ -102,7 +102,8 @@ func _place() -> void:
 	var r: JavaScriptObject = _canvas.getBoundingClientRect()
 	var scale: float = min(float(r.width) / BASE.x, float(r.height) / BASE.y)
 	var off := Vector2((float(r.width) - BASE.x * scale) / 2.0, (float(r.height) - BASE.y * scale) / 2.0)
-	var box := _edit.get_global_rect()
+	# where the field is on screen, which is not where it is in the game once zoomed in
+	var box: Rect2 = _edit.get_viewport().canvas_transform * _edit.get_global_rect()
 	var css := "%.1f,%.1f,%.1f,%.1f,%.3f" % [float(r.left) + off.x + box.position.x * scale,
 		float(r.top) + off.y + box.position.y * scale, box.size.x * scale, box.size.y * scale, scale]
 	if css == _last_box:

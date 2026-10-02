@@ -1,0 +1,109 @@
+@part 2
+@id turia
+@name Jardín del Turia
+@short Jardín del Turia
+@era La riada y el río verde · 1957 a 1986
+@geo 39.47614 -0.36915 centre b
+@focus 0.60
+@route Puente del Real, entre el centro histórico y los Jardines del Real. Hay escaleras para bajar al antiguo cauce.
+@blurb Un parque de nueve kilómetros donde antes había un río. Nació de una catástrofe, la riada de 1957, y de una protesta de los vecinos.
+@visit El antiguo cauce convertido en jardín, los puentes históricos y los muros de piedra que protegían la ciudad del río.
+
+== riada | La noche de la riada ==
+N: Noveno día. Lucía te espera en mitad de un puente de piedra con estatuas de santos. Debajo no hay agua: hay árboles, un carril bici y gente corriendo.
+LUCIA: ¡Buenos días! Bonito sitio para un puente, ¿verdad? Tantos arcos de piedra para cruzar un jardín. A ver, ¿tú sabes por qué aquí no hay río?
+C: Don Ramón te contó algo el primer día, en el taxi. ¿Qué respondes?
+  * {{Algo sé|I know a little (about it)}}: me contaron que hubo una riada y que desviaron el río. || «Algo sé» es modesto y natural. Y usas dos palabras que aprendiste en el taxi: «riada» y «desviar».
+  ~ Sí, hubo mucha agua y cambiaron el río. || Se entiende. Las palabras exactas son «riada» y «desviar el río».
+  - Algo sabo: hubo una riada. || «Saber» es irregular en la primera persona: «yo sé».
+LUCIA*: ¡Muy bien! Pues hoy vas a leer la historia completa. Mi abuela tenía ocho años aquella noche y vivía en una planta baja del Carmen. Todavía guarda una foto con la marca del agua en la pared, por encima de su cabeza.
+H: La noche de la riada
+R: Valencia nació junto a un río y durante dos mil años vivió con miedo de él. El Turia es un río mediterráneo: casi seco la mayor parte del año y, de pronto, terrible. Cuando llueve con fuerza en las montañas del interior, el agua baja toda a la vez. Los documentos antiguos recogen decenas de riadas. Después de las peores, la ciudad reconstruía sus puentes en piedra y levantaba muros a los lados del cauce, que todavía {bordean|line, run along the edge of (bordear)} el jardín.
+R: El 13 de octubre de 1957 llovió de forma extraordinaria en el interior. En la ciudad casi no caía agua, y mucha gente se fue a dormir tranquila. Hacia la medianoche, el Turia empezó a {{desbordarse|to overflow, burst its banks}}. Al día siguiente, cuando el nivel ya bajaba y muchos creían que lo peor había pasado, llegó una segunda ola, más fuerte que la primera. El agua cubrió gran parte de la ciudad. En muchas calles subió más de dos metros; en las más bajas, hasta cinco.
+R: Murieron {{al menos|at least}} ochenta y una personas, {{aunque|although}} muchos piensan que fueron bastantes más, sobre todo entre quienes vivían en casas muy pobres junto al cauce. Miles de familias perdieron su hogar. Cuando el agua se retiró, dejó sobre calles y plazas una capa enorme de {{barro|mud}}. Durante semanas, vecinos, soldados y voluntarios llegados de toda España trabajaron con palas para limpiarlo. Los valencianos llamaron a aquello «la batalla del barro».
+R: La ayuda del gobierno {tardó en llegar|was slow to arrive}, y el alcalde, Tomás Trénor, lo dijo en público. Poco después {fue destituido|was removed from office (destituir)}. Pero la protesta sirvió. En 1961 se aprobó una solución radical, el Plan Sur: si el río era el problema, había que sacarlo de la ciudad. Se excavó un cauce nuevo de unos doce kilómetros por el sur, ancho y recto, capaz de llevar mucha más agua que el antiguo, y a finales de 1969 el Turia empezó a correr por él. Los valencianos ayudaron a pagarlo: durante años, cada carta enviada desde la ciudad llevó un sello extra de veinticinco céntimos.
+R: Dentro de la ciudad quedó un cauce vacío de nueve kilómetros, con sus puentes históricos cruzando sobre la nada. La pregunta era qué hacer con él.
+Q: ¿Por qué es peligroso un río como el Turia?
+  * Porque casi siempre lleva poca agua, pero de pronto puede llevar muchísima. || «Casi seco la mayor parte del año y, de pronto, terrible».
+  - Porque es un río muy ancho y profundo todo el año. || Al contrario: suele estar casi seco.
+  - Porque nace muy cerca de la ciudad. || El agua viene de las montañas del interior.
+Q: ¿Por qué mucha gente se fue a dormir tranquila aquella noche?
+  * Porque en la ciudad casi no llovía. || La lluvia caía lejos, en el interior, y el agua llegó de noche por el río.
+  - Porque el alcalde dijo que no había peligro. || El texto no dice eso.
+  - Porque el río ya estaba desviado. || El desvío se hizo después, precisamente por esta riada.
+Q: ¿Qué pasó al día siguiente?
+  * Llegó una segunda ola más fuerte, cuando muchos creían que todo había pasado. || Por eso fue tan grave: sorprendió a la gente que ya había vuelto a la calle.
+  - El agua se retiró y no volvió. || Hubo una segunda ola.
+  - Empezó a llover por primera vez en la ciudad. || El texto habla de una segunda ola del río.
+Q: «Murieron al menos ochenta y una personas, aunque muchos piensan que fueron bastantes más.» ¿Qué nos dice esta frase?
+  * Que 81 es la cifra oficial mínima y que la real pudo ser mayor. || «Al menos» marca el mínimo; «aunque» introduce la duda.
+  - Que murieron exactamente 81 personas. || «Al menos» significa «como mínimo».
+  - Que murieron menos de 81 personas. || Es lo contrario: 81 o más.
+Q: ¿Qué fue «la batalla del barro»?
+  * El trabajo de limpiar el barro que dejó la riada. || No fue una guerra: fue un esfuerzo de vecinos, soldados y voluntarios.
+  - Una protesta contra el alcalde. || El alcalde fue quien protestó ante el gobierno.
+  - La construcción del nuevo cauce. || Eso es el Plan Sur, unos años después.
+Q: ¿En qué consistió el Plan Sur?
+  * En desviar el río por un cauce nuevo al sur de la ciudad. || «Si el río era el problema, había que sacarlo de la ciudad».
+  - En levantar muros más altos junto al río. || Eso se había hecho en siglos anteriores, y no bastó.
+  - En trasladar la ciudad a otro lugar. || Se movió el río, no la ciudad.
+K: «Aunque» || «Murieron al menos 81 personas, aunque muchos piensan que fueron más». «Aunque» introduce algo que limita o contradice lo anterior. Con indicativo presenta un hecho: «aunque llueve, salgo». Con subjuntivo, una posibilidad: «aunque llueva, saldré». En los textos equivale muchas veces a «pero» o a «a pesar de que».
+LUCIA: Mi abuela dice que lo peor no fue el agua, sino el barro. Lo recuerda todo como si fuera ayer.
+T: Pregunta a Lucía cuánta gente murió.
+  = ¿Cuánta gente murió?
+  = ¿Cuánta gente murió en la riada?
+  = ¿Cuántas personas murieron?
+  = ¿Cuántas personas murieron en la riada?
+  = ¿Y cuánta gente murió?
+  = ¿Cuánta gente murió aquella noche?
+  ! «Gente» es singular: «¿{{Cuánta gente murió|how many people died}}…?»
+LUCIA: Oficialmente, ochenta y una personas. Pero nadie contó a los que vivían en el propio cauce. Venga, vamos a bajar al río.
+
+== jardin | El río es nuestro ==
+N: Bajáis por una rampa de piedra. Abajo huele a pino. Un grupo de niños juega al fútbol donde antes pasaba el agua, y encima, enormes, los arcos del puente.
+LUCIA: Mira qué tranquilidad. Pues esto estuvo a punto de ser una autopista. De verdad. Lee y verás quién lo impidió.
+H: El río es nuestro y lo queremos verde
+R: Para los ingenieros del Plan Sur, la respuesta era evidente. El viejo cauce era el lugar perfecto para {{una autopista|a motorway}} que cruzara la ciudad de oeste a este y llevara los coches hasta el puerto y la playa, con vías de tren y aparcamientos. En los años sesenta, el coche era el futuro, y casi nadie lo discutía en voz alta.
+R: Sin embargo, a principios de los setenta algo empezó a cambiar. Arquitectos, periodistas, asociaciones de vecinos y grupos de jóvenes comenzaron a defender otra idea: Valencia era una ciudad con muy pocos parques, y aquel espacio enorme, que ya era de todos, debía ser un jardín. {{El lema|the slogan, motto}} se hizo famoso: «El llit del Túria és nostre i el volem verd», es decir, «el cauce del Turia es nuestro y lo queremos verde». Eran los últimos años de la dictadura, cuando {manifestarse|to demonstrate, protest} todavía podía costar caro, y aquella campaña fue para muchos valencianos su primera experiencia de participación ciudadana. La misma generación salvó también de la construcción el bosque del Saler, junto a la Albufera.
+R: Ganaron. En 1976, el Estado {{cedió|handed over, gave up (ceder)}} el cauce a la ciudad, y con los primeros ayuntamientos democráticos se decidió que sería un parque. El diseño general se encargó al arquitecto Ricardo Bofill, aunque después cada tramo lo proyectaron equipos distintos. El primero se inauguró en 1986.
+R: Hoy el Jardín del Turia es uno de los parques urbanos más grandes de España: nueve kilómetros de árboles, fuentes, campos de deporte y carriles para bicis, cruzados por dieciocho puentes. Algunos tienen quinientos años o más, como el de la Trinidad o el de Serranos; otros son muy recientes. {{A lo largo del|along, all along the}} antiguo río {han ido apareciendo|have gradually appeared (ir + gerund)} el Palau de la Música, el parque Gulliver, donde los niños trepan por un gigante tumbado, y, al final, la Ciudad de las Artes y las Ciencias.
+R: La historia tiene una segunda parte menos feliz. El 29 de octubre de 2024, unas lluvias enormes cayeron sobre la provincia. El nuevo cauce del Turia cumplió su función, y el centro de Valencia {{apenas|hardly, barely}} se inundó. Pero el agua bajó también por otros barrancos, y los pueblos y barrios situados al sur del cauce nuevo sufrieron una catástrofe en la que murieron más de doscientas veinte personas. Sesenta y siete años después de la riada, la relación de esta tierra con el agua sigue siendo un problema sin resolver.
+Q: ¿Qué querían hacer los ingenieros con el viejo cauce?
+  * Una autopista hasta el puerto y la playa. || En los años sesenta, «el coche era el futuro».
+  - Un parque con campos de deporte. || Esa fue la idea de los vecinos, años después.
+  - Un canal para barcos. || No se menciona nada parecido.
+Q: ¿Quiénes defendieron la idea del jardín?
+  * Vecinos, jóvenes, arquitectos y periodistas. || Fue un movimiento ciudadano, no una decisión del gobierno.
+  - Los ingenieros del Plan Sur. || Ellos querían la autopista.
+  - El alcalde Tomás Trénor. || Trénor había sido destituido muchos años antes.
+Q: ¿Por qué dice el texto que manifestarse «todavía podía costar caro»?
+  * Porque España era aún una dictadura y protestar era arriesgado. || «Costar caro» aquí no habla de dinero, sino de consecuencias: multas, detenciones.
+  - Porque había que pagar para entrar en el cauce. || No es un precio real.
+  - Porque los carteles eran muy caros. || «Costar caro» es una expresión: tener consecuencias graves.
+Q: «El centro de Valencia apenas se inundó» significa que…
+  * casi no se inundó. || «Apenas» = casi no. «Apenas llueve» = llueve muy poco.
+  - se inundó por completo. || Es lo contrario.
+  - se inundó solo un momento. || «Apenas» habla de cantidad: casi nada.
+Q: ¿Qué idea expresa el último párrafo?
+  * Que el desvío protegió el centro, pero no resolvió el problema para toda la zona. || En 2024 la catástrofe fue al sur del nuevo cauce.
+  - Que el Plan Sur fue inútil. || No: «cumplió su función» y el centro apenas se inundó.
+  - Que hoy ya no hay peligro de inundaciones. || Al contrario: es «un problema sin resolver».
+O: Ordena la historia del cauce.
+  = La riada inunda la ciudad.
+  = Se aprueba el Plan Sur y el río se desvía.
+  = Los ingenieros proponen una autopista en el viejo cauce.
+  = Los vecinos piden un cauce verde.
+  = Se inaugura el primer tramo del jardín.
+  ! De 1957 a 1986: casi treinta años para convertir una catástrofe en un parque.
+K: «Ir» + gerundio || «A lo largo del antiguo río han ido apareciendo edificios». «Ir» + gerundio describe algo que pasa poco a poco, por etapas: «voy aprendiendo», «la ciudad fue creciendo», «ya lo irás entendiendo». Compáralo con «seguir» + gerundio, que solo dice que algo continúa.
+LUCIA*: A mí me gusta pensar que este parque lo hicieron los abuelos de la gente que ahora corre por aquí. Si llega a ser por los ingenieros, estaríamos hablando al lado de seis carriles de coches.
+T: Dile a Lucía que te alegras de que sea un parque.
+  = Me alegro de que sea un parque.
+  = Me alegro de que sea un jardín.
+  = Me alegro mucho de que sea un parque.
+  = Pues me alegro de que sea un parque.
+  = Me alegra que sea un parque.
+  = Qué bien que sea un parque.
+  = Me alegro de que sea un parque y no una autopista.
+  ! «Alegrarse de que» + subjuntivo de «ser»: «{{Me alegro de que sea|I'm glad it is (subjunctive)}}…»
+LUCIA: Y yo. Bueno, solo nos queda un día. Mañana te recoge don Ramón: te lleva al mar, a su barrio.

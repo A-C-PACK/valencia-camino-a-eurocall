@@ -3,6 +3,7 @@
 @short EUROCALL
 @zone Universitat de València · Blasco Ibáñez
 @geo 39.47675 -0.35947 city r
+@focus 0.26
 @route Desde Xàtiva: metro, línea 3, tres paradas hasta Facultats, y cinco minutos a pie.
 @blurb Por fin, el congreso, en la Universitat de València. Las ponencias son en inglés, pero en la mesa de acreditaciones, en la cafetería y en los pasillos se habla español.
 @goal Recoger tu acreditación, presentarte, hablar de tu trabajo y charlar con colegas.

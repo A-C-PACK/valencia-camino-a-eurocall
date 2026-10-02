@@ -1,0 +1,87 @@
+{
+  "high_level_description": "A narrow old lane in the Carmen quarter of Valencia passing under a plain round stone arch between two houses, with a small balcony of flowerpots above the arch.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A shaded narrow street of pale plastered old houses with wooden shutters, sunlight falling on the far side of the arch.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          250,
+          280,
+          1000,
+          720
+        ],
+        "desc": "A simple semicircular archway of worn stone blocks spanning the lane, deep enough to walk through, with bright sunlight beyond it.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          120,
+          300,
+          300,
+          700
+        ],
+        "desc": "A small iron balcony above the arch crowded with terracotta pots of red geraniums.",
+        "color_palette": [
+          "#B8402A",
+          "#3F7D4E",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          1000,
+          290
+        ],
+        "desc": "The tall wall of an old house in warm ochre plaster with green wooden shutters.",
+        "color_palette": [
+          "#E8A33D",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          710,
+          1000,
+          1000
+        ],
+        "desc": "An old wall of rammed earth and rough stone, part of a medieval city wall, with a climbing plant.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#3F7D4E"
+        ]
+      }
+    ]
+  }
+}

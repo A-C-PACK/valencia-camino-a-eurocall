@@ -1,0 +1,106 @@
+@part 2
+@id quart
+@name Torres de Quart
+@short Torres de Quart
+@era Dos guerras · 1707 y 1808
+@geo 39.47579 -0.38395 centre r
+@focus 0.35
+@route Calle de Guillem de Castro, al final de la calle de Quart, en el lado oeste del centro histórico.
+@blurb La otra gran puerta que queda de la muralla. Por aquí se salía hacia Castilla, y por aquí llegaron dos guerras. Los agujeros de sus muros son de cañón.
+@visit Las dos torres redondas, con las marcas de los cañones franceses de 1808. Se puede subir.
+
+== almansa | Cuando el mal viene de Almansa ==
+N: Sexto día. Has quedado otra vez con Lucía, ahora en el lado oeste del centro. Las Torres de Quart son más toscas que las de Serranos: redondas, grises y llenas de agujeros.
+LUCIA: ¡Buenos días! ¿Qué tal con Jordi? Me ha dicho que le hiciste muy buenas preguntas. Hoy volvemos a las torres, pero estas tienen peor carácter. Por esta puerta salía el camino de Castilla.
+C: Te llaman la atención los agujeros de la piedra. ¿Cómo lo preguntas?
+  * Oye, ¿y {{de qué son|what are they from, what caused them}} esos agujeros? || «¿De qué es…?» pregunta por el origen o la causa: «¿de qué es esa mancha?».
+  ~ Oye, ¿qué son esos agujeros? || Bien. Con «¿de qué son?» preguntas directamente quién o qué los hizo.
+  - Oye, ¿por qué son esos agujeros? || «¿Por qué son…?» no funciona aquí. Mejor: «¿de qué son?» o «¿por qué hay agujeros?».
+LUCIA*: ¡Paciencia! Eso es la segunda parte. Primero tienes que leer una historia más antigua, la de mil setecientos siete. Es la fecha más triste del calendario valenciano, y casi ningún turista la conoce.
+H: Cuando el mal viene de Almansa
+R: En el año 1700 murió sin hijos {Carlos II|Charles II of Spain (Carlos segundo)}, el último rey de la familia de los Austrias, y Europa entera se puso a discutir quién debía {{heredar|to inherit}} la corona de España. Había dos candidatos. Uno era Felipe de Borbón, nieto del rey de Francia; el otro, el archiduque Carlos de Austria. Detrás de cada uno había una alianza de países, y la discusión se convirtió en una guerra internacional que duró más de diez años: la Guerra de Sucesión.
+R: Felipe llegó primero y fue coronado como {Felipe V|Philip V of Spain (Felipe quinto)}. Pero en los reinos de la Corona de Aragón muchos {{temían|feared (temer)}} que un rey francés gobernara como en Francia, desde el centro y sin respetar las leyes de cada territorio. En Valencia había, además, un conflicto social: muchos campesinos estaban {hartos de|fed up with} los impuestos que pagaban a sus señores, y los partidarios del archiduque les prometieron suprimirlos. En 1705, casi todo el reino se pasó al bando austriaco. A sus seguidores se les llamó «maulets»; a los de Felipe, «botiflers».
+R: La batalla decisiva fue el 25 de abril de 1707 en Almansa, justo al otro lado de la frontera con Castilla. El ejército de Felipe V venció con claridad y en pocas semanas ocupó Valencia. Algunas ciudades resistieron y lo pagaron caro: Xàtiva fue incendiada y perdió hasta el nombre durante un siglo. En su museo, el retrato de Felipe V sigue colgado {boca abajo|upside down}.
+R: {{El castigo|the punishment}} llegó el 29 de junio. Con un decreto de pocas líneas, el rey {{abolió|abolished (abolir)}} los Furs «por derecho de conquista». Desaparecieron las Cortes, el gobierno propio y la moneda; las leyes de Castilla sustituyeron a las valencianas, y el castellano, al valenciano en los tribunales y en la administración. El reino que había creado Jaume I {{dejó de|stopped, ceased to (dejar de + infinitive)}} existir casi cinco siglos después. Aragón perdió sus instituciones a la vez; Cataluña y Mallorca, unos años más tarde. Pero mientras aragoneses, catalanes y mallorquines conservaron al menos su derecho civil, el que regula las herencias o los contratos, los valencianos lo perdieron todo.
+R: De aquella derrota queda {un refrán|a proverb, saying} que todavía se oye en valenciano: «Quan el mal ve d'Almansa, a tots alcança». Es decir: cuando el mal viene de Almansa, a todos alcanza. Y queda una fecha. El 25 de abril se recuerda cada año con actos públicos, como la cara triste del 9 de octubre.
+Q: ¿Por qué empezó la Guerra de Sucesión?
+  * Porque el rey murió sin hijos y había dos candidatos a la corona. || Felipe de Borbón y el archiduque Carlos, cada uno con sus aliados.
+  - Porque Valencia quería separarse de España. || No: la guerra fue por saber quién sería rey de toda España.
+  - Porque Francia invadió la península. || Eso pasó un siglo después, con Napoleón.
+Q: ¿Por qué muchos valencianos apoyaron al archiduque?
+  * Por miedo a perder sus leyes y porque les prometieron menos impuestos. || Un motivo político y otro social.
+  - Porque el archiduque había nacido en Valencia. || Era austriaco.
+  - Porque Felipe V había abolido ya los Furs. || Eso pasó después, como castigo.
+Q: ¿Qué le pasó a Xàtiva?
+  * Fue incendiada y le cambiaron el nombre. || Durante un siglo se llamó San Felipe. Por eso el retrato del rey está boca abajo.
+  - Se convirtió en la capital del reino. || Al contrario: fue castigada.
+  - No sufrió ningún daño. || Fue una de las ciudades que «lo pagaron caro».
+Q: «El reino dejó de existir» significa que…
+  * ya no existió más. || «Dejar de» + infinitivo = no seguir haciendo algo: «dejó de llover», «he dejado de fumar».
+  - empezó a existir. || Eso sería «empezó a existir».
+  - permitió existir a otros. || «Dejar» puede ser «permitir», pero «dejar de» es «terminar».
+Q: Según el texto, ¿en qué fue diferente el caso valenciano del catalán o el aragonés?
+  * Los valencianos perdieron también su derecho civil. || Los otros territorios conservaron las leyes sobre herencias y contratos; Valencia, no.
+  - Los valencianos conservaron sus Cortes. || Las Cortes desaparecieron.
+  - Valencia fue el único territorio castigado. || También lo fueron Aragón, Cataluña y Mallorca.
+Q: ¿Verdadero o falso? «El refrán sobre Almansa ya no se usa.»
+  * Falso. || «Todavía se oye»: se dice cuando un problema que viene de fuera afecta a todos.
+  - Verdadero. || El texto dice que «todavía se oye».
+K: «Dejar de», «volver a», «ponerse a» || Tres maneras muy frecuentes de hablar del principio, del final o de la repetición de una acción, todas con infinitivo: «Europa se puso a discutir» (empezó), «el reino dejó de existir» (terminó), «la ciudad volvió a nacer» (otra vez). Las tres aparecen continuamente en los textos y en la calle.
+LUCIA: Ya ves que el nueve de octubre tiene una hermana triste. La mayoría de los valencianos conoce las dos fechas.
+T: Dile a Lucía que no lo sabías.
+  = No lo sabía.
+  = Pues no lo sabía.
+  = No lo sabía, la verdad.
+  = Yo no lo sabía.
+  = No sabía eso.
+  = No sabía nada de eso.
+  ! Imperfecto de «saber», y no olvides el «lo»: «{{No lo sabía|I didn't know (that)}}».
+LUCIA: Casi nadie de fuera lo sabe. Por eso lo cuento siempre. Y ahora sí: los agujeros.
+
+== canones | Las heridas de la torre ==
+N: Os acercáis a la torre de la izquierda. De cerca, los agujeros son enormes: en algunos cabe un puño, y en otros, la cabeza.
+LUCIA: Pon la mano en uno. Cuidado, que la piedra está caliente del sol. Este texto es más corto de contar que de leer: es la historia de un solo día.
+H: Las heridas de la torre
+R: Quien se acerca a las Torres de Quart nota {{enseguida|right away, at once}} algo raro. Los muros están llenos de agujeros redondos, algunos del tamaño de una naranja, otros grandes como un plato. No son defectos de la piedra ni efecto del tiempo. Son impactos de cañón, y tienen fecha: el 28 de junio de 1808.
+R: Aquella primavera, Napoleón había ocupado España con {{el pretexto|the pretext, excuse}} de cruzarla hacia Portugal y había puesto a su hermano José en el trono. El 2 de mayo, Madrid {se levantó|rose up (levantarse)} contra los franceses. El 23 de mayo llegó a Valencia la noticia de que el rey había entregado la corona a Napoleón. Según se cuenta, aquel día, en una plaza junto a la Lonja, un vendedor ambulante llamado Vicent Doménech, «el Palleter», ató un trozo de tela roja a una caña y gritó que él, un pobre palleter, le declaraba la guerra a Napoleón. La ciudad entera lo siguió.
+R: Un mes después, el mariscal Moncey llegó con unos ocho mil soldados, convencido de que Valencia se rendiría sin luchar. Atacó por el oeste, por las puertas de Quart y de San José. Pero los valencianos habían cerrado las puertas y habían colocado cañones en la muralla, y entre los defensores había soldados, artesanos, frailes y vecinos de todos los barrios. Los cañones franceses {{dispararon|fired, shot (disparar)}} durante horas contra las torres sin conseguir abrir un paso. Al anochecer, {tras|after} perder a cientos de hombres, Moncey {{se retiró|withdrew, retreated (retirarse)}}.
+R: La victoria duró poco. En enero de 1812 otro mariscal, Suchet, volvió con un ejército mucho mayor, bombardeó la ciudad y la tomó. Los franceses se quedaron un año y medio. Curiosamente, dejaron algo bueno: Suchet mandó plantar árboles y crear jardines y paseos, como los de la Glorieta, que todavía existen.
+R: Las torres, {{mientras tanto|meanwhile}}, siguieron su vida. Construidas entre 1441 y 1460, fueron durante mucho tiempo cárcel de mujeres y después prisión militar, y por eso tampoco se derribaron con la muralla. Cuando se restauraron, en el siglo XX, alguien propuso tapar los agujeros. Se decidió lo contrario: dejarlos {a la vista|in plain sight, visible}. Una ciudad también se cuenta por sus heridas.
+Q: ¿De qué son los agujeros de las torres?
+  * De los cañones franceses, en 1808. || «Son impactos de cañón, y tienen fecha».
+  - Del paso del tiempo y de la lluvia. || «No son defectos de la piedra ni efecto del tiempo».
+  - De las ventanas de la antigua cárcel. || Las torres fueron cárcel, pero los agujeros son de la guerra.
+Q: ¿Quién fue «el Palleter»?
+  * Un vendedor ambulante que, según se cuenta, declaró la guerra a Napoleón. || Un hombre del pueblo convertido en símbolo. Tiene una estatua junto a las Torres de Quart.
+  - El mariscal francés que atacó Valencia. || Ese fue Moncey.
+  - El rey que entregó la corona a Napoleón. || No: fue un vendedor de la calle.
+Q: ¿Por qué pensaba Moncey que sería fácil?
+  * Porque estaba convencido de que la ciudad se rendiría sin luchar. || Se equivocó: perdió a cientos de hombres y se retiró.
+  - Porque la muralla ya no existía. || En 1808 la muralla seguía en pie; se derribó en 1865.
+  - Porque tenía un acuerdo con los frailes. || Los frailes estaban entre los defensores.
+Q: En el texto, «tras perder a cientos de hombres» significa…
+  * después de perder a cientos de hombres. || «Tras» = después de. Es más frecuente en textos escritos que en la conversación.
+  - para no perder a cientos de hombres. || «Tras» indica tiempo, no finalidad.
+  - detrás de cientos de hombres. || «Tras» también puede ser «detrás de», pero aquí va con un verbo: es «después de».
+Q: ¿Qué quedó en la ciudad de la ocupación francesa?
+  * Algunos jardines y paseos. || «Curiosamente, dejaron algo bueno»: la Glorieta, por ejemplo.
+  - Una muralla nueva. || No construyeron murallas.
+  - El nombre de las Torres de Quart. || El nombre es mucho más antiguo: viene del pueblo de Quart.
+O: Ordena los hechos de 1808 a 1812.
+  = Napoleón pone a su hermano José en el trono de España.
+  = El Palleter declara la guerra a Napoleón.
+  = Moncey ataca las Torres de Quart y se retira.
+  = Suchet bombardea Valencia y la toma.
+  ! Valencia ganó la primera vez y perdió la segunda. Las marcas son de la primera.
+K: «Quien…» como sujeto || «Quien se acerca a las torres nota algo raro». «Quien» sin nombre delante significa «la persona que» o «cualquiera que». Lo has visto ya varias veces: «quien cruza la plaza», «quien no pagaba sus deudas». Es típico de los textos y de los refranes: «quien busca, encuentra».
+LUCIA: Mira esa de ahí arriba, la más grande. ¿Te imaginas el ruido?
+T: Pregunta cuánto tiempo se quedaron los franceses en Valencia.
+  = ¿Cuánto tiempo se quedaron los franceses?
+  = ¿Cuánto tiempo se quedaron los franceses en Valencia?
+  = ¿Cuánto tiempo se quedaron?
+  = ¿Cuánto tiempo estuvieron los franceses?
+  = ¿Cuánto tiempo estuvieron los franceses en Valencia?
+  = ¿Y cuánto tiempo se quedaron los franceses?
+  ! «Quedarse» en pasado: «¿{{Cuánto tiempo se quedaron|how long did they stay}}…?»
+LUCIA: Un año y medio, hasta el verano de mil ochocientos trece. Bueno, mañana cambiamos de siglo y de ambiente. Le he pedido a un amigo taxista que te lleve a la estación más bonita de España.

@@ -2,6 +2,7 @@
 @name Mercado Central
 @zone Ciutat Vella
 @geo 39.4735 -0.3789 centre l
+@focus 0.30
 @route Desde el hotel: unos ocho minutos a pie.
 @blurb Uno de los mercados de alimentos frescos más grandes de Europa, en un edificio modernista de 1928. Abre por las mañanas, de lunes a sábado.
 @goal Pedir fruta por peso, preguntar precios y entender los números.

@@ -1,0 +1,108 @@
+@part 2
+@id patriarca
+@name Colegio del Patriarca
+@short El Patriarca
+@era Germanías y moriscos · siglos XVI y XVII
+@geo 39.47269 -0.37312 centre r
+@focus 0.57
+@route Calle de la Nave, enfrente del edificio histórico de la Universidad.
+@blurb Un colegio del Renacimiento fundado por el arzobispo Juan de Ribera. Detrás de su claustro tranquilo hay un siglo de conflictos: una revuelta de artesanos y la expulsión de los moriscos.
+@visit El claustro de columnas de mármol, la iglesia cubierta de pinturas y un museo pequeño con obras del Greco.
+
+== germanias | Los gremios contra los nobles ==
+N: Quinto día. Hoy no has quedado con Lucía, sino con Jordi, el profesor que conociste en el congreso. Te espera en el patio de La Nau, el edificio antiguo de la Universidad, al lado de una estatua.
+JORDI: ¡Hombre, cuánto tiempo! Lucía me ha dicho que estás leyendo la historia de la ciudad en español. Me parece una idea estupenda. Hoy te toca el siglo dieciséis, que es el mío: lo estudié antes de dedicarme a la lingüística.
+C: Quieres decirle que el tema te interesa, pero que sabes muy poco. ¿Qué dices?
+  * Me interesa mucho, pero {{no tengo ni idea|I haven't got a clue}} de esa época. || «No tengo ni idea» es coloquial y muy frecuente. Entre colegas suena perfecto.
+  ~ Me interesa mucho, pero no sé nada de esa época. || Correcto. «No tengo ni idea» dice lo mismo con más gracia.
+  - Me interesa mucho, pero no tengo una idea de esa época. || La expresión es fija: «no tengo ni idea».
+JORDI*: Pues mejor, así te sorprende. Mira, enfrente tienes el Colegio del Patriarca. Ahora cruzamos. Pero primero lee esto: es la historia de una revuelta que empezó muy cerca de aquí, en los talleres de los artesanos.
+H: Los gremios contra los nobles
+R: En 1519 Valencia era una ciudad rica y nerviosa. Hacía tres años que tenía un rey nuevo, {Carlos I|Charles I of Spain (the emperor Charles V)}, un joven de diecinueve años nacido en Flandes que aún no había pisado el reino ni había jurado sus Furs. Aquel verano llegó la peste, y los nobles y las autoridades {{huyeron|fled (huir)}} al campo. En la ciudad quedaron los artesanos, organizados en {{gremios|guilds}}: tejedores, carpinteros, marineros.
+R: Había, además, otro peligro. Los piratas del norte de África atacaban la costa con frecuencia, y el rey había permitido que los gremios se armaran para defenderla. Con las armas en la mano y la ciudad sin gobierno, los artesanos formaron una hermandad, que en valenciano se dice «germania», y eligieron una junta de trece representantes. Pedían algo que hoy parece razonable: participar en el gobierno municipal, que estaba en manos de los nobles y de los ciudadanos más ricos, y una justicia igual para todos.
+R: Al principio fue un movimiento casi pacífico, dirigido por un tejedor moderado, Joan Llorenç. Pero Llorenç murió pronto, los nobles {{se negaron a|refused to (negarse a)}} ceder y los jefes más radicales, como Vicent Peris, {tomaron el mando|took command}. En 1521 la protesta era ya una guerra abierta entre el ejército de los agermanados y el de la nobleza.
+R: La guerra tuvo una víctima inesperada. Los nobles tenían en sus tierras miles de campesinos musulmanes, los mudéjares, que trabajaban para ellos y que lucharon en su ejército. Para los agermanados eran, a la vez, el infiel y el enemigo. Por donde pasaban, los obligaron a bautizarse en masa, a veces con una escoba mojada como único rito. Fue una conversión {{por la fuerza|by force}}, pero la Iglesia decidió después que era válida.
+R: La Germanía {{fue derrotada|was defeated (derrotar)}}. Peris murió luchando en las calles de Valencia en 1522, y la represión, dirigida por la virreina Germana de Foix, fue durísima: ejecuciones, exilios y multas enormes para los gremios. Los artesanos quedaron fuera del gobierno de la ciudad, y la nobleza, más unida que nunca al rey. Sin embargo, el problema que la guerra había creado {sin querer|unintentionally} iba a durar casi un siglo: ¿qué hacer con miles de cristianos que no querían serlo?
+Q: ¿Por qué tenían armas los gremios?
+  * Porque el rey les había dado permiso para defender la costa de los piratas. || «El rey había permitido que los gremios se armaran».
+  - Porque las habían robado a los nobles. || No: tenían permiso del rey.
+  - Porque eran soldados profesionales. || Eran artesanos: tejedores, carpinteros, marineros.
+Q: ¿Qué pedían los agermanados?
+  * Participar en el gobierno de la ciudad y una justicia igual para todos. || Algo «que hoy parece razonable», dice el texto.
+  - Un rey valenciano en lugar de Carlos I. || No pedían cambiar de rey.
+  - La expulsión de los comerciantes extranjeros. || El texto no habla de eso.
+Q: ¿Cómo cambió el movimiento con el tiempo?
+  * Empezó de forma casi pacífica y terminó en una guerra. || Murió el jefe moderado, los nobles no cedieron y mandaron los radicales.
+  - Empezó como una guerra y terminó con un acuerdo. || Al revés: no hubo acuerdo, sino derrota y represión.
+  - Fue siempre un movimiento de los nobles. || Era un movimiento de artesanos contra los nobles.
+Q: ¿Quién es «la víctima inesperada» de la guerra?
+  * Los campesinos musulmanes, obligados a bautizarse. || Luchaban en el ejército de sus señores, y los agermanados los bautizaron por la fuerza.
+  - El rey Carlos, que perdió el reino. || El rey ganó: la nobleza quedó más unida a él.
+  - La virreina, que murió en la guerra. || La virreina dirigió la represión.
+Q: «Los nobles se negaron a ceder» significa que…
+  * no aceptaron dar nada de lo que se les pedía. || «Negarse a» = decir que no. «Ceder» = dar una parte, dejar pasar.
+  - aceptaron negociar. || Es lo contrario.
+  - se marcharon de la ciudad. || Eso lo hicieron antes, por la peste; aquí se habla de no aceptar las peticiones.
+O: Ordena los hechos de la Germanía.
+  = La peste llega a Valencia y los nobles huyen al campo.
+  = Los artesanos armados eligen una junta de trece representantes.
+  = Muere Joan Llorenç y los radicales toman el mando.
+  = Los agermanados bautizan por la fuerza a miles de musulmanes.
+  = La Germanía es derrotada y empieza la represión.
+  ! Tres años, de 1519 a 1522, que cambiaron el reino para un siglo.
+K: «Hacía… que» || «Hacía tres años que tenía un rey nuevo». Para decir cuánto tiempo ha pasado se usa «hace… que» en presente («hace tres días que estoy en Valencia») y «hacía… que» cuando hablas del pasado. Es la misma idea que «llevar» + tiempo: «llevaba tres años con un rey nuevo».
+JORDI: ¿Qué tal? Ya ves que no todo era seda y naranjos. Pregúntame lo que quieras antes de cruzar.
+T: Pregunta a Jordi quién ganó la guerra.
+  = ¿Quién ganó la guerra?
+  = ¿Quién ganó?
+  = ¿Y quién ganó la guerra?
+  = ¿Quién ganó la guerra al final?
+  = Al final, ¿quién ganó la guerra?
+  = ¿Quiénes ganaron la guerra?
+  ! Pasado de «ganar», tercera persona: «¿{{Quién ganó|who won}}…?»
+JORDI: Los nobles y el rey. Pero, como pasa a veces en la historia, lo más importante de esa guerra no fue quién la ganó. Vamos enfrente y lo ves.
+
+== moriscos | Los que tuvieron que marcharse ==
+N: Cruzáis la calle. En la entrada del colegio, colgado de la pared, hay un cocodrilo enorme. Después, una puerta, y de pronto un claustro blanco y silencioso de dos pisos.
+JORDI: Antes de que preguntes: sí, el cocodrilo es de verdad. Es un caimán que le regalaron al fundador, y aquí lo llaman «el dragón del Patriarca». Pero la historia seria de esta casa es otra. Siéntate y lee.
+H: Los que tuvieron que marcharse
+R: En 1525, el rey Carlos ordenó que todos los musulmanes de la Corona de Aragón se bautizaran o se marcharan. Casi todos se quedaron. A partir de entonces se les llamó moriscos: oficialmente eran cristianos, pero en sus pueblos muchos seguían hablando árabe, vistiendo a su manera y {rezando|praying (rezar)} en secreto como sus abuelos.
+R: En el Reino de Valencia eran muchísimos: aproximadamente uno de cada tres habitantes. Vivían sobre todo en el interior y en las montañas, en tierras de señores que los defendían por interés, porque trabajaban bien y pagaban más impuestos que los cristianos. Durante décadas, la Iglesia intentó convertirlos de verdad con predicadores y escuelas, sin mucho éxito. Al mismo tiempo crecía {{el miedo|fear}}: se decía que los moriscos ayudaban a los piratas y que apoyarían una invasión turca.
+R: El hombre que más {{influyó|influenced (influir en)}} en la decisión final fue Juan de Ribera. Llegó a Valencia como arzobispo en 1569, con solo treinta y seis años, y lo fue durante más de cuarenta. Era culto, enérgico y muy rico, y fundó este colegio para formar sacerdotes. Al principio creyó que podría convertir a los moriscos. Con los años {se convenció de lo contrario|became convinced of the opposite} y escribió al rey {{una y otra vez|again and again}} pidiendo su expulsión.
+R: {Felipe III|Philip III of Spain (Felipe tercero)} firmó la orden en 1609. El 22 de septiembre se leyó en las calles de Valencia: los moriscos tenían tres días para presentarse en los puertos, y solo podían llevar lo que pudieran cargar. En pocos meses, unas ciento veinte mil personas {fueron embarcadas|were put on ships} hacia el norte de África desde Dénia, Alicante, Vinaròs y el puerto de Valencia. Algunos miles se rebelaron en las montañas y fueron vencidos. Muchos murieron en el viaje o al llegar.
+R: {{Las consecuencias|the consequences}} fueron enormes. Cientos de pueblos quedaron vacíos y hubo que repoblarlos con familias cristianas llegadas de otros lugares. Se perdieron {cosechas|harvests}, muchos nobles se arruinaron y el reino tardó más de un siglo en recuperar su población. Los historiadores discuten todavía las causas y la responsabilidad de cada uno. En el claustro del colegio, entre columnas de mármol blanco, es fácil olvidar que su fundador, declarado santo en 1960, fue también uno de los protagonistas de aquella decisión.
+Q: ¿Quiénes eran los moriscos?
+  * Musulmanes bautizados y sus descendientes, que oficialmente eran cristianos. || Muchos conservaban en secreto su lengua y su religión.
+  - Piratas del norte de África. || Se les acusaba de ayudar a los piratas, pero eran campesinos del reino.
+  - Cristianos que vivían en tierras musulmanas. || Al contrario.
+Q: ¿Por qué los defendían los nobles?
+  * Por interés: trabajaban bien y pagaban más impuestos. || No era por simpatía: eran la base de su riqueza.
+  - Porque los nobles también eran musulmanes. || No: eran señores cristianos.
+  - Porque se lo había ordenado el rey. || El texto dice que era «por interés».
+Q: ¿Cómo cambió la opinión de Juan de Ribera?
+  * Primero pensó que podría convertirlos; después pidió que los expulsaran. || «Con los años se convenció de lo contrario».
+  - Primero pidió la expulsión; después intentó impedirla. || Fue al revés.
+  - Nunca tuvo una opinión sobre el tema. || Fue el hombre que más influyó en la decisión.
+Q: «Se decía que los moriscos ayudaban a los piratas». ¿Qué nos indica «se decía»?
+  * Que era un rumor o una opinión de la época, no un hecho comprobado. || El texto no afirma que fuera verdad: explica el miedo que existía.
+  - Que los moriscos lo decían de sí mismos. || «Se decía» es impersonal: lo decía la gente.
+  - Que está demostrado. || Para eso se diría «se sabe que» o «está demostrado que».
+Q: ¿Qué podían llevarse los moriscos?
+  * Solo lo que pudieran cargar. || Tres días de plazo, y lo que cupiera en las manos y en la espalda.
+  - Todo lo que tenían, incluidos los animales. || No: solo lo que pudieran cargar ellos mismos.
+  - Nada en absoluto. || Podían llevar algo, pero muy poco.
+Q: ¿Verdadero o falso? «El reino recuperó su población en pocos años.»
+  * Falso. || «Tardó más de un siglo en recuperar su población».
+  - Verdadero. || Busca en el último párrafo cuánto tardó.
+K: Cuando el texto no toma partido || Fíjate en cómo el texto presenta las ideas que no puede demostrar: «se decía que…», «los historiadores discuten todavía…», «al parecer», «según la tradición». Son expresiones para contar lo que otros pensaban o piensan sin afirmar que sea verdad. En un texto de historia, o en una noticia, te dicen dónde termina el hecho y dónde empieza la opinión.
+JORDI*: Es una historia incómoda, y en la ciudad casi no se cuenta. No hay un monumento a los moriscos. Yo siempre traigo aquí a mis estudiantes por eso: el edificio es precioso, y la pregunta es difícil.
+T: Pregunta a Jordi adónde fueron los moriscos.
+  = ¿Adónde fueron los moriscos?
+  = ¿A dónde fueron los moriscos?
+  = ¿Adónde fueron?
+  = ¿A dónde fueron?
+  = ¿Y adónde fueron los moriscos?
+  = ¿Adónde se fueron los moriscos?
+  = ¿Dónde fueron los moriscos?
+  ! Como en el taxi: «¿adónde vamos?». Aquí en pasado: «¿{{Adónde fueron|where did they go}}…?»
+JORDI: Sobre todo a lo que hoy son Argelia, Túnez y Marruecos. En Túnez todavía hay pueblos fundados por ellos. Anda, vamos a ver la iglesia, y luego te invito a un café.

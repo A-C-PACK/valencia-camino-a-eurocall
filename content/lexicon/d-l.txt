@@ -8,7 +8,7 @@ darlas|to give them (dar palmas = to clap)
 darle|to give it (darle importancia = to make a fuss about it)
 das|you give (dar)
 datos|data
-daño|harm (hacerse daño = to hurt yourself)
+daño|harm, damage (hacerse daño = to hurt yourself)
 de|of, from
 debajo|underneath
 decid|say (vosotros command of decir)
@@ -90,7 +90,7 @@ duende|the mysterious spirit of deep emotion in flamenco
 dueña|owner (female)
 dulce|sweet
 dulces|sweet
-dura|lasts (durar)
+dura|hard, harsh; lasts (durar)
 durante|during, for
 día|day
 días|days
@@ -143,7 +143,7 @@ entrada|ticket, entry; entrance
 entradas|tickets
 entrantes|starters
 entras|you go in (entrar)
-entre|among, between
+entre|among, between; come in (usted command of entrar)
 entusiasmo|enthusiasm
 era|was (ser, imperfect)
 eres|you are (ser)
@@ -188,7 +188,7 @@ esto|this
 estos|these
 estoy|I am (estar)
 estrecha|narrow
-estrecho|narrow
+estrecho|narrow; strait
 estructura|structure
 estudiantes|students
 está|is (estar)
@@ -327,9 +327,9 @@ hacen|make, do (hacer)
 hacer|to do, to make
 hacerse|to be made, to get done
 haces|you do, make (hacer)
-hacia|towards
+hacia|towards; around (with dates)
 hacéis|you (plural) make (hacer)
-hacía|used to make (hacer, imperfect)
+hacía|used to make; hacía tres años que = it had been three years since (hacer, imperfect)
 hambre|hunger (tengo hambre = I'm hungry)
 hanna|-
 harina|flour
@@ -420,7 +420,7 @@ jordi|-
 joven|young; young man
 judía|bean (judía verde = green bean)
 jueves|Thursday
-junto|together
+junto|together; junto a = next to
 kilo|kilo
 kilómetros|kilometres
 la|the; her, it
@@ -468,7 +468,7 @@ llevo|I'm wearing; I have been (llevar)
 llit|riverbed (Valencian)
 llévala|wear it (tú command of llevar)
 lo|it; the (lo mejor = the best thing)
-local|venue, premises
+local|local; venue, premises
 lola|-
 lonja|exchange, trading hall
 los|the; them
@@ -484,3 +484,665 @@ línia|line (Valencian)
 líquida|liquid, not frozen
 facultats|-
 facultades|faculties, university buildings
+# part 2: the history readings
+d'almansa|from Almansa (Valencian)
+daba|gave, was given (dar)
+dado|given (dar)
+dais|you (plural) give (dar); dar la vuelta = to go round
+damos|we give (dar); damos una vuelta = we take a stroll
+darles|to give them
+daría|would give (dar)
+dañaron|they damaged (dañar)
+debía|should, had to (deber)
+debían|they had to (deber)
+decenas|tens, dozens
+decide|is decided, decides (decidir)
+decidió|decided (decidir)
+decirle|to tell him/her
+decirlo|to say it
+decisiva|decisive
+decisión|decision
+declara|declares (declarar)
+declaraba|was declaring (declarar)
+declarada|declared
+declarado|declared
+declaró|declared (declarar)
+decoración|decoration
+decorada|decorated
+decorativa|decorative
+decreto|decree
+decía|said, used to say (decir); se decía = people said
+decían|they said, used to say (decir)
+dedicaba|did for a living (dedicarse a)
+dedicarme|to devote myself, to go into (dedicarse a)
+dedicas|you do for a living (dedicarse a)
+dedicó|dedicated (dedicar)
+defectos|flaws, defects
+defender|to defend
+defenderla|to defend it
+defenderse|to defend oneself
+defendieron|they defended, argued for (defender)
+defendían|they defended (defender)
+defensa|defence
+defensores|supporters, defenders
+degradó|deteriorated (degradarse)
+dejado|left (dejar)
+dejando|leaving (dejar)
+dejarlos|to leave them
+dejaron|they left (dejar)
+dejó|left; dejó de = stopped (dejar)
+dels|of the (Valencian)
+demasiada|too much
+demetrio|-
+democráticos|democratic
+demostración|demonstration, proof
+demostrado|proven (demostrar)
+demostrar|to prove, show
+demostrara|would show (subjunctive of demostrar)
+deporte|sport
+deprisa|quickly, fast
+derecho|law; right
+derribadas|demolished
+derribando|demolishing (derribar)
+derribar|to demolish, knock down
+derribarlas|to demolish them
+derribaron|were demolished, they demolished (derribar)
+derribo|demolition
+derribó|demolished (derribar)
+derrota|defeat
+derrotada|defeated
+desaparecido|disappeared (desaparecer)
+desaparecieron|they disappeared (desaparecer)
+desapareció|disappeared (desaparecer)
+descansaban|they rested (descansar)
+descendientes|descendants
+descubierto|uncovered (al descubierto = exposed)
+desembarcar|to land, disembark
+deseos|wishes
+destaca|highlights, stresses (destacar)
+desterrado|exiled, banished
+destituido|removed from office (destituir)
+destrucción|destruction
+destruido|destroyed (destruir)
+destruyó|destroyed (destruir)
+desviado|diverted (desviar)
+desviar|to divert
+desvía|is diverted (desviar)
+desvío|diversion
+detalle|detail
+detenciones|arrests
+detener|to stop, halt
+deudas|debts
+dibujos|drawings, designs
+dibujó|was drawn, laid out (dibujar)
+dicen|they say (decir)
+dictadura|dictatorship
+dieciocho|eighteen
+dieciséis|sixteen
+diferencian|they differ (diferenciarse)
+diferente|different
+difícil|difficult
+digas|you say (subjunctive of decir)
+digo|I say (decir)
+dijo|said (decir)
+dime|tell me (tú command of decir)
+dirigida|led, directed
+dirigido|led, directed
+dirigió|led, directed (dirigir)
+diría|would say (decir)
+discusión|argument, dispute
+discuten|they debate, argue about (discutir)
+discutir|to argue, debate
+discutía|questioned, argued about (discutir)
+diseño|design
+disfrutando|enjoying (disfrutar)
+disfrutas|you enjoy (disfrutar)
+distinta|different
+distinto|different
+dividida|divided
+diácono|deacon
+documentos|documents
+domus|house (Latin)
+doménech|-
+dorada|golden, gilded
+doradas|golden, gilded
+doscientas|two hundred
+dragón|dragon
+duda|doubt
+duermes|you sleep (dormir)
+duran|they last (durar)
+durar|to last
+duraron|they lasted (durar)
+duro|hard, harsh
+duros|hard, harsh
+durísima|extremely harsh
+duró|lasted (durar)
+débiles|weak
+décadas|decades
+décimo|-
+dénia|-
+díaz|-
+e|and (used instead of «y» before i- or hi-)
+efecto|effect
+efectos|effects
+ejecuciones|executions
+ejemplos|examples
+ejército|army
+ejércitos|armies
+elegido|chosen (elegir)
+eligen|they elect, choose (elegir)
+eligieron|they elected, chose (elegir)
+eligió|chose (elegir)
+ellas|they, them (feminine)
+ellos|they, them
+elogió|praised (elogiar)
+eléctrica|electric
+embajadas|embassies
+embajadores|ambassadors
+embargo|sin embargo = however
+emperador|emperor
+empezaba|began, was beginning (empezar)
+empezaban|they began (empezar)
+empezado|begun (empezar)
+empezar|to begin
+empezaron|they began (empezar)
+empezáis|you (plural) begin (empezar)
+empiezan|they begin (empezar)
+emplearlos|to employ them
+empresa|company, firm
+enamorados|lovers, people in love
+encargó|was entrusted, commissioned (encargar)
+encendida|lit, switched on
+encerrar|to lock up
+encontrado|found (encontrar)
+encontrar|to find
+encontraron|they found (encontrar)
+encontró|found (encontrar)
+encuentra|finds (encontrar)
+enemigo|enemy
+enero|January
+enfermedad|disease, illness
+enfrente|opposite, across the street
+engañar|to deceive, cheat
+engañen|deceive (subjunctive of engañar)
+ensanchar|to widen
+enseguida|right away, at once
+enseñar|to teach, show
+enseñó|showed, taught (enseñar)
+entendiendo|understanding (entender)
+entera|whole, entire
+entiendas|you understand (subjunctive of entender)
+entiendes|you understand (entender)
+entraba|came in, entered (entrar)
+entraban|they came in (entrar)
+entran|they come in (entrar)
+entrar|to enter, come in
+entrara|would enter (subjunctive of entrar)
+entraron|they entered (entrar)
+entrega|handover, each thing handed over
+entregado|handed over (entregar)
+entregó|handed over; surrendered (entregar, entregarse)
+entro|I go in (entrar)
+entráis|you (plural) go in (entrar)
+entró|entered (entrar)
+envejecida|aged, run-down
+enviada|sent
+envueltos|wrapped
+enérgico|energetic, forceful
+epidemias|epidemics
+equipos|teams
+equivale|is equivalent (equivaler a)
+equivocó|was wrong (equivocarse)
+eran|they were (ser)
+error|mistake
+esas|those
+escalante|-
+escalera|staircase, stairs
+escenas|scenes
+escoba|broom
+escolar|school (adjective)
+escolares|school (adjective)
+escondida|hidden
+escondidos|hidden
+escribe|is written, writes (escribir)
+escriben|they are written, they write (escribir)
+escribió|wrote (escribir)
+escribía|wrote, was written (escribir)
+escribían|they wrote (escribir)
+escrita|written
+escritor|writer
+escritores|writers
+escritos|written
+escuchas|you listen (escuchar)
+escudos|coats of arms, shields
+escuela|school
+escuelas|schools
+esfuerzo|effort
+esos|those
+espacio|space
+especial|special
+especias|spices
+esperaba|was waiting for, expected (esperar)
+esperanza|hope
+esperara|to wait (subjunctive of esperar)
+esperaron|they waited (esperar)
+esperaría|would expect (esperar)
+espere|wait (usted command of esperar)
+espinacas|spinach
+espiral|spiral
+esposa|wife
+esqueletos|skeletons
+estaban|they were (estar)
+estado|state; been (estar)
+estanque|pond, pool
+estaríamos|we would be (estar)
+estatua|statue
+estatuas|statues
+estrechas|narrow
+estrella|star
+estrellas|stars
+estudiado|studied (estudiar)
+estudiando|studying (estudiar)
+estudiar|to study
+estudié|I studied (estudiar)
+estupenda|wonderful, great
+estuvimos|we were (estar)
+estuvo|was (estar)
+esté|is (subjunctive of estar)
+etapas|stages
+eterna|eternal
+exactas|exact
+excavados|dug out, excavated
+excavó|was dug (excavar)
+exilios|exiles, banishments
+existen|they exist (existir)
+existir|to exist
+existió|existed (existir)
+existía|existed (existir)
+existían|they existed (existir)
+experiencia|experience
+explico|I explain (explicar)
+explique|explain (subjunctive of explicar)
+explosión|explosion
+expolio|plundering, despoiling (of heritage)
+exportadores|exporters
+exposición|exhibition, fair
+expresa|expresses (expresar)
+expresiones|expressions
+expulsaran|they expel (subjunctive of expulsar)
+expulsión|expulsion
+expusieran|exhibit (subjunctive of exponer)
+extra|extra
+extranjera|foreign
+extranjeros|foreign; foreigners
+extraordinaria|extraordinary
+extraordinario|extraordinary
+extremo|end, far end
+fabricaba|was made, manufactured (fabricar)
+fabricaban|were made, manufactured (fabricar)
+fabricaron|were made, manufactured (fabricar)
+fachada|façade, front of a building
+fachadas|façades, fronts of buildings
+facilidad|ease (con facilidad = easily)
+fallera|woman in traditional Fallas dress (fallera mayor = queen of the Fallas)
+falso|false
+familias|families
+famosas|famous
+famosos|famous
+febrero|February
+fechas|dates
+felipe|Philip
+feliz|happy
+festival|festival
+figuras|figures, shapes
+fija|fixed, set
+filas|rows
+finales|a finales de = at the end of
+finalidad|purpose
+financiero|financier
+finca|estate, country property
+finos|fine, delicate
+firmar|to sign
+firmó|signed (firmar)
+flandes|Flanders
+flor|flower, blossom
+flores|flowers
+foix|-
+formaban|they formed (formar)
+formar|to train; to form
+formaron|they formed (formar)
+formas|shapes, forms
+formó|formed (formó parte de = was part of)
+foro|forum
+frailes|friars
+francesa|French
+franceses|French; the French
+francia|France
+franco|-
+francés|French; Frenchman
+franquismo|the Franco regime (1939–1975)
+frecuencia|frequency (con frecuencia = often)
+frecuentes|frequent
+frente|frente a = compared with, facing
+fresca|fresh
+frontera|border, frontier
+fronteras|borders, frontiers
+frutos|fruits (frutos secos = nuts and dried fruit)
+fuego|fire
+fuentes|fountains
+fuera|outside; were, was (subjunctive of ser)
+fueran|they were (subjunctive of ser)
+fueras|you were (subjunctive of ser); como si fueras = as if you were
+fueron|they were; they went (ser, ir)
+fueros|charters, a territory's own laws
+fuerza|strength, force
+fui|I went; I was (ir, ser)
+funcionaron|they worked, operated (funcionar)
+función|function, purpose
+funda|founds (fundar)
+fundación|founding, foundation
+fundado|founded (fundar)
+fundador|founder
+fundadores|founders
+fundados|founded
+fundó|founded (fundar)
+furs|the charters, the laws of the Kingdom of Valencia (Valencian: fueros)
+futura|future
+fábricas|factories
+fértil|fertile
+fíjate|notice, look (tú command of fijarse)
+fútbol|football
+galerías|galleries
+ganaba|was gaining (ganar)
+ganar|to win
+ganaron|they won (ganar)
+ganó|won (ganar)
+garajes|garages
+gastado|worn out
+generación|generation
+geométricas|geometric
+germana|-
+germania|brotherhood (Valencian)
+germanía|the Germanía, the revolt of the guilds (1519–1522)
+gerundio|gerund (the -ando / -iendo form)
+gibraltar|-
+giran|they turn, twist (girar)
+girando|twisting, turning (girar)
+glorieta|-
+gobernaban|they ruled (gobernar)
+gobernador|governor
+gobernantes|rulers
+gobernar|to rule, govern
+gobernara|would rule (subjunctive of gobernar)
+gobernaron|they ruled (gobernar)
+gobernó|ruled (gobernar)
+gobiernan|they rule (gobernar)
+gobierno|government
+golpe|blow (de golpe = suddenly)
+gracia|wit, charm
+grano|grain
+grao|-
+grave|serious
+graves|serious
+greco|El Greco (the painter)
+gremios|guilds
+grises|grey
+gritos|shouts (a gritos = by shouting)
+gritó|shouted (gritar)
+grosor|thickness
+grueso|thick
+grupos|groups
+grúa|crane
+guarda|keeps, holds (guardar)
+guardaron|were stored, kept (guardar)
+guerra|war
+guerras|wars
+guillem|-
+gulliver|-
+gárgolas|gargoyles
+góticas|Gothic
+góticos|Gothic
+habitantes|inhabitants
+hablaba|spoke, was spoken (hablar)
+hablaban|they spoke (hablar)
+hablamos|we talk, we talked (hablar)
+hablan|they speak (hablar)
+hablas|you speak (hablar)
+hablen|speak (subjunctive of hablar)
+hables|you speak (subjunctive of hablar)
+habría|would have; there would be (haber)
+habían|they had (haber)
+hacerlo|to do it
+haciendo|doing, making (hacer)
+hago|I do, make (hacer); te hago preguntas = I ask you questions
+hammam|hammam, Arab steam bath
+han|they have (haber)
+haría|would make (hacer)
+hazme|ask me, do for me (tú command of hacer)
+hechas|made
+hechos|facts, events; made
+herencias|inheritances
+heridas|wounds
+hermana|sister
+hermandad|brotherhood
+hermano|brother
+hermoso|beautiful
+hicieron|they did, made (hacer)
+hiciste|you did, made (hacer)
+hierro|iron
+hijos|children, sons
+himno|anthem
+hispania|Hispania (Roman Spain)
+historiadores|historians
+históricos|historic
+hizo|did, made (hacer)
+hogar|home
+hojas|leaves
+hombres|men
+hombros|shoulders (a hombros = on their shoulders)
+honradez|honesty
+honrados|honest
+hormigón|concrete
+hospital|hospital
+huele|smells (oler)
+hueles|you smell (oler)
+huelgas|strikes (huelga de hambre = hunger strike)
+huella|mark, trace, footprint
+huellas|footprints, traces
+huertos|vegetable gardens, orchards
+humedad|damp, humidity
+humilde|humble, modest
+huyen|they flee (huir)
+huían|they were fleeing (huir)
+hábleme|speak to me (usted command; hablar de tú = to use «tú»)
+héroe|hero
+iba|was going (ir)
+ideas|ideas
+idioma|language
+idiomas|languages
+iglesia|church
+iii|3rd (siglo III = siglo tercero, the 3rd century)
+ilustre|illustrious
+imaginar|to imagine
+imaginarla|to imagine it
+imaginaría|would imagine (imaginar)
+imaginas|you imagine (imaginar)
+imagínate|imagine (tú command)
+impactos|impacts, hits
+impedirla|to prevent it
+imperial|imperial
+imperio|empire
+imperios|empires
+impersonal|impersonal
+impidieron|they prevented (impedir)
+impidió|prevented (impedir)
+importaba|mattered (importar)
+imprenta|printing press
+impresa|printed
+impresiona|impresses, moves (impresionar)
+impresionarlos|to impress them
+impreso|printed
+imprimió|was printed (imprimir)
+impuesto|tax
+impuestos|taxes
+inaugura|is opened (inaugurar)
+inaugurar|to open, inaugurate
+inaugurarla|to open it
+inauguró|was opened (inaugurar)
+incendiada|burned, set on fire
+incendian|they set fire to (incendiar)
+incendiaron|they set fire to (incendiar)
+incendio|fire
+incendios|fires
+incendió|set fire to (incendiar)
+inclinado|steep, sloping
+inclita|illustrious (Latin)
+incluidos|including
+incluso|even
+incómoda|uncomfortable
+independiente|independent
+indicativo|indicative (verb mood)
+industria|industry
+inesperada|unexpected
+inesperado|unexpected
+infiel|infidel, unbeliever
+influencia|influence
+influyó|influenced (influir)
+ingenieros|engineers
+ingeniería|engineering
+inglaterra|England
+ingleses|English
+insistas|insist (subjunctive of insistir)
+insiste|insists, stresses (insistir)
+instalaron|they settled, set up (instalarse)
+instituciones|institutions
+institución|institution
+instrucciones|instructions
+intención|intention
+intentó|tried (intentar)
+interior|inland; inside
+internacional|international
+interviene|is involved (intervenir)
+interés|interest; self-interest
+introduce|introduces (introducir)
+introducir|to introduce
+inunda|floods (inundar)
+inundaciones|floods
+inunde|floods (subjunctive of inundar)
+invadió|invaded (invadir)
+invasión|invasion
+invierno|winter
+invita|invites (invitar)
+inútil|useless
+irse|to leave
+irás|you will go (ir)
+isla|island
+islámica|Islamic
+islámicos|Islamic
+italia|Italy
+italiano|Italian
+italianos|Italian; Italians
+jardines|gardens
+jaume|James (Valencian)
+jefe|leader, boss
+jefes|leaders
+jimena|-
+joan|-
+joanot|-
+joaquín|-
+josep|-
+josé|-
+journey|-
+juan|-
+judío|Jewish
+juega|plays (jugar)
+julio|July
+junio|June; Junio (the Roman name Junius)
+junta|council, committee
+juntos|together
+jurado|sworn (jurar)
+juramento|oath
+jurar|to swear (an oath)
+justicia|justice
+justo|fair; right, just (justo debajo = right below)
+jóvenes|young people
+kilómetro|kilometre
+l|-
+l'almoina|-
+l'eixample|the Ensanche, the 19th-century extension district (Valencian)
+lados|sides
+lana|wool
+largas|long
+larguísimas|extremely long
+latín|Latin
+lea|read (usted command / subjunctive of leer)
+leas|you read (subjunctive of leer)
+lee|read (tú command); reads (leer)
+leed|read (vosotros command of leer)
+leer|to read
+lees|you read (leer)
+letrero|sign
+levanta|raise (tú command of levantar)
+levantaba|built, raised (levantar)
+levantar|to raise; to build
+leyenda|legend
+leyendo|reading (leer)
+leyes|laws
+leyó|was read out, read (leer)
+libre|free (al aire libre = outdoors)
+limita|limits (limitar)
+limosna|alms, charity
+limpiar|to clean
+limpiarlo|to clean it up
+lingüistas|linguists
+literaria|literary
+llamadas|called
+llamado|called, named
+llamados|called
+llamaron|they called, named (llamar)
+llamarse|to be called
+llamaría|would be called, would call (llamar)
+llamó|called (se les llamó = they were called)
+llanura|plain, flat land
+llegaba|arrived, was arriving (llegar)
+llegaban|they arrived (llegar)
+llegadas|who had arrived, arrived
+llegados|who had arrived, arrived
+llegara|would reach (subjunctive of llegar)
+llegaron|they arrived (llegar)
+llegó|arrived (llegar)
+llenaron|they filled, filled up (llenar)
+llenas|full
+llenos|full
+llenó|filled (llenar)
+llevaba|had been (llevar + time); carried, wore
+llevaban|they carried (llevar)
+llevara|would take (subjunctive of llevar)
+llevarla|to take it
+llevarse|to take away with you
+llevas|you have been (llevar + time)
+llevó|carried, took (llevar)
+llibre|book (Valencian)
+llorenç|-
+llotja|exchange, market hall (Valencian: lonja)
+llover|to rain
+llovió|it rained (llover)
+llovía|it was raining (llover)
+llueva|it rains (subjunctive of llover)
+llueve|it rains (llover)
+lluvia|rain
+lluvias|rains
+londres|London
+luchaba|fought (luchar)
+luchaban|they fought (luchar)
+luchado|fought (luchar)
+luchando|fighting (luchar)
+luchar|to fight
+lucharon|they fought (luchar)
+luchó|fought (luchar)
+lugares|places
+luis|-
+léelo|read it (tú command)
+lógico|logical
+épocas|periods, eras
+éxito|success

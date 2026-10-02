@@ -1,0 +1,104 @@
+@part 2
+@id norte
+@name Estación del Norte
+@short Estación del Norte
+@era La ciudad moderna · 1865 a 1917
+@geo 39.46691 -0.37719 centre r
+@focus 0.62
+@route Calle de Xàtiva, al lado de la plaza de toros y a cinco minutos de la plaza del Ayuntamiento.
+@blurb En el siglo XIX Valencia derribó su muralla y se hizo rica vendiendo naranjas a media Europa. Su estación de tren es el mejor retrato de aquella época.
+@visit La fachada de naranjas de cerámica, el vestíbulo con «Buen viaje» en muchos idiomas y la Sala de los Mosaicos.
+
+== ensanche | Una ciudad sin murallas ==
+N: Séptimo día. Delante del hotel te espera un taxi blanco con la luz verde encendida. El conductor baja la ventanilla y lo reconoces enseguida.
+RAMON: ¡Hombre, el profesor de Hawái! Suba, suba, que Lucía me ha dado instrucciones. ¿Qué tal estos días por Valencia?
+C: Lo estás pasando muy bien. ¿Qué respondes?
+  * ¡Don Ramón! Muy bien, {{me lo estoy pasando genial|I'm having a great time}}. || «Pasárselo bien» es la forma más natural de decir que disfrutas. «Genial» es coloquial y cae simpático.
+  ~ ¡Don Ramón! Muy bien, estoy disfrutando mucho. || Correcto. En la calle oirás más «me lo estoy pasando muy bien».
+  - ¡Don Ramón! Muy bien, estoy teniendo un buen tiempo. || Eso es inglés traducido. En español: «me lo estoy pasando muy bien».
+RAMON*: Me alegro. Pues hoy le llevo a la Estación del Norte. Son cinco minutos, pero vamos a ir por la ronda, por donde iba la muralla. Mi abuelo cargaba cajas de naranjas en esa estación, ¿sabe usted? Tome, Lucía me ha dado esto para que lo lea por el camino.
+H: Una ciudad sin murallas
+R: {{A mediados del|in the middle of the (with centuries, months)}} siglo XIX, Valencia tenía más de cien mil habitantes {apretados|squeezed, packed tight} dentro de la misma muralla del siglo XIV. Las calles eran estrechas y oscuras, las casas crecían hacia arriba y el cólera volvía cada pocos años. Fuera de las puertas empezaba directamente la huerta. La ciudad {se ahogaba|was suffocating (ahogarse)}.
+R: En 1865, el gobernador Cirilo Amorós encontró la ocasión. La industria de la seda, que había dado trabajo a media ciudad, estaba en ruinas por una enfermedad de los gusanos y por {{la competencia|competition}} extranjera, y miles de obreros no tenían de qué vivir. Amorós propuso emplearlos en derribar la muralla. Las obras empezaron en febrero y duraron varios años. Donde estaba el muro se abrió una ronda ancha, las actuales calles de Colón, Xàtiva y Guillem de Castro, y al otro lado se dibujó el Ensanche: un barrio nuevo de calles rectas y manzanas regulares para la burguesía.
+R: El dinero para construirlo salió, {{en buena parte|to a large extent}}, de una fruta. La naranja dulce se cultivaba en la zona desde hacía tiempo, pero fue en la segunda mitad del siglo cuando {{el ferrocarril|the railway}} y los barcos de vapor permitieron llevarla fresca hasta Inglaterra, Francia y Alemania. Los campos secos se convirtieron en naranjales, los puertos se llenaron de cajas de madera y {surgió|emerged, arose (surgir)} una clase nueva de exportadores ricos. Junto a la naranja crecieron el arroz, el vino y, en la ciudad, las fábricas de muebles, de abanicos y de azulejos.
+R: El tren había llegado pronto: en 1852 se inauguró la línea entre Valencia y su puerto, el Grao, una de las primeras de España. La estación estaba entonces dentro de la muralla, muy cerca de donde hoy está la plaza del Ayuntamiento. Con el cambio de siglo {se quedó pequeña|became too small}, y la compañía decidió construir otra más grande un poco más al sur.
+R: Fue también una época de {{orgullo|pride}}. Un escritor, Vicente Blasco Ibáñez, retrató en sus novelas la huerta, la Albufera y los barrios de pescadores, y arrastró a media ciudad detrás de sus ideas republicanas. Un pintor, Joaquín Sorolla, enseñó al mundo la luz de la playa de Valencia. Y en 1909 la ciudad organizó una gran Exposición Regional para mostrar todo lo que producía. El himno que se compuso para inaugurarla es hoy el himno oficial de la Comunidad Valenciana.
+Q: ¿Qué problema tenía Valencia a mediados del siglo XIX?
+  * Tenía demasiada gente dentro de una muralla medieval. || Calles estrechas, casas cada vez más altas y epidemias: «la ciudad se ahogaba».
+  - Estaba perdiendo población. || Al contrario: tenía más de cien mil habitantes y no cabían.
+  - No tenía puerto. || Tenía el Grao, unido a la ciudad por tren desde 1852.
+Q: ¿Por qué se derribó la muralla precisamente en 1865?
+  * Porque había miles de obreros sin trabajo por la crisis de la seda. || El derribo resolvía dos problemas: el paro y la falta de espacio.
+  - Porque la habían destruido los cañones franceses. || Los franceses dañaron las torres en 1808, pero la muralla siguió en pie.
+  - Porque lo ordenó el rey desde Madrid. || Fue una propuesta del gobernador, Cirilo Amorós.
+Q: ¿Qué es el Ensanche?
+  * Un barrio nuevo de calles rectas construido fuera de la antigua muralla. || «Ensanchar» es hacer más ancho. En valenciano, l'Eixample: lo has visto en el mapa.
+  - La calle ancha que sustituyó a la muralla. || Esa es la ronda; el Ensanche está al otro lado.
+  - El puerto de la ciudad. || El puerto es el Grao.
+Q: ¿Por qué la naranja se convirtió en un gran negocio en la segunda mitad del siglo?
+  * Porque el tren y los barcos de vapor permitían llevarla fresca a otros países. || La fruta existía ya; lo nuevo fue el transporte rápido.
+  - Porque la trajeron entonces los comerciantes ingleses. || Se cultivaba aquí «desde hacía tiempo».
+  - Porque el gobierno prohibió cultivar arroz. || El arroz también creció en esa época.
+Q: «La estación se quedó pequeña» quiere decir que…
+  * ya no era suficiente para tanto tráfico. || «Quedarse pequeño» se dice de la ropa, de una casa, de un aula: algo que ya no basta.
+  - la hicieron más pequeña. || Nadie la cambió: creció todo lo demás.
+  - se quedó en un lugar pequeño. || No habla del lugar, sino del tamaño frente a las necesidades.
+Q: ¿Verdadero o falso? «El himno de la Comunidad Valenciana se escribió para una exposición.»
+  * Verdadero. || Para la Exposición Regional de 1909. Lo vas a oír en las Fallas.
+  - Falso. || Mira el último párrafo: se compuso para inaugurar la Exposición.
+K: «A principios», «a mediados», «a finales» || Tres expresiones que vas a necesitar siempre que hables de fechas sin dar el año exacto: «a principios del siglo VIII», «a mediados del siglo XIX», «a finales de 1936». También con meses y años: «a mediados de julio», «a finales de año».
+RAMON: Ya estamos. ¿Ve qué rápido? Antes de bajar, ¿quiere preguntarme algo?
+T: Ramón ha hablado de su abuelo. Pregúntale a qué se dedicaba.
+  = ¿A qué se dedicaba su abuelo?
+  = ¿A qué se dedicaba?
+  = ¿Y a qué se dedicaba su abuelo?
+  = ¿Su abuelo a qué se dedicaba?
+  = ¿A qué se dedicaba su abuelo exactamente?
+  = ¿En qué trabajaba su abuelo?
+  ! Jordi te preguntó «¿a qué te dedicas?». Aquí, de usted y en imperfecto: «¿{{A qué se dedicaba|what did he do (for a living)}}…?»
+RAMON: Era mozo de estación. Cargaba los vagones de naranjas que iban para Francia. Decía que en invierno toda la estación olía a naranja. Venga, entre, que yo le espero aquí.
+
+== estacion | Buen viaje ==
+N: Entras solo en el vestíbulo. Es como una caja de madera y cerámica: techos de colores, taquillas antiguas y, en las paredes, las mismas dos palabras en muchos idiomas.
+RAMON: ¡Espere, que al final entro con usted! No la veo por dentro desde hace años. Mire arriba, mire. Y lea, lea, que yo mientras busco el letrero en inglés.
+H: Buen viaje
+R: La Estación del Norte no está en el norte de la ciudad, sino al sur del centro. El nombre viene de la empresa que la construyó, la Compañía de los Caminos de Hierro del Norte de España. El proyecto {se encargó a|was entrusted to, commissioned from} un arquitecto valenciano de la casa, Demetrio Ribes, que tenía poco más de treinta años. Las obras empezaron en 1907 y la estación se inauguró el 8 de agosto de 1917.
+R: Ribes conocía bien lo que se estaba haciendo en Viena, donde un grupo de arquitectos había roto con los estilos del pasado. De ellos tomó las líneas rectas, las formas geométricas y la idea de que un edificio útil podía ser también una obra de arte, cuidada {{hasta el último detalle|down to the last detail}}. Pero lo llenó de Valencia. {{La fachada|the façade, front of a building}} está cubierta de naranjas y flores de azahar de cerámica, de escudos de la ciudad y de estrellas, que eran el símbolo de la compañía. En lo alto, dos grandes mosaicos muestran escenas de la huerta.
+R: Dentro, el vestíbulo es todavía más sorprendente. Las taquillas son de madera, el techo y las columnas están {forrados de|lined with, covered in} cerámica, y en las paredes se lee «Buen viaje» en muchos idiomas. A un lado se abre la antigua cafetería, la Sala de los Mosaicos, cubierta de arriba abajo de paneles con barracas, naranjos, la Albufera y el Miguelete. Casi todos los materiales se fabricaron en talleres valencianos.
+R: Detrás de tanta decoración hay una gran obra de ingeniería. {{Los andenes|the platforms}} están cubiertos por una enorme nave de hierro y cristal, de casi doscientos metros de largo y sin una sola columna en el centro. Era la tecnología más avanzada de su tiempo, la misma de las grandes estaciones de París o de Londres.
+R: La estación no fue un caso {aislado|isolated}. En los mismos años se construyeron el Mercado de Colón, el Mercado Central y decenas de casas del Ensanche con balcones de hierro, flores de piedra y azulejos de colores. A este estilo se le llama modernismo, y Valencia es una de las ciudades donde mejor se conserva. Más de un siglo después, la estación {{sigue cumpliendo|is still fulfilling (seguir + gerund)}} su función original: de sus andenes salen cada día los trenes de cercanías.
+Q: ¿Por qué se llama «Estación del Norte»?
+  * Por el nombre de la compañía que la construyó. || No tiene nada que ver con su posición en la ciudad: está al sur del centro.
+  - Porque está en el norte de Valencia. || «No está en el norte de la ciudad, sino al sur del centro».
+  - Porque de ella solo salen trenes hacia el norte. || El texto no dice eso.
+Q: ¿Qué tomó Ribes de los arquitectos de Viena?
+  * Las formas rectas y geométricas y el cuidado de cada detalle. || Y a eso le añadió los motivos valencianos.
+  - Las naranjas y las flores de azahar. || Eso es precisamente lo valenciano.
+  - La nave de hierro y cristal. || Esa tecnología era la de las estaciones de París o Londres.
+Q: Según el texto, ¿qué hace «valenciana» a esta estación?
+  * La decoración: naranjas, azahar, la huerta, y materiales hechos aquí. || «Pero lo llenó de Valencia».
+  - Que el arquitecto había estudiado en Valencia. || El texto solo dice que era valenciano; lo importante es la decoración.
+  - Que está construida con piedra de la muralla. || No se dice nada de eso.
+Q: «Sin una sola columna en el centro» destaca que la nave…
+  * es una obra de ingeniería difícil. || Cubrir tanto espacio sin apoyos era lo más avanzado de la época.
+  - está sin terminar. || No: es una decisión técnica, y un mérito.
+  - es más pequeña que las de París. || No se compara el tamaño, sino la tecnología.
+Q: ¿Qué es el modernismo, según el texto?
+  * Un estilo de principios del siglo XX, con hierro, flores de piedra y azulejos. || En otros países se llama Art Nouveau. En Valencia lo ves en los mercados y en el Ensanche.
+  - Cualquier edificio moderno. || En arte, «modernismo» es un estilo concreto de hacia 1900.
+  - El estilo de las torres medievales. || Ese es el gótico.
+Q: ¿Para qué se usa hoy la estación?
+  * Sigue siendo una estación de tren. || «Sigue cumpliendo su función original».
+  - Es solo un museo. || Se puede visitar, pero de ella salen trenes cada día.
+  - Es un mercado. || Los mercados son el de Colón y el Central.
+K: «Seguir» + gerundio || «La estación sigue cumpliendo su función». «La mayoría siguió siendo musulmana». «Muchos seguían hablando árabe». Para decir que algo continúa, el español usa «seguir» + gerundio, no «todavía» + verbo: «sigo estudiando», «¿sigues viviendo en Hawái?». Para lo contrario: «ya no» + verbo.
+RAMON: ¡Aquí está! «Pleasant journey». ¿Lo he dicho bien? Bueno, da igual. ¿Qué le parece la estación?
+T: Te encanta. Dile que es la estación más bonita que has visto.
+  = Es la estación más bonita que he visto.
+  = Es la estación más bonita que he visto nunca.
+  = Es la estación más bonita que he visto en mi vida.
+  = Es la más bonita que he visto.
+  = Me parece la estación más bonita que he visto.
+  = Pues es la estación más bonita que he visto.
+  ! Superlativo + «que he visto»: «{{la más bonita que he visto|the most beautiful one I've seen}}».
+RAMON: ¡Eso digo yo! Y la gente pasa corriendo sin mirar. Ande, que le llevo al hotel. Mañana creo que tiene usted cita con un profesor.

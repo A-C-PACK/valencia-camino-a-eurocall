@@ -1,6 +1,7 @@
 extends Control
 ## Plays one scene: a conversation log on the right, and under it the panel
-## where the player listens, chooses, or types.
+## where the player listens, chooses, or types. In part 2 the log also holds
+## the reading passage the questions are about.
 
 const Compas := preload("res://scripts/compas.gd")
 
@@ -26,12 +27,15 @@ var hidden_lines: Array = []    # callables that reveal a hidden line
 var new_phrases: Array = []
 var _continue: Callable
 var _options: Array = []    # the A/B/C buttons currently on screen
+var reading := false        # part 2: a history reading rather than a conversation
+var _passage: Control       # the reading passage now in the log, to scroll back to
 
 
 func _ready() -> void:
 	loc = Game.locations[loc_index]
 	scene = loc.scenes[scene_index]
 	steps = scene.steps
+	reading = Game.part_of(loc_index) == 2
 	listen_mode = Game.setting("listen_mode", false)
 	_build()
 	_next()
@@ -231,6 +235,40 @@ func _add_note(s: Dictionary) -> void:
 	_scroll_down()
 
 
+## A reading passage: its title and every paragraph, shown in one piece.
+func _add_passage(title: String, paragraphs: Array) -> void:
+	var count := 0
+	for p in paragraphs:
+		count += int(p.words)
+	var panel := UI.panel(Color.WHITE, 12, UI.LINE, 1, 22)
+	var v := VBoxContainer.new()
+	v.add_theme_constant_override("separation", 12)
+	v.add_child(UI.label("LECTURA · %d PALABRAS" % count, 12, UI.ORANGE, "bold"))
+	if title != "":
+		var t := UI.label(title, 27, UI.INK, "serif")
+		t.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
+		v.add_child(t)
+	for p in paragraphs:
+		var t := GlossText.new()
+		t.set_style(20, UI.INK)
+		t.add_theme_constant_override("line_separation", 5)
+		t.by_sentence = true
+		t.set_segs(p.segs)
+		_note_phrases(p.segs)
+		v.add_child(t)
+	panel.add_child(v)
+	log_box.add_child(panel)
+	_passage = panel
+	_scroll_to_passage()
+
+
+func _scroll_to_passage() -> void:
+	for i in 3:
+		await get_tree().process_frame
+	if is_instance_valid(scroll) and is_instance_valid(_passage):
+		scroll.scroll_vertical = int(_passage.position.y)
+
+
 # ------------------------------------------------------------------ the steps
 
 func _next() -> void:
@@ -261,10 +299,37 @@ func _next() -> void:
 			_ask_typed(s)
 		"compas":
 			_show_compas(s)
+		"head", "read":
+			var title := ""
+			var paragraphs: Array = []
+			while idx < steps.size() and steps[idx].t in ["head", "read"]:
+				if steps[idx].t == "head":
+					title = steps[idx].title
+				else:
+					paragraphs.append(steps[idx])
+				idx += 1
+			idx -= 1
+			_add_passage(title, paragraphs)
+			_tag("Lee con calma · toca cualquier palabra para ver qué significa", UI.MUTED)
+			_show_continue("He leído el texto", "", false)
+		"order":
+			_ask_order(s)
 
 
 func _tag(text: String, color: Color) -> void:
-	action.add_child(UI.label(text.to_upper(), 12, color, "bold"))
+	var l := UI.label(text.to_upper(), 12, color, "bold")
+	if not is_instance_valid(_passage) or color == UI.MUTED:
+		action.add_child(l)
+		return
+	# a question about the passage: one click takes the reader back up to it
+	var row := HBoxContainer.new()
+	l.size_flags_horizontal = Control.SIZE_EXPAND_FILL
+	row.add_child(l)
+	var up := UI.button("↑ Volver al texto", "small", UI.MUTED)
+	up.focus_mode = Control.FOCUS_NONE
+	up.pressed.connect(_scroll_to_passage)
+	row.add_child(up)
+	action.add_child(row)
 
 
 func _feedback(segs: Array, good: bool, lead: String) -> GlossText:
@@ -284,7 +349,7 @@ func _say_it(audio: String) -> void:
 	action.add_child(row)
 
 
-func _show_continue(label := "Continuar", shadow := "") -> void:
+func _show_continue(label := "Continuar", shadow := "", to_end := true) -> void:
 	if action.get_child_count() == 0:
 		_tag("Escucha, lee y repite" if shadow != "" else "Lee", UI.MUTED)
 	var row := HBoxContainer.new()
@@ -302,7 +367,8 @@ func _show_continue(label := "Continuar", shadow := "") -> void:
 		_next()
 	b.pressed.connect(func(): _continue.call())
 	UI.focus(b)
-	_scroll_down()
+	if to_end:
+		_scroll_down()
 
 
 func _ask(s: Dictionary, is_choice: bool) -> void:
@@ -496,6 +562,70 @@ func _typed(s: Dictionary, input: String, fb_slot: VBoxContainer) -> void:
 	_show_continue()
 
 
+## Put the items in order: the player picks what comes first, then next, and so on.
+func _ask_order(s: Dictionary) -> void:
+	_clear_action()
+	scorable += 1
+	first_try = true
+	_tag("Ordena", UI.TEAL)
+	var prompt := GlossText.new()
+	prompt.set_style(19, UI.INK)
+	prompt.set_segs(s.segs)
+	action.add_child(prompt)
+
+	var order: Array = range(s.items.size())
+	order.shuffle()
+	var placed: Array = [0]    # how many are in place (in an array so the lambdas share it)
+	var fb := UI.label("Elige qué pasó primero.", 16, UI.MUTED, "italic")
+	for n in order.size():
+		var item: int = order[n]
+		var row := HBoxContainer.new()
+		row.add_theme_constant_override("separation", 10)
+		var pick := UI.button("ABCDEF"[n], "ghost", UI.INK)
+		pick.custom_minimum_size = Vector2(42, 34)
+		pick.size_flags_vertical = Control.SIZE_SHRINK_CENTER
+		row.add_child(pick)
+		var t := GlossText.new()
+		t.set_style(17, UI.INK)
+		t.quiet = true
+		t.set_segs(s.items[item])
+		t.size_flags_vertical = Control.SIZE_SHRINK_CENTER
+		row.add_child(t)
+		action.add_child(row)
+		_options.append(pick)
+		pick.pressed.connect(func():
+			if item != placed[0]:
+				first_try = false
+				fb.text = "Todavía no: antes pasó otra cosa."
+				fb.add_theme_color_override("font_color", UI.RED)
+				return
+			placed[0] += 1
+			pick.text = str(placed[0])
+			pick.disabled = true
+			t.set_style(17, UI.GREEN.darkened(0.15))
+			fb.text = "¿Y después?"
+			fb.add_theme_color_override("font_color", UI.MUTED)
+			if placed[0] == s.items.size():
+				_order_done(s))
+	action.add_child(fb)
+	_scroll_down()
+
+
+func _order_done(s: Dictionary) -> void:
+	points += 1.0 if first_try else 0.5
+	_clear_action()
+	for n in s.items.size():
+		var t := GlossText.new()
+		t.set_style(17, UI.INK)
+		t.set_segs(s.items[n], "[b]%d.[/b]  " % (n + 1))
+		action.add_child(t)
+	if s.fb.is_empty():
+		action.add_child(UI.label("¡Correcto!", 17, UI.GREEN.darkened(0.15), "bold"))
+	else:
+		_feedback(s.fb, true, "¡Correcto!")
+	_show_continue()
+
+
 func _show_compas(s: Dictionary) -> void:
 	_clear_action()
 	_tag("El compás", UI.RED)
@@ -510,9 +640,9 @@ func _unhandled_key_input(event: InputEvent) -> void:
 	if not (event is InputEventKey and event.pressed and not event.echo):
 		return
 	var n := -1
-	if event.keycode >= KEY_A and event.keycode <= KEY_D:
+	if event.keycode >= KEY_A and event.keycode <= KEY_F:
 		n = event.keycode - KEY_A
-	elif event.keycode >= KEY_1 and event.keycode <= KEY_4:
+	elif event.keycode >= KEY_1 and event.keycode <= KEY_6:
 		n = event.keycode - KEY_1
 	if n >= 0 and n < _options.size() and not _options[n].disabled:
 		get_viewport().set_input_as_handled()
@@ -529,7 +659,8 @@ func _finish() -> void:
 
 	var head := HBoxContainer.new()
 	head.add_theme_constant_override("separation", 14)
-	head.add_child(UI.label("¡Escena completada!", 24, UI.INK, "serif"))
+	head.add_child(UI.label("¡Lectura completada!" if reading else "¡Escena completada!", 24,
+		UI.INK, "serif"))
 	head.add_child(UI.label(UI.stars(stars), 26, UI.GOLD.darkened(0.1)))
 	action.add_child(head)
 	if scorable > 0:
@@ -554,12 +685,14 @@ func _finish() -> void:
 	row.add_child(to_map)
 	var focus: Button = to_map
 	if scene_index + 1 < loc.scenes.size():
-		var nxt := UI.button("Siguiente escena")
+		var nxt := UI.button("Siguiente lectura" if reading else "Siguiente escena")
 		nxt.pressed.connect(func(): Game.main.show_scene(loc_index, scene_index + 1))
 		row.add_child(nxt)
 		focus = nxt
 	elif loc_index + 1 < Game.locations.size():
-		var nxt := UI.button("Siguiente lugar")
+		# past the last place of part 1, the next place is the first of part 2
+		var same := Game.part_of(loc_index + 1) == Game.part_of(loc_index)
+		var nxt := UI.button("Siguiente lugar" if same else "Parte 2: la historia")
 		nxt.pressed.connect(func(): Game.main.show_map(loc_index + 1))
 		row.add_child(nxt)
 		focus = nxt

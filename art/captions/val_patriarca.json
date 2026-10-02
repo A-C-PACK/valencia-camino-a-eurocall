@@ -1,0 +1,87 @@
+{
+  "high_level_description": "A quiet two-storey Renaissance cloister in Valencia with rows of slender white marble columns and round arches around a sunny courtyard.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A square courtyard paved in pale stone under a deep blue sky, enclosed by two tiers of arcades.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          330,
+          0,
+          640,
+          1000
+        ],
+        "desc": "An upper gallery of small round arches on thin white marble columns with a stone balustrade.",
+        "color_palette": [
+          "#FFFFFF",
+          "#E9D3A1",
+          "#1F3A4D"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          600,
+          0,
+          900,
+          1000
+        ],
+        "desc": "A lower arcade of larger round arches on white marble columns, with deep cool shadow behind.",
+        "color_palette": [
+          "#FFFFFF",
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          560,
+          420,
+          860,
+          580
+        ],
+        "desc": "A white marble statue of a seated bishop on a pedestal in the middle of the courtyard.",
+        "color_palette": [
+          "#FFFFFF",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          640,
+          700,
+          940,
+          880
+        ],
+        "desc": "A man in his fifties in a linen jacket, a university professor, standing with a book under his arm.",
+        "color_palette": [
+          "#37506B",
+          "#F2C9A0",
+          "#F6E7C8"
+        ]
+      }
+    ]
+  }
+}

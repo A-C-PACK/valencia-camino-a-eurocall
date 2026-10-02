@@ -1,0 +1,109 @@
+@part 2
+@id serranos
+@name Torres de Serranos
+@short Torres de Serranos
+@era El Reino de Valencia · 1238
+@geo 39.47924 -0.37603 centre r
+@focus 0.38
+@route Plaza de los Fueros, en el extremo norte del centro histórico, junto al antiguo cauce del río.
+@blurb La puerta principal de la Valencia medieval. Por aquí entraban los reyes; después fue cárcel, refugio de cuadros y, hoy, el lugar donde empiezan las Fallas.
+@visit Las dos torres góticas, por fuera y por dentro: se puede subir hasta la terraza.
+
+== conquista | El rey que llegó del norte ==
+N: Tercer día. Delante de las Torres de Serranos hay una plaza grande y, detrás, un puente de piedra sobre el jardín del Turia. Lucía no está sola: a su lado hay alguien con un cuaderno en la mano.
+HANNA: ¡Hola! Lucía dice que puedo venir con vosotros. Yo también quiero… ¿cómo se dice?… aprender la historia.
+LUCIA: ¡Claro que sí! Cuantos más, mejor. Hoy hablamos del nueve de octubre de mil doscientos treinta y ocho. ¿Os suena esa fecha?
+C: No conoces la fecha, pero has visto el nombre en algunas calles. ¿Qué dices?
+  * La fecha no, pero {{me suena|it rings a bell, it sounds familiar}} el nombre: hay una calle Nueve de Octubre, ¿no? || «Me suena» = lo he oído antes, pero no estoy seguro. Y «¿os suena?» es la pregunta.
+  ~ No conozco la fecha, pero conozco una calle con ese nombre. || Correcto y claro. «Me suena» es más natural para algo que recuerdas solo a medias.
+  - La fecha no, pero me sueña el nombre. || Cuidado: «soñar» es lo que haces cuando duermes. Aquí es «sonar»: «me suena».
+LUCIA*: ¡Exacto! Hay calles, plazas, un hospital… Es el día de la Comunidad Valenciana. Leed este texto y vais a entender por qué. Hanna, tú también, ¿eh?
+H: El rey que llegó del norte
+R: El 9 de octubre es la fiesta de los valencianos. Ese día, en 1238, el rey {Jaume I|James I of Aragon, 'the Conqueror' (Jaume primero)} de Aragón entró en Valencia con su ejército, y la ciudad dejó de ser Balansiya para siempre.
+R: Jaume I tenía treinta años y llevaba casi toda su vida en guerra. Pocos años antes había conquistado Mallorca, y ahora miraba hacia el sur. Avanzó poco a poco, castillo a castillo, hasta que en la primavera de 1238 puso su campamento en Russafa, a las puertas de la ciudad. El asedio duró cinco meses. Dentro, el último rey musulmán, Zayyan, esperaba una ayuda que llegó por mar desde Túnez, pero que no {{consiguió|managed to (conseguir)}} desembarcar. Sin comida y sin esperanza, Zayyan negoció {{la rendición|the surrender}}.
+R: Las condiciones fueron claras: los musulmanes que quisieran marcharse podrían hacerlo en paz, con lo que pudieran llevar encima, y tendrían veinte días de protección. Decenas de miles de personas salieron de la ciudad hacia el sur. Sus casas, sus tiendas y sus huertos {{se repartieron|were shared out (repartirse)}} entre los soldados y colonos cristianos, y cada entrega se anotó cuidadosamente en un libro que todavía se conserva: el Llibre del Repartiment.
+R: Lo más importante de Jaume I, sin embargo, no fue la conquista, sino lo que hizo después. No añadió las tierras nuevas a Aragón ni a Cataluña, como querían sus nobles. Creó un reino distinto, el Reino de Valencia, con sus {{propias|own}} leyes, llamadas Furs, sus propias Cortes y su propia moneda, dentro de la Corona de Aragón. Durante casi cinco siglos, los reyes tuvieron que {jurar|to swear (an oath)} los Furs antes de gobernar aquí.
+R: Los nuevos habitantes llegaron {{sobre todo|above all, mainly}} de Cataluña y de Aragón, y trajeron sus lenguas. En la costa {se impuso|prevailed, took hold (imponerse)} el catalán, que aquí se llama valenciano; en algunas zonas del interior, el aragonés y, más tarde, el castellano. Fuera de la capital, sin embargo, la mayoría de la población siguió siendo musulmana durante mucho tiempo: los cristianos gobernaban, pero quienes trabajaban la tierra eran, {en gran parte|largely, for the most part}, los mismos de antes.
+Q: ¿Por qué se rindió Zayyan?
+  * Porque no tenía comida y la ayuda de Túnez no pudo llegar. || «Sin comida y sin esperanza»: cinco meses de asedio.
+  - Porque Jaume I entró por las Torres de Serranos. || Las torres todavía no existían: son de 1392.
+  - Porque los habitantes abrieron las puertas a los cristianos. || El texto no dice eso: Zayyan negoció la rendición.
+Q: ¿Qué es el Llibre del Repartiment?
+  * Un libro donde se anotó qué casa o qué tierra recibía cada persona. || «Repartir» es dar una parte a cada uno. El libro se conserva en Valencia.
+  - El libro de las leyes del nuevo reino. || Esos son los Furs.
+  - Un poema sobre la conquista. || No: es un registro, casi una lista.
+Q: Según el texto, ¿qué fue lo más importante que hizo Jaume I?
+  * Crear un reino nuevo con leyes propias. || «No fue la conquista, sino lo que hizo después».
+  - Conquistar Mallorca. || Eso fue antes, y el texto no lo presenta como lo más importante.
+  - Añadir Valencia al reino de Aragón. || Hizo exactamente lo contrario de lo que querían sus nobles.
+Q: ¿Qué quiere decir que los reyes tenían que «jurar los Furs»?
+  * Que debían prometer que respetarían las leyes valencianas. || Jurar es prometer de forma solemne. Sin ese juramento, el rey no podía gobernar el reino.
+  - Que debían escribir leyes nuevas. || No: debían respetar las que ya existían.
+  - Que debían pagar un impuesto a la ciudad. || Jurar no tiene que ver con el dinero.
+Q: ¿Verdadero o falso? «Después de 1238, casi todos los habitantes del reino eran cristianos.»
+  * Falso. || En la capital sí, pero fuera de ella «la mayoría de la población siguió siendo musulmana durante mucho tiempo».
+  - Verdadero. || Lee otra vez el último párrafo: fuera de la capital, la mayoría siguió siendo musulmana.
+Q: ¿Por qué se habla valenciano en la costa?
+  * Porque muchos de los nuevos habitantes venían de Cataluña. || Trajeron su lengua, el catalán, «que aquí se llama valenciano».
+  - Porque Jaume I prohibió el castellano. || El texto no dice eso; el castellano llegó más tarde al interior.
+  - Porque es la lengua que hablaban los musulmanes. || Los musulmanes hablaban árabe.
+K: «No… sino…» || «No fue la conquista, sino lo que hizo después». «No añadió las tierras a Aragón… Creó un reino distinto». Para corregir una idea y dar la correcta se usa «no A, sino B». Con «pero» se añade algo; con «sino» se sustituye: «no es caro, pero es malo» / «no es caro, sino barato».
+HANNA: Entonces… ¿el valenciano y el catalán son… el mismo idioma?
+LUCIA: Los lingüistas dicen que sí: es la misma lengua con dos nombres. Pero aquí decimos «valenciano», y es mejor que tú también lo digas así.
+T: Pregunta por qué el nueve de octubre es fiesta.
+  = ¿Por qué es fiesta el nueve de octubre?
+  = ¿Por qué el nueve de octubre es fiesta?
+  = ¿Por qué es fiesta el 9 de octubre?
+  = ¿Por qué el 9 de octubre es fiesta?
+  = ¿Por qué es fiesta?
+  = ¿Por qué es fiesta ese día?
+  ! «¿{{Por qué es fiesta|why is it a holiday}}…?» Las fechas, sin «de» delante del número: «el nueve de octubre».
+LUCIA: Porque ese día nació el Reino de Valencia. Y además es el día de los enamorados valencianos: se regalan dulces de mazapán envueltos en un pañuelo.
+
+== torres | La puerta del reino ==
+N: Subís por una escalera de piedra hasta la primera terraza. Abajo, los coches pasan por delante de la puerta; hace siglos pasaban por dentro.
+LUCIA: Atención a una cosa antes de leer. Mirad la torre por este lado, el de la ciudad. ¿Veis que no tiene pared? Parece una casa de muñecas. El texto os explica por qué.
+H: La puerta del reino
+R: Las Torres de Serranos no existían cuando llegó Jaume I. Se construyeron mucho después, entre 1392 y 1398, cuando la ciudad cristiana había crecido tanto que necesitó una muralla nueva, con una superficie tres veces mayor que la musulmana. Aquella muralla tenía doce puertas. Esta era la principal, porque por aquí entraba el camino que venía de Aragón y de Cataluña.
+R: {El maestro de obras|the master builder}, Pere Balaguer, viajó a Cataluña para estudiar otras puertas famosas antes de empezar. El resultado fue algo más que una defensa. Era también un arco de triunfo: por aquí entraban los reyes y los embajadores, y la ciudad quería impresionarlos. Por eso la fachada que mira hacia fuera está decorada con finos adornos góticos, {{mientras que|whereas, while}} la parte de atrás, la que mira a la ciudad, está abierta, sin pared. No es que esté sin terminar: se hizo así {{a propósito|on purpose}}, para que nadie que tomara las torres pudiera defenderse en ellas contra la propia ciudad.
+R: Con el tiempo, las torres cambiaron de función varias veces. En 1586 un incendio destruyó la cárcel de la ciudad, y las torres se convirtieron en prisión para nobles y caballeros. Lo fueron durante tres siglos, hasta 1887. Y eso, curiosamente, las salvó: cuando en 1865 el Ayuntamiento decidió {{derribar|to demolish, knock down}} la muralla para que la ciudad pudiera crecer y para dar trabajo a los obreros {en paro|unemployed}, las puertas que servían de cárcel se quedaron {{en pie|standing}}. De las doce, hoy solo quedan dos.
+R: Durante la Guerra Civil tuvieron un último papel inesperado. A finales de 1936, cuando Madrid estaba siendo bombardeada, las obras más valiosas del Museo del Prado viajaron en camiones hasta Valencia. Muchas se guardaron aquí, dentro de las torres, protegidas con hormigón y sacos de tierra. Entre los cuadros que pasaron aquellos meses por la ciudad estaba «Las meninas», de Velázquez.
+R: Hoy las torres son la puerta simbólica de Valencia. Cada año, el último domingo de febrero, miles de personas se reúnen delante de ellas para la Crida, el acto en que la fallera mayor invita a todo el mundo a las Fallas. Y cualquier día se puede subir a la terraza: desde arriba se ve, a un lado, el barrio del Carmen y, al otro, el antiguo cauce del río.
+Q: ¿Por qué esta era la puerta principal de la muralla?
+  * Porque por ella entraba el camino de Aragón y de Cataluña. || Era el camino de los reyes y de los embajadores.
+  - Porque estaba al lado del palacio del rey. || El texto no habla de ningún palacio.
+  - Porque era la única puerta de la muralla. || Había doce.
+Q: ¿Por qué la parte de atrás de las torres no tiene pared?
+  * Para que un enemigo no pudiera usarlas contra la ciudad. || Si alguien tomaba las torres, quedaba al descubierto por el lado de la ciudad.
+  - Porque se acabó el dinero antes de terminarlas. || «No es que esté sin terminar: se hizo así a propósito».
+  - Porque la pared se cayó en un incendio en 1586. || El incendio fue en la cárcel de la ciudad, no aquí.
+Q: «Se hizo así a propósito» significa que…
+  * fue una decisión, no un accidente. || «A propósito» = queriendo, con intención. Lo contrario: «sin querer».
+  - se hizo con mucha prisa. || Eso sería «deprisa» o «a toda prisa».
+  - se hizo de forma provisional. || No: fue pensado así desde el principio.
+Q: ¿Por qué no se derribaron estas torres en 1865?
+  * Porque se usaban como cárcel. || Las dos puertas que eran prisiones, Serranos y Quart, son las dos que se salvaron.
+  - Porque dentro estaban los cuadros del Prado. || Eso fue setenta años después, en 1936.
+  - Porque los obreros se negaron a derribarlas. || Al contrario: el derribo se hizo, en parte, para darles trabajo.
+Q: ¿Qué relación tienen las torres con el Museo del Prado?
+  * Durante la Guerra Civil se guardaron aquí muchos de sus cuadros. || Llegaron en camiones desde Madrid, que estaba siendo bombardeada.
+  - Las torres aparecen pintadas en «Las meninas». || No: «Las meninas» estuvo en Valencia, pero no muestra las torres.
+  - El museo pagó su restauración en 1887. || De eso no se dice nada.
+O: Las torres han tenido muchos usos. Ordénalos del más antiguo al más reciente.
+  = Puerta principal y arco de triunfo de la ciudad.
+  = Prisión para nobles y caballeros.
+  = Almacén de cuadros del Museo del Prado.
+  = Escenario de la Crida de las Fallas.
+  ! Puerta, cárcel, refugio y escenario: seiscientos años sin dejar de ser útiles.
+K: «Para que» + subjuntivo || «Para que la ciudad pudiera crecer», «para que nadie pudiera defenderse». Con «para» + infinitivo, la misma persona hace las dos acciones: «subo para ver la ciudad». Con «para que» cambia la persona, y el verbo va en subjuntivo: «te lo explico para que lo entiendas». En pasado, imperfecto de subjuntivo: «pudiera», «tomara».
+HANNA: Yo tengo una pregunta. ¿Las torres… eran para… para proteger o para vivir?
+LUCIA: Buena pregunta, Hanna. A ver si tu compañero la sabe hacer en pasado.
+T: Ayuda a Hanna: pregunta para qué servían las torres.
+  = ¿Para qué servían las torres?
+  = ¿Para qué servían?
+  = ¿Para qué servían estas torres?
+  = ¿Las torres para qué servían?
+  = Lucía, ¿para qué servían las torres?
+  = ¿Para qué se usaban las torres?
+  ! «Servir para» en imperfecto, porque era algo habitual: «¿{{Para qué servían|what were they (used) for}}…?»
+LUCIA: Para defender la ciudad, para recibir a los reyes y para encerrar a los nobles. ¡Para todo! Mañana vamos a ver qué hizo Valencia con tanto dinero: nos vemos en la Lonja.

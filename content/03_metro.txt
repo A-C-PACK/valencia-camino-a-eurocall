@@ -3,6 +3,7 @@
 @short Metro
 @zone Estación de Xàtiva
 @geo 39.4673 -0.3773 centre l
+@focus 0.38
 @route Desde el hotel: unos diez minutos a pie.
 @blurb La estación de Xàtiva está al lado de la plaza de toros y de la Estación del Norte. De aquí salen las líneas 3, 5 y 9.
 @goal Comprar un billete, preguntar por una línea y entender los avisos de megafonía.

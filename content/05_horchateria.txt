@@ -2,6 +2,7 @@
 @name Horchatería
 @zone Ciutat Vella · plaza de Santa Catalina
 @geo 39.47383 -0.37626 centre t
+@focus 0.10
 @route Desde el Mercado Central: tres minutos a pie.
 @blurb Una horchatería de las de toda la vida, con azulejos pintados y mesas de mármol. Aquí se viene a merendar.
 @goal Pedir algo de beber y de comer, preguntar qué lleva y pagar.

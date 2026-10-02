@@ -17,7 +17,7 @@ marta|-
 marzo|March
 marítimo|paseo marítimo = seafront promenade
 matemáticas|mathematics
-mayor|older, elderly
+mayor|older, elderly; bigger, greater; main
 mañana|tomorrow; morning
 mañanas|mornings
 me|me, to me; myself
@@ -125,7 +125,7 @@ norte|north
 nos|us, to us; ourselves
 nosotros|we, us
 nostre|ours (Valencian)
-nota|se nota = you can feel it, it shows (notar)
+nota|notices (notar); se nota = you can feel it, it shows
 notas|you notice, feel (notar)
 novecientos|nine hundred
 noventa|ninety
@@ -245,10 +245,10 @@ pimiento|pepper
 pintados|painted
 pintura|painting
 piso|flat, apartment
-pisos|flats, apartments
+pisos|floors, storeys; flats, apartments
 plan|plan
 planes|plans
-planta|floor, storey
+planta|plant; floor, storey
 plato|dish, plate
 playa|beach
 plaza|square
@@ -331,11 +331,11 @@ puedes|you can (poder)
 puedo|I can (poder)
 puente|bridge
 puentes|bridges
-puerta|door
-puertas|doors
+puerta|door; gate
+puertas|doors; gates
 pues|well, so, then
 puesta|on, worn (llevar puesta = to have it on)
-puesto|stall
+puesto|stall; put, placed (poner)
 puestos|stalls
 pulse|press (usted command of pulsar)
 punto|en punto = on the dot, sharp
@@ -344,10 +344,10 @@ póngame|give me, I'll have (usted command of poner)
 póngase|put on (usted command of ponerse)
 pósteres|posters
 públicas|public
-público|audience
+público|public; audience
 que|that, which; than; que + subjunctive = I hope...
 queda|me queda = I have left; remains (quedar)
-quedado|he quedado = I've arranged to meet (quedar)
+quedado|he quedado = I've arranged to meet; stayed (quedarse)
 quedamos|we'll meet, let's meet (quedar)
 quedar|to arrange to meet
 quedas|you come across as (quedar bien = to make a good impression)
@@ -373,3 +373,490 @@ quite|no se la quite = don't take it off (usted command)
 quitársela|to take it off
 quién|who
 qué|what; ¡qué + adjective! = how ...!
+# part 2: the history readings
+macetas|flowerpots
+madrid|-
+maestro|master (builder, craftsman); teacher
+mallorca|Majorca
+mallorquines|Majorcans
+malo|bad
+mancha|stain
+manda|is in command, orders (mandar)
+mandaron|they were in command, ordered (mandar)
+mando|command
+mandó|ordered (mandó construir = had ... built)
+manera|way, manner
+maneras|ways
+manifestaciones|demonstrations, protest marches
+manifestarse|to demonstrate, protest
+mano|hand
+manzanas|city blocks; apples
+mapa|map
+marca|mark; marks (marcar)
+marcando|marking (marcar)
+marcas|marks
+march|-
+marcha|leaves (marcharse)
+marchaban|they were leaving (marcharse)
+marcharan|leave (subjunctive of marcharse)
+marcharon|they left (marcharse)
+marcharse|to leave, go away
+marchó|left (marcharse)
+marineros|sailors
+mariscal|marshal
+marruecos|Morocco
+martorell|-
+marítim|-
+masa|mass (en masa = en masse)
+matado|killed (matar)
+mataron|they killed (matar)
+material|material
+materiales|materials
+mató|killed (matar)
+maulets|supporters of the Archduke Charles (Valencian)
+mayo|May
+mayoral|-
+mayoría|majority
+mazapán|marzipan
+mediados|a mediados de = in the middle of
+medianoche|midnight
+mediante|by means of, through
+medias|a medias = halfway, only partly
+medicinal|medicinal
+medieval|medieval
+medievales|medieval
+mejores|better, best
+menciona|mentions (mencionar)
+meninas|«Las meninas» (The Maids of Honour), Velázquez's painting
+mes|month
+meses|months
+metros|metres
+metáfora|metaphor
+mezquitas|mosques
+miedo|fear
+miles|thousands
+militar|military
+ministerio|ministry
+ministerios|ministries
+ministros|ministers
+miraba|looked, was looking (mirar)
+mirad|look (vosotros command of mirar)
+mirar|to look
+mis|my
+misa|mass (church service)
+mismas|same
+mismos|same; themselves
+mitad|half; middle
+modelo|model
+moderado|moderate
+modernismo|Modernisme, Spanish Art Nouveau
+modernización|modernisation
+modernizaría|would modernise (modernizar)
+moderno|modern
+modesto|modest
+modo|way (de modo que = so that)
+mojada|wet
+moncey|-
+moneda|currency, coin
+monstruos|monsters
+montaña|mountain
+montañas|mountains
+monumento|monument
+moral|morality, ethics
+morera|mulberry tree
+morería|Moorish quarter
+moriscos|Moriscos (baptised Muslims and their descendants)
+mosaicos|mosaics
+mostrar|to show
+motivo|reason, motive
+mover|to move
+movimiento|movement
+movió|was moved (mover)
+movía|moved about (moverse)
+mozo|porter, young worker (mozo de estación = station porter)
+muchísima|a great deal of
+muchísimos|a great many
+mudéjares|Mudéjars (Muslims living under Christian rule)
+muebles|furniture
+muere|dies (morir)
+muerte|death
+muertos|dead, deaths
+muestran|they show (mostrar)
+mueve|moves (moverse)
+mujeres|women
+multas|fines
+multitud|crowd, mob
+municipal|municipal, of the city
+muralla|city wall
+murallas|city walls
+murieron|they died (morir)
+murió|died (morir)
+muro|wall
+muros|walls
+museos|museums
+musulmanas|Muslim
+musulmanes|Muslims; Muslim
+musulmán|Muslim
+muñecas|dolls (casa de muñecas = doll's house)
+málaga|-
+mártir|martyr
+mérito|merit, achievement
+mínima|minimum
+mío|mine
+nace|is born (nacer)
+nacer|to be born
+nacido|born (nacer)
+nacimiento|birth
+nací|I was born (nacer)
+napoleón|Napoleon
+naranjales|orange groves
+naranjos|orange trees
+nau|ship, nave (Valencian); La Nau = the old University building
+nave|nave, aisle; large hall
+naves|naves, aisles
+necesidades|needs
+necesitaban|they needed (necesitar)
+necesitar|to need
+necesitó|needed (necesitar)
+negaron|they refused (negarse a)
+negarse|to refuse
+negociar|to negotiate
+negocio|business; deal
+negocios|business dealings, deals
+negoció|negotiated (negociar)
+nervios|ribs (of a vault); nerves
+nerviosa|nervous, restless
+nieto|grandson
+nivel|level
+niño|child, boy
+niños|children
+noble|noble, nobleman
+nobles|nobles
+nobleza|nobility
+noria|waterwheel
+nostalgia|nostalgia, longing
+notan|are felt, are noticeable (notarse)
+noticia|news, piece of news
+nou|new (Valencian)
+nouveau|-
+novela|novel
+novelas|novels
+noveno|ninth
+noviembre|November
+nueva|new
+nuevas|new
+nuevo|new
+obispo|bishop
+obispos|bishops
+objetivo|target; aim
+objetos|objects
+obligado|forced (obligar)
+obligados|forced
+obligaron|they forced (obligar)
+obra|work (of art, of engineering)
+obras|building works; works (of art)
+obreros|workers
+ocasión|opportunity, occasion
+ochocientos|eight hundred
+octavo|eighth
+octubre|October
+ocupación|occupation
+ocupado|occupied (ocupar)
+ocuparon|they occupied (ocupar)
+ocupó|occupied (ocupar)
+oficial|official
+oficialmente|officially
+ofrecido|offered (ofrecer)
+oirás|you will hear (oír)
+ojos|eyes
+ola|wave
+olas|waves
+oler|to smell
+olvidados|forgotten
+olvidar|to forget
+olvides|forget (subjunctive of olvidar)
+olía|smelled (oler)
+omeya|Umayyad (the ruling dynasty of Córdoba)
+onda|wave (onda de una explosión = blast wave)
+opina|thinks, gives as an opinion (opinar)
+opinión|opinion
+opuesto|opposite
+oral|oral, spoken
+ordena|put in order (tú command of ordenar)
+ordenado|ordered (ordenar)
+ordenaron|they ordered (ordenar)
+ordenó|ordered (ordenar)
+ordinales|ordinal numbers
+ordénalos|put them in order (tú command)
+organismo|body, organisation
+organizados|organised
+organizar|to organise
+organizaron|they organised (organizarse)
+organizó|organised (organizar)
+origen|origin
+original|original
+oro|gold
+oscuras|dark (a oscuras = in the dark)
+otoño|autumn
+otros|others, other
+oía|heard (oír)
+oído|heard (oír)
+paciencia|patience
+pacto|pact, agreement
+pacífica|peaceful
+pacífico|peaceful
+padre|father
+pagaba|paid (pagar)
+pagaban|they paid (pagar)
+pagara|paid (subjunctive of pagar); quien le pagara = whoever paid him
+pagarlo|to pay for it
+pagaron|they paid (pagar)
+paguen|they pay (subjunctive of pagar)
+pagó|paid (pagar)
+paisaje|landscape
+palacio|palace
+palacios|palaces
+palas|shovels
+palleter|seller of sulphur matches (Valencian)
+palmeras|palm trees
+palomas|pigeons
+pancartas|banners, placards
+paneles|panels
+papas|popes
+papel|paper; role
+paralelas|parallel
+paraíso|paradise
+parecer|al parecer = apparently
+parecerse|to resemble, be like
+parecería|would seem (parecer)
+parecido|similar
+parecía|seemed (parecer)
+pared|wall
+parejas|pairs
+paro|unemployment
+parques|parks
+participación|participation
+participar|to take part
+partidarios|supporters
+partido|side (tomar partido = to take sides)
+partiría|would split (partir)
+parís|Paris
+pasaba|passed, was happening (pasar)
+pasaban|they passed (pasar)
+pasada|past
+pasamos|we passed, we pass (pasar)
+pasan|they pass (pasar)
+pasando|passing; lo estás pasando bien = you're having a good time
+pasarle|to happen to him
+pasaron|they passed, spent (pasar)
+paseos|promenades, walks
+pasiva|passive
+paso|way through, passage; step
+pasos|steps
+pasárselo|pasárselo bien = to have a good time
+pasó|happened; passed (pasar)
+patio|courtyard
+patriarca|patriarch (the title of archbishop Juan de Ribera)
+patrón|patron saint
+pañuelo|handkerchief, kerchief
+pecado|sin
+pedía|asked for (pedir)
+pedían|they asked for (pedir)
+peligro|danger
+peligrosa|dangerous
+peligroso|dangerous
+pensaba|thought (pensar)
+pensaban|they thought (pensar)
+pensado|thought out, planned (pensar)
+pensó|thought; se pensó = it was conceived (pensar)
+península|peninsula (the Iberian Peninsula)
+peor|worse, worst
+peores|worst
+perder|to lose
+perdiendo|losing (perder)
+perdieron|they lost (perder)
+perdió|lost (perder)
+perdonar|to forgive
+perdonó|forgave (perdonar)
+perdía|lost (perder)
+pere|-
+peregrinos|pilgrims
+periodistas|journalists
+peris|-
+periódicos|newspapers
+permaneció|remained (permanecer)
+permiso|permission
+permiten|they allow (permitir)
+permitieron|they allowed (permitir)
+permitir|to allow
+permitió|allowed (permitir)
+permitía|allowed (permitir)
+permitían|they allowed (permitir)
+personaje|character, figure
+pesadas|heavy
+pesar|a pesar de que = even though
+pesca|fishing
+pescador|fisherman
+pescadores|fishermen
+peste|plague
+peticiones|requests, demands
+pidiendo|asking for (pedir)
+pidió|asked for (pedir)
+pido|I ask (pedir)
+piedad|mercy, pity
+piedra|stone
+piedras|stones
+piensan|they think (pensar)
+pies|feet
+pino|pine
+pintaba|painted (pintar)
+pintada|painted
+pintadas|painted
+pintado|painted
+pintaron|they painted (pintar)
+pintor|painter
+pinturas|paintings
+piratas|pirates
+pisadas|footprints
+pisado|set foot in (pisar)
+plantar|to plant
+plataforma|campaign group, platform
+plazas|squares
+plazo|deadline, time allowed
+pleasant|-
+pluscuamperfecto|pluperfect (había + participle)
+plátanos|bananas
+población|population
+poble|village, town (Valencian: pueblo)
+pobre|poor
+pobres|the poor; poor
+pocas|few
+pocos|few
+podría|could, would be able to (poder)
+podrían|they could, would be able to (poder)
+podía|could (poder)
+podían|they could (poder)
+poema|poem
+poemas|poems
+poetas|poets
+político|political
+pompeyo|Pompey
+pon|put (tú command of poner)
+popular|of the people, folk
+portal|gateway
+portugal|-
+posguerra|the post-war years
+posibilidad|possibility
+posible|possible
+posición|position
+posterior|later
+posturas|positions, points of view
+prado|the Prado (Madrid's great art museum)
+precioso|beautiful, lovely
+precisamente|precisely
+predicadores|preachers
+preguntado|asked (preguntar)
+preguntarme|to ask me
+preguntes|you ask (subjunctive of preguntar)
+preguntó|asked (preguntar)
+pregúntale|ask him (tú command)
+pregúntame|ask me (tú command)
+premio|prize, reward
+preocupes|no te preocupes = don't worry
+preposición|preposition
+presa|dam
+presas|dams
+presenta|presents (presentar)
+presentarse|to report, present oneself
+presente|present (tense)
+presentó|presented (presentar)
+prestar|to lend
+presten|lend (subjunctive of prestar)
+prestó|lent (prestar)
+primavera|spring
+primeras|first
+primeros|first
+principal|main
+principales|main
+principio|beginning (al principio = at first)
+principios|a principios de = at the beginning of
+prisiones|prisons
+prisión|prison
+procedían|they came from (proceder de)
+producía|produced (producir)
+profesionales|professional
+profundo|deep
+prohibida|forbidden
+prohibió|banned (prohibir)
+promesa|promise
+promesas|promises
+prometen|they promise (prometer)
+prometer|to promise
+prometieron|they promised (prometer)
+propaganda|propaganda
+propias|own
+propio|own; el propio cauce = the riverbed itself
+propios|own; los propios vecinos = the residents themselves
+proponen|they propose (proponer)
+propuesta|proposal
+propuesto|proposed (proponer)
+propuso|proposed (proponer)
+propósito|purpose (a propósito = on purpose)
+prosperado|prospered (prosperar)
+protagonistas|main players, protagonists
+protección|protection
+proteger|to protect
+protegería|would protect (proteger)
+protegidas|protected
+protegido|protected
+protegieran|protect (subjunctive of proteger)
+protegieron|were protected, they protected (proteger)
+protegió|protected (proteger)
+protegían|they protected (proteger)
+protesta|protest
+protestar|to protest
+protestó|protested (protestar)
+provincia|province
+provisional|temporary
+proyectaron|they designed (proyectar)
+proyecto|project, plan
+práctica|practice (en la práctica = in practice)
+prácticamente|practically, almost
+príncipe|prince
+próspera|prosperous
+pudiera|could (subjunctive of poder)
+pudieran|they could (subjunctive of poder)
+pudieron|they were able to (poder)
+pudo|could, was able to (poder)
+puedan|they can (subjunctive of poder)
+puerto|port, harbour
+puertos|ports
+puso|put, set up (poner); se puso a = started to
+puño|fist
+pánico|panic
+párrafo|paragraph
+párrafos|paragraphs
+pídele|ask him/her (tú command of pedir)
+pública|public
+públicos|public
+quan|when (Valencian: cuando)
+quart|-
+quedaba|was (located), remained (quedar)
+quedan|remain, are left (quedar)
+quedaron|were left, remained (quedar)
+quedarse|to stay
+quedó|was left, remained (quedar)
+quemaron|they burned (quemar)
+querer|to want (sin querer = unintentionally)
+queriendo|on purpose, meaning to (querer)
+querían|they wanted (querer)
+quien|who, whoever, the one who
+quienes|those who, who
+quieras|you want (subjunctive of querer)
+quijote|Don Quixote
+quinientos|five hundred
+quinto|fifth
+quisieran|wanted (subjunctive of querer)
+quisieron|they wanted (querer)
+quizá|perhaps
+quiénes|who (plural)

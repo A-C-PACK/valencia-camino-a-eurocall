@@ -3,6 +3,7 @@
 @short Artes y Ciencias
 @zone Jardín del Turia
 @geo 39.45668 -0.35388 city r
+@focus 0.66
 @route Desde las Torres de Serranos: unos veinte minutos en bici por el Jardín del Turia.
 @blurb Los edificios blancos de Calatrava, al final del antiguo cauce del río. La mejor forma de llegar es en bici por el Jardín del Turia.
 @goal Alquilar algo, entender condiciones y precios, y pedir y seguir indicaciones.

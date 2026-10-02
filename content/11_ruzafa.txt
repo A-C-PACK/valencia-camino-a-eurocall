@@ -3,6 +3,7 @@
 @short Bar de Elena
 @zone Ruzafa
 @geo 39.4625 -0.3725 city r
+@focus 0.33
 @route Desde la estación de Xàtiva: unos diez minutos a pie.
 @blurb Un bar de vinos pequeño en Ruzafa, el barrio de moda. Elena, la dueña, es de Requena y sabe muchísimo de vinos. Hanna ya está en la barra.
 @goal Pedir para compartir, pedir recomendaciones y contar lo que has hecho esta semana.

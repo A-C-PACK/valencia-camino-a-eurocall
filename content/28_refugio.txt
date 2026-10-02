@@ -1,0 +1,108 @@
+@part 2
+@id refugio
+@name Refugio del Ayuntamiento
+@short Refugio antiaéreo
+@era Capital de la República · 1936 a 1939
+@geo 39.46950 -0.37690 centre l
+@focus 0.35
+@route Calle del Arzobispo Mayoral, en la parte de atrás del edificio del Ayuntamiento.
+@blurb Durante la Guerra Civil, Valencia fue casi un año la capital de España. Bajo el Ayuntamiento hay un refugio construido para proteger de las bombas a los niños de una escuela.
+@visit El refugio antiaéreo de 1938, restaurado y abierto al público. Hay otro en la calle de Serranos que se visita con guía.
+
+== capital | Capital de la República ==
+N: Octavo día. Jordi te ha citado en la plaza del Ayuntamiento, delante del edificio de Correos. Hay palomas, puestos de flores y gente con prisa.
+JORDI: Buenos días. Hoy toca el tema más difícil de toda la ruta. En España todavía cuesta hablar de la Guerra Civil, incluso en las familias. Así que, si alguien no quiere hablar, no insistas. Pero leer, hay que leer.
+C: Quieres decirle que lo entiendes y que vas a tener cuidado. ¿Qué dices?
+  * Lo entiendo. {{Tendré cuidado|I'll be careful (tener cuidado)}} con lo que pregunto. || «Tener cuidado con» algo. El futuro, «tendré», suena a promesa.
+  ~ Lo entiendo. Voy a preguntar con cuidado. || Bien: se entiende perfectamente.
+  - Lo entiendo. Seré cuidado con lo que pregunto. || El cuidado se «tiene»: «tendré cuidado».
+JORDI*: Perfecto. Mira esta plaza. En noviembre de mil novecientos treinta y seis, de un día para otro, se llenó de ministros, de periodistas extranjeros, de escritores y de refugiados. Lee y verás por qué.
+H: Capital de la República
+R: En julio de 1936, una parte del ejército {se sublevó|rose up, rebelled (sublevarse)} contra el gobierno de la República, y España quedó dividida en dos. Valencia permaneció en el lado republicano. En noviembre, cuando las tropas del general Franco llegaron a las puertas de Madrid, el gobierno decidió {{trasladarse|to move, relocate}} aquí. Durante casi un año, hasta finales de octubre de 1937, Valencia fue la capital de España.
+R: La ciudad cambió {{de un día para otro|overnight, from one day to the next}}. Los ministerios se instalaron en palacios y edificios oficiales del centro. Llegaron embajadas, periódicos y corresponsales de medio mundo. Llegaron también decenas de miles de refugiados que huían de Madrid y, más tarde, de Málaga, y a los que hubo que dar casa y comida. Los cuadros del Museo del Prado, como ya sabes, se guardaron en las Torres de Serranos y en el Colegio del Patriarca.
+R: Fue además, por unos meses, una capital cultural. En julio de 1937 se abrió en el salón del Ayuntamiento un gran congreso internacional de escritores en defensa de la cultura, al que acudieron autores de muchos países. Los artistas valencianos, entre ellos el cartelista Josep Renau, llenaron las calles de carteles, y hasta las Fallas se usaron para la propaganda.
+R: Pero la guerra estaba cerca. Valencia era el gran puerto de la República, por donde entraban armas y alimentos, y eso la convirtió en un objetivo. Los aviones italianos aliados de Franco, que salían de la isla de Mallorca, y los barcos de guerra bombardearon la ciudad y sobre todo el puerto durante casi toda la guerra. {{Los bombardeos|the bombings, air raids}} se contaron por centenares, y murieron en ellos muchos cientos de civiles.
+R: En el otoño de 1937 el gobierno se marchó a Barcelona, pero las bombas siguieron cayendo. Valencia fue una de las últimas ciudades en {{rendirse|to surrender}}: las tropas de Franco entraron el 30 de marzo de 1939, dos días antes del final de la guerra. Miles de personas corrieron hacia el puerto de Alicante esperando unos barcos que casi nunca llegaron. Para quienes se quedaron empezó una posguerra larga, de cárcel, {hambre|hunger} y silencio.
+Q: ¿Por qué se trasladó el gobierno a Valencia?
+  * Porque las tropas de Franco estaban a punto de entrar en Madrid. || Noviembre de 1936. Madrid resistió, pero el gobierno ya se había ido.
+  - Porque Valencia era la ciudad más grande de España. || No lo era: fue una decisión por la guerra.
+  - Porque en Valencia había empezado la sublevación. || Al contrario: Valencia quedó en el lado republicano.
+Q: ¿Cuánto tiempo fue Valencia la capital?
+  * Casi un año. || De noviembre de 1936 a finales de octubre de 1937.
+  - Toda la guerra. || En 1937 el gobierno se marchó a Barcelona.
+  - Unas pocas semanas. || Fue bastante más: casi un año.
+Q: «La ciudad cambió de un día para otro» significa que cambió…
+  * de repente, en muy poco tiempo. || «De un día para otro» = de golpe, sin transición.
+  - poco a poco, día tras día. || Es lo contrario.
+  - cada dos días. || No habla de frecuencia.
+Q: ¿Por qué era Valencia un objetivo de los bombardeos?
+  * Porque por su puerto entraban armas y alimentos para la República. || Por eso el puerto fue la zona más castigada.
+  - Porque en ella vivía el general Franco. || No: era una ciudad republicana.
+  - Porque estaban allí los cuadros del Prado. || Los cuadros se protegieron, pero el objetivo era el puerto.
+Q: ¿De dónde salían los aviones que bombardeaban la ciudad?
+  * De Mallorca. || Eran aviones italianos, aliados de Franco, con base en la isla.
+  - De Barcelona. || Barcelona era republicana.
+  - De Madrid. || Madrid también era republicana y estaba sitiada.
+O: Ordena los hechos de la guerra en Valencia.
+  = Una parte del ejército se subleva contra la República.
+  = El gobierno se traslada de Madrid a Valencia.
+  = Escritores de muchos países se reúnen en el Ayuntamiento.
+  = El gobierno se marcha a Barcelona.
+  = Las tropas de Franco entran en la ciudad.
+  ! De julio de 1936 a marzo de 1939: menos de tres años.
+K: Palabras para hablar de la guerra || En España se dice «la Guerra Civil», «la República», «el franquismo» y «la posguerra» casi siempre sin más explicación. Los dos lados se llaman «republicanos» y «sublevados»; cada lado tenía además sus propios nombres para sí mismo y para el otro. Si escuchas con atención qué palabras usa una persona, sabrás mucho de cómo se contó la guerra en su casa.
+JORDI: Mi abuelo era un niño entonces. Vivía cerca del puerto. Nunca hablaba de aquello, pero cuando oía un avión, miraba al cielo.
+T: Pregunta a Jordi, con cuidado, si su abuelo le contó algo de la guerra.
+  = ¿Tu abuelo te contó algo de la guerra?
+  = ¿Te contó algo de la guerra tu abuelo?
+  = ¿Tu abuelo te contó algo?
+  = ¿Te contó algo de la guerra?
+  = ¿Te contó algo tu abuelo?
+  = ¿Tu abuelo te contó algo sobre la guerra?
+  = ¿Tu abuelo te contaba algo de la guerra?
+  ! «Contar» algo a alguien, en pasado: «¿{{Te contó algo|did he tell you anything}}…?»
+JORDI: Muy poco. Una vez me enseñó la puerta de un refugio, en su calle. «Ahí abajo cabíamos todos», dijo. Y nada más. Ven, que vamos a ver uno.
+
+== refugio | Bajo tierra ==
+N: Dais la vuelta al Ayuntamiento. En la calle de atrás, una puerta pequeña y una escalera que baja. Dentro hace fresco, el techo es bajo y las paredes son de hormigón.
+JORDI: Este refugio se hizo para los niños de una escuela. Lee despacio, y fíjate luego en las paredes.
+H: Bajo tierra
+R: Cuando empezaron los bombardeos, en Valencia casi nadie sabía qué hacer. La gente bajaba a los sótanos o se quedaba en casa, lejos de las ventanas. Pronto quedó claro que eso no bastaba, y en 1937 se creó un organismo especial, la Junta de Defensa Pasiva, para organizar la protección de los civiles.
+R: La Junta hizo dos cosas. La primera fue enseñar a la población {{cómo comportarse|how to behave}}: cuando sonaban las sirenas había que apagar las luces, cerrar el gas y caminar, sin correr, hasta el refugio más cercano. La segunda fue construir esos refugios. En poco más de dos años se hicieron más de trescientos en la ciudad. Algunos eran grandes y públicos, con capacidad para cientos de personas; otros se construyeron en fábricas y escuelas; y muchos más eran pequeños, {{excavados|dug out, excavated}} por los propios vecinos bajo sus casas, con dinero reunido entre todos.
+R: Los refugios públicos seguían casi siempre el mismo modelo. Se entraba por una escalera en zigzag o por una rampa, para que la onda de una explosión no llegara directamente al interior. Dentro había una o varias salas largas, de techo curvo, con bancos a lo largo de las paredes, luz eléctrica y un sistema para {renovar|to renew, refresh} el aire. El techo, de hormigón armado, podía tener más de un metro de grosor. En la entrada, unas letras grandes de estilo moderno anunciaban la palabra «REFUGIO». Algunas todavía se pueden leer en las fachadas del barrio del Carmen.
+R: El del Ayuntamiento se construyó en 1938 como refugio escolar, con capacidad para setecientos niños. {{A diferencia de|unlike}} este, el de la calle de Serranos, de 1937 y para cuatrocientas personas, era un refugio público para los vecinos del barrio, y tuvo después una vida más variada: terminada la guerra, fue durante años almacén de plátanos.
+R: Durante décadas, la mayoría de los refugios quedaron cerrados u olvidados. Se convirtieron en almacenes o en garajes, o simplemente se taparon. Solo en los últimos años la ciudad ha empezado a recuperarlos. El del Ayuntamiento se abrió al público en 2017. Bajar a él es una experiencia sencilla y difícil de olvidar: no hay objetos valiosos ni grandes obras de arte. Solo unas paredes, unos bancos y {{el recuerdo|the memory}} de quienes esperaron allí, {a oscuras|in the dark}, a que el ruido terminara.
+Q: ¿Qué hacía la gente al principio, cuando empezaban los bombardeos?
+  * Bajaba a los sótanos o se quedaba en casa. || «Pronto quedó claro que eso no bastaba».
+  - Salía de la ciudad en tren. || El texto no dice eso.
+  - Iba a los refugios públicos. || Todavía no existían: se construyeron a partir de 1937.
+Q: ¿Qué había que hacer al oír las sirenas?
+  * Apagar las luces, cerrar el gas e ir caminando al refugio. || Caminando, «sin correr»: el pánico también era un peligro.
+  - Correr hacia el puerto. || El puerto era la zona más peligrosa.
+  - Cerrar bien puertas y ventanas y quedarse en casa. || Quedarse en casa «no bastaba»: había que ir al refugio.
+Q: ¿Quién construyó los refugios más pequeños?
+  * Los propios vecinos, con su dinero. || «Excavados por los propios vecinos bajo sus casas, con dinero reunido entre todos».
+  - El ejército italiano. || Los italianos eran quienes bombardeaban.
+  - Los niños de las escuelas. || Los niños usaban los refugios escolares; no los construían.
+Q: ¿Por qué la entrada tenía forma de zigzag?
+  * Para que la fuerza de una explosión no entrara directamente. || Es el mismo «para que» + subjuntivo de las Torres de Serranos: «para que la onda… no llegara».
+  - Para que cupiera más gente. || La forma no tiene que ver con la capacidad.
+  - Porque no había espacio para una escalera recta. || Fue una decisión de seguridad.
+Q: Según el texto, ¿en qué se diferencian el refugio del Ayuntamiento y el de la calle de Serranos?
+  * Uno era para los niños de una escuela; el otro, para los vecinos. || «A diferencia de» sirve para comparar marcando el contraste.
+  - Uno es de la Guerra Civil y el otro es romano. || Los dos son de la guerra: de 1938 y de 1937.
+  - Uno estaba bajo tierra y el otro no. || Los dos son subterráneos.
+Q: ¿Verdadero o falso? «Los refugios se han conservado como museos desde el final de la guerra.»
+  * Falso. || Durante décadas quedaron cerrados, olvidados o convertidos en almacenes. Se están recuperando desde hace pocos años.
+  - Verdadero. || Lee el último párrafo: la recuperación es muy reciente.
+K: «Había que» + infinitivo || «Había que apagar las luces». «Hubo que dar casa y comida a los refugiados». «Hay que» expresa una obligación general, sin decir quién: «hay que reservar». En pasado se usa «había que» para las normas o las costumbres, y «hubo que» para algo que se hizo una vez porque no había más remedio.
+JORDI*: Fíjate en que no hay ni una sola ventana, y en lo bajo que es el techo. Ahora imagínate aquí a setecientos niños, sentados en esos bancos, esperando.
+T: Te impresiona. Dile a Jordi que es difícil de imaginar.
+  = Es difícil de imaginar.
+  = Es muy difícil de imaginar.
+  = Es difícil imaginarlo.
+  = Es muy difícil imaginarlo.
+  = Me parece difícil de imaginar.
+  = Es difícil de imaginar, la verdad.
+  ! Como en el texto, «difícil de olvidar»: «{{Es difícil de imaginar|it's hard to imagine}}».
+JORDI: Sí que lo es. Por eso hay que bajar. Gracias por venir conmigo, de verdad. Mañana te toca algo más alegre: Lucía dice que vais al río.

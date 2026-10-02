@@ -2,6 +2,7 @@
 @name Aeropuerto
 @zone Llegada · Manises
 @geo 39.4893 -0.4816 city b
+@focus 0.38
 @route Tu avión aterriza aquí, en Manises, a ocho kilómetros al oeste del centro.
 @blurb Acabas de aterrizar en el aeropuerto de Manises. Tienes que llegar al centro con tu maleta.
 @goal Coger un taxi, decir adónde vas, preguntar el precio y pedir que te repitan algo.

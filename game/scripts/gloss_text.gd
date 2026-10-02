@@ -10,7 +10,9 @@ const KIND_KEY := 3
 var ctx := ""    # the full sentence, kept with a looked-up word for later review
 var audio := ""
 var quiet := false    # draw key phrases like ordinary text (answer options must not give themselves away)
+var by_sentence := false    # a long paragraph: a looked-up word keeps only its own sentence
 var _store: Array = []
+var _at: Array = []    # where each stored piece starts in the plain text
 
 
 func _init() -> void:
@@ -35,17 +37,21 @@ func set_style(size: int, color: Color) -> void:
 
 func set_segs(segs: Array, prefix := "", italic := false) -> void:
 	_store.clear()
+	_at.clear()
 	if ctx == "":
 		ctx = UI.plain(segs)
 	var bb := prefix
+	var offset := 0
 	for seg in segs:
 		var txt := UI.esc(str(seg[0]))
 		var kind := int(seg[2])
+		offset += str(seg[0]).length()
 		if kind == 0:
 			bb += txt
 			continue
 		var idx := _store.size()
 		_store.append(seg)
+		_at.append(offset - str(seg[0]).length())
 		if quiet:
 			bb += "[url=%d]%s[/url]" % [idx, txt]
 		elif kind == KIND_KEY:
@@ -65,4 +71,5 @@ func set_plain(s: String, italic := false) -> void:
 func _on_meta(meta: Variant) -> void:
 	var idx := int(str(meta))
 	if idx >= 0 and idx < _store.size():
-		Game.main.show_gloss(_store[idx], get_global_mouse_position(), ctx, audio)
+		Game.main.show_gloss(_store[idx], get_global_mouse_position(),
+			UI.sentence_at(ctx, _at[idx]) if by_sentence else ctx, audio)

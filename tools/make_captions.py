@@ -1,6 +1,6 @@
 """Write one Ideogram caption per location illustration into art/captions/.
 
-Every scene shares one style block so the twelve places read as one set.
+Every scene shares one style block so all the places read as one set.
 No text elements: signage rendered by the model would be uncontrolled Spanish
 sitting next to carefully levelled Spanish, so the scenes stay wordless.
 
@@ -172,18 +172,27 @@ SCENES = {
          ([60, 0, 460, 320], "Free-standing poster boards with abstract coloured blocks and no "
           "readable writing.", ["#FFFFFF", "#D9622B", "#7FC4D6"])]),
     "ruzafa": (
-        "A cosy little wine bar in the Ruzafa neighbourhood of Valencia in the evening, with the "
-        "owner pouring a glass of red wine at the bar.",
-        "A warm narrow bar with exposed brick, shelves of wine bottles without readable labels, "
-        "hanging filament bulbs and a street door open to the blue dusk.",
-        [([240, 300, 660, 640], "A woman in her mid thirties with dark hair tied back and a dark "
-          "apron, pouring red wine into a glass and smiling wryly.", ["#F2C9A0", "#1F3A4D", "#B8402A"]),
-         ([600, 0, 860, 1000], "A wooden bar top with small plates of tapas: olives, cheese, bread "
-          "with tomato, and two wine glasses.", ["#5B3A29", "#3F7D4E", "#E8A33D"]),
-         ([0, 0, 380, 1000], "Shelves of dark wine bottles and warm hanging bulbs.",
+        "A painted travel-poster scene inside a cosy little wine bar in Valencia in the "
+        "evening, seen at eye level from beside the bar: the owner stands behind the bar "
+        "pouring red wine for a woman customer who sits on a tall bar stool, the two adult "
+        "women the same size with their heads at the same height, realistic proportions.",
+        "A warm narrow bar with an exposed brick wall, shelves of dark wine bottles without "
+        "readable labels, a few hanging filament bulbs and a street door open onto a quiet "
+        "blue dusk street of plain shuttered house fronts and one glowing street lamp.",
+        [([170, 60, 640, 460], "A woman in her mid thirties with dark hair tied back, a white "
+          "shirt and a dark apron, standing behind the bar, pouring red wine from a bottle "
+          "into a glass and smiling wryly.", ["#F2C9A0", "#1F3A4D", "#B8402A"]),
+         ([180, 540, 960, 940], "A blonde woman in her mid thirties in a light blue blouse, "
+          "seen in three-quarter view, sitting upright on a tall wooden bar stool with her "
+          "elbow resting on the bar top and a small notebook beside her, laughing.",
+          ["#E9D3A1", "#7FC4D6", "#F2C9A0"]),
+         ([600, 0, 720, 1000], "A long polished wooden bar top at elbow height with small "
+          "plates of olives, cheese and bread with tomato, and two wine glasses.",
+          ["#5B3A29", "#3F7D4E", "#E8A33D"]),
+         ([0, 0, 220, 1000], "Shelves of dark wine bottles and warm hanging bulbs.",
           ["#5B3A29", "#E8A33D", "#B8402A"]),
-         ([640, 660, 960, 960], "A blonde woman customer on a bar stool laughing, holding a "
-          "notebook.", ["#E9D3A1", "#7FC4D6", "#F2C9A0"])]),
+         ([720, 0, 1000, 560], "The dark wood panelled front of the bar.",
+          ["#5B3A29", "#D9622B"])]),
     "tablao": (
         "A small intimate flamenco tablao at night: a dancer in a red dress mid-turn on a wooden "
         "stage, with a guitarist and a singer seated behind her.",
@@ -197,6 +206,147 @@ SCENES = {
           "back as he sings.", ["#1F3A4D", "#F2C9A0"]),
          ([820, 0, 1000, 1000], "Silhouetted small round tables with candles and glasses at the "
           "front edge of the picture.", ["#5B3A29", "#E8A33D"])]),
+    # ---- part 2: the history readings
+    "almoina": (
+        "An underground archaeological site in Valencia: low ancient Roman stone walls and "
+        "column stumps lit by rippling light that falls through a glass ceiling with water above.",
+        "A wide dim underground hall with a pale sandy floor and a glowing ceiling of glass "
+        "under shallow water that throws soft blue ripples of light over everything.",
+        [([420, 0, 1000, 1000], "Low ruined walls of rough ancient stone and brick laid out like "
+          "the floor plan of small rooms, with a round stone basin.", ["#E9D3A1", "#5B3A29", "#D9622B"]),
+         ([300, 100, 720, 330], "Three broken Roman column stumps of pale stone standing in a "
+          "row.", ["#F6E7C8", "#E9D3A1"]),
+         ([0, 0, 320, 1000], "A ceiling of glass panels with sunlit water above, bright turquoise "
+          "and white.", ["#7FC4D6", "#FFFFFF", "#2E6F8E"]),
+         ([480, 640, 900, 860], "A young woman guide seen from behind, pointing at the ruins from "
+          "a metal walkway.", ["#B8402A", "#1F3A4D", "#F2C9A0"])]),
+    "valldigna": (
+        "A narrow old lane in the Carmen quarter of Valencia passing under a plain round stone "
+        "arch between two houses, with a small balcony of flowerpots above the arch.",
+        "A shaded narrow street of pale plastered old houses with wooden shutters, sunlight "
+        "falling on the far side of the arch.",
+        [([250, 280, 1000, 720], "A simple semicircular archway of worn stone blocks spanning "
+          "the lane, deep enough to walk through, with bright sunlight beyond it.",
+          ["#E9D3A1", "#5B3A29", "#F6E7C8"]),
+         ([120, 300, 300, 700], "A small iron balcony above the arch crowded with terracotta "
+          "pots of red geraniums.", ["#B8402A", "#3F7D4E", "#1F3A4D"]),
+         ([0, 0, 1000, 290], "The tall wall of an old house in warm ochre plaster with green "
+          "wooden shutters.", ["#E8A33D", "#3F7D4E"]),
+         ([0, 710, 1000, 1000], "An old wall of rammed earth and rough stone, part of a "
+          "medieval city wall, with a climbing plant.", ["#E9D3A1", "#5B3A29", "#3F7D4E"])]),
+    "serranos": (
+        "The Torres de Serranos in Valencia, a massive Gothic city gate of two polygonal stone "
+        "towers joined over a pointed archway, seen from the square in front in morning light.",
+        "A clear blue sky and a broad paved square with a few small trees.",
+        [([120, 80, 900, 460], "A huge polygonal tower of pale honey stone with battlements "
+          "on top.", ["#E9D3A1", "#5B3A29"]),
+         ([120, 540, 900, 920], "A matching huge polygonal tower of pale honey stone with "
+          "battlements on top.", ["#E9D3A1", "#5B3A29"]),
+         ([300, 420, 900, 580], "A central section joining the two towers, with a tall pointed "
+          "gateway at the bottom and delicate Gothic stone tracery above it.",
+          ["#E9D3A1", "#D9622B", "#1F3A4D"]),
+         ([800, 560, 980, 760], "Two small figures of visitors walking towards the gate, one "
+          "carrying a notebook.", ["#B8402A", "#2E6F8E", "#F2C9A0"])]),
+    "lonja": (
+        "The interior of the Silk Exchange in Valencia: a tall Gothic hall where slender twisted "
+        "stone columns spiral upwards and branch into a ribbed vault like palm trees.",
+        "A high pale stone hall filled with soft golden light from tall Gothic windows, with a "
+        "floor of patterned marble.",
+        [([0, 150, 880, 330], "A slender spiral-twisted stone column rising from floor to vault.",
+          ["#E9D3A1", "#F6E7C8", "#5B3A29"]),
+         ([0, 660, 880, 840], "A second slender spiral-twisted stone column rising from floor "
+          "to vault.", ["#E9D3A1", "#F6E7C8", "#5B3A29"]),
+         ([0, 0, 300, 1000], "A stone vault of star-patterned ribs spreading from the tops of "
+          "the columns like palm fronds.", ["#E9D3A1", "#E8A33D"]),
+         ([820, 0, 1000, 1000], "A floor of marble tiles in a bold geometric pattern of black, "
+          "white and warm brown.", ["#1F3A4D", "#FFFFFF", "#5B3A29"]),
+         ([620, 400, 900, 600], "Two small visitors looking up at the ceiling.",
+          ["#B8402A", "#2E6F8E", "#F2C9A0"])]),
+    "patriarca": (
+        "A quiet two-storey Renaissance cloister in Valencia with rows of slender white marble "
+        "columns and round arches around a sunny courtyard.",
+        "A square courtyard paved in pale stone under a deep blue sky, enclosed by two tiers "
+        "of arcades.",
+        [([330, 0, 640, 1000], "An upper gallery of small round arches on thin white marble "
+          "columns with a stone balustrade.", ["#FFFFFF", "#E9D3A1", "#1F3A4D"]),
+         ([600, 0, 900, 1000], "A lower arcade of larger round arches on white marble columns, "
+          "with deep cool shadow behind.", ["#FFFFFF", "#E9D3A1", "#5B3A29"]),
+         ([560, 420, 860, 580], "A white marble statue of a seated bishop on a pedestal in the "
+          "middle of the courtyard.", ["#FFFFFF", "#E9D3A1"]),
+         ([640, 700, 940, 880], "A man in his fifties in a linen jacket, a university "
+          "professor, standing with a book under his arm.", ["#37506B", "#F2C9A0", "#F6E7C8"])]),
+    "quart": (
+        "The Torres de Quart in Valencia: two massive round medieval towers of rough grey-brown "
+        "stone flanking a gateway, their walls pitted with round cannonball holes.",
+        "A bright sky and a street of low old houses leading up to the gate.",
+        [([100, 40, 920, 440], "A huge cylindrical tower of rough stone with battlements, its "
+          "surface scarred with many round holes of different sizes.",
+          ["#E9D3A1", "#5B3A29", "#1F3A4D"]),
+         ([100, 560, 920, 960], "A matching huge cylindrical tower of rough stone with "
+          "battlements, also scarred with round holes.", ["#E9D3A1", "#5B3A29", "#1F3A4D"]),
+         ([380, 420, 920, 580], "A plain wall between the towers with a tall round-arched "
+          "gateway.", ["#E9D3A1", "#1F3A4D"]),
+         ([820, 300, 990, 520], "A young woman guide with a small folded red umbrella pointing "
+          "up at the tower.", ["#B8402A", "#F2C9A0", "#1F3A4D"])]),
+    "norte": (
+        "The front of the North Station in Valencia, an ornate early twentieth century railway "
+        "station decorated with ceramic oranges and orange blossom, with a white taxi outside.",
+        "A clear warm sky above a wide pavement with palm trees.",
+        [([120, 0, 760, 1000], "A wide symmetrical station facade in cream and ochre with "
+          "small towers, tall windows, bands of green and white tiles and clusters of ceramic "
+          "oranges with leaves, with no lettering.", ["#F6E7C8", "#E8A33D", "#3F7D4E", "#D9622B"]),
+         ([60, 400, 260, 600], "A decorative crest at the top centre of the facade with a "
+          "five-pointed star.", ["#E8A33D", "#B8402A"]),
+         ([700, 80, 960, 620], "A white four-door saloon taxi parked at the kerb with a small "
+          "green light on its roof.", ["#FFFFFF", "#3F7D4E", "#1F3A4D"]),
+         ([620, 640, 960, 820], "A grey-haired taxi driver of about seventy in a short-sleeved "
+          "shirt standing by the taxi, looking up at the station.",
+          ["#F2C9A0", "#F6E7C8", "#5B3A29"])]),
+    "refugio": (
+        "The inside of a Spanish Civil War air-raid shelter: a long empty underground room with "
+        "a low curved concrete ceiling and plain benches along both walls.",
+        "A bare concrete tunnel-like room receding into the distance, lit by a few dim bulbs, "
+        "quiet and still, with blank walls.",
+        [([0, 0, 420, 1000], "A low barrel-vaulted ceiling of pale grey concrete with a line of "
+          "small hanging light bulbs glowing warmly.", ["#E9D3A1", "#E8A33D", "#5B3A29"]),
+         ([480, 0, 900, 300], "A long plain bench built along the left wall.",
+          ["#5B3A29", "#E9D3A1"]),
+         ([480, 700, 900, 1000], "A long plain bench built along the right wall.",
+          ["#5B3A29", "#E9D3A1"]),
+         ([300, 400, 640, 600], "A narrow doorway at the far end with a few steps leading up "
+          "towards daylight.", ["#F6E7C8", "#7FC4D6"]),
+         ([640, 0, 1000, 1000], "A bare worn concrete floor running the whole length of the "
+          "room between the benches, completely empty.", ["#E9D3A1", "#5B3A29"])]),
+    "turia": (
+        "The Turia Garden in Valencia: a long sunken green park of lawns, pines and palms, "
+        "crossed by an old stone bridge whose arches stand on dry grass, with a cyclist and a "
+        "runner on a path that passes under the bridge.",
+        "A bright sky over a dry sunken park of lawns and trees between two low stone walls, "
+        "with city rooftops beyond.",
+        [([240, 0, 600, 1000], "A long old stone bridge with a row of round arches spanning the "
+          "whole picture, pale honey stone, its piers standing on green grass.",
+          ["#E9D3A1", "#5B3A29", "#3F7D4E"]),
+         ([420, 0, 760, 1000], "Green lawn, umbrella pines, palms and orange trees growing "
+          "under and around the arches, with a pale gravel footpath passing through one arch.",
+          ["#3F7D4E", "#E8A33D", "#F6E7C8"]),
+         ([720, 0, 1000, 1000], "A curving path of pale gravel beside a green lawn with "
+          "flower beds.", ["#F6E7C8", "#3F7D4E", "#B8402A"]),
+         ([700, 520, 960, 800], "A cyclist and a runner on the path.",
+          ["#D9622B", "#2E6F8E", "#F2C9A0"])]),
+    "cabanyal": (
+        "A street of low two-storey houses in the Cabanyal fishing quarter of Valencia, "
+        "each front covered in glazed tiles of a different colour, with wrought-iron balconies.",
+        "A long straight narrow street under a vivid blue sky, with the sea just visible at "
+        "the far end.",
+        [([200, 0, 900, 340], "A house front covered in glossy green tiles with white floral "
+          "borders, a wooden door and an iron balcony.", ["#3F7D4E", "#FFFFFF", "#5B3A29"]),
+         ([200, 330, 900, 660], "A house front covered in blue and white tiles in a geometric "
+          "pattern, with a balcony of flowerpots.", ["#2E6F8E", "#FFFFFF", "#B8402A"]),
+         ([200, 650, 900, 1000], "A house front covered in ochre yellow tiles with a tiled panel "
+          "of a small sailing boat above the door.", ["#E8A33D", "#F6E7C8", "#2E6F8E"]),
+         ([640, 380, 960, 560], "A grey-haired man of about seventy in a short-sleeved shirt, "
+          "standing in the street and gesturing proudly at the houses.",
+          ["#F2C9A0", "#F6E7C8", "#5B3A29"])]),
 }
 
 

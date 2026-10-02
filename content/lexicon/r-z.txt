@@ -128,7 +128,7 @@ siglo|century
 siglos|centuries
 significa|means (significar)
 significas|you mean (wrong form here)
-sigue|keep going (tú command of seguir); si sigue sin = if it still doesn't
+sigue|is still, continues; keep going (tú command of seguir); si sigue sin = if it still doesn't
 siguiente|next
 silencio|silence
 simplemente|simply
@@ -143,7 +143,7 @@ situación|situation
 sobre|about; around (time); on top of
 socarrat|the toasted rice crust at the bottom of the paella
 sol|sun
-sola|by itself, alone
+sola|single; by itself, alone
 solar|sun (crema solar = sunscreen)
 soleá|a slow, solemn flamenco style
 solo|only; alone
@@ -153,7 +153,7 @@ sonreír|to smile
 sonríe|smiles (sonreír)
 soy|I am (ser)
 su|your (usted); his, her, their
-suave|smooth, mild
+suave|smooth, mild, soft
 suba|get on; go up (usted command of subir)
 subes|you go up (subir)
 subir|to go up, to climb
@@ -417,3 +417,457 @@ colón|-
 ibáñez|-
 universitat|university (Valencian)
 valència|Valencia (Valencian spelling)
+# part 2: the history readings
+radical|radical
+radicales|radical; the radicals
+ramas|branches
+raro|strange, odd
+razonable|reasonable
+real|royal; real
+realidad|reality (en realidad = actually)
+rebelaron|they rebelled (rebelarse)
+recibieron|they received (recibir)
+recibir|to receive
+recibía|received (recibir)
+recientes|recent
+recogen|they record (recoger)
+reconoces|you recognise (reconocer)
+reconstrucción|reconstruction
+reconstruir|to rebuild
+reconstruyó|was rebuilt (reconstruir)
+reconstruía|rebuilt (reconstruir)
+recordar|to remember, commemorate
+recta|straight
+rectas|straight
+recuerdas|you remember (recordar)
+recuperación|recovery
+recuperando|recovering (recuperar)
+recuperar|to recover
+recuperarlos|to recover them
+recuperó|recovered (recuperar)
+red|network; net
+redondas|round
+redondos|round
+refranes|proverbs, sayings
+refrán|proverb, saying
+refugiados|refugees
+refugio|shelter
+refugios|shelters
+regalan|they give as a gift (regalar)
+regalaron|they gave as a gift (regalar)
+regar|to irrigate, water
+regional|regional
+registro|record, register
+regula|regulates (regular)
+regulares|regular
+rehabilitado|restored, renovated
+rehabilitó|was restored (rehabilitar)
+reino|kingdom
+reinos|kingdoms
+relación|relationship, connection
+religión|religion
+remedio|no había más remedio = there was no other choice
+renace|is reborn (renacer)
+renacimiento|the Renaissance
+renau|-
+rendición|surrender
+rendiría|would surrender (rendirse)
+repartiment|distribution, sharing-out (Valencian)
+repartir|to share out, distribute
+repente|de repente = suddenly
+repetición|repetition
+repoblarlos|to repopulate them
+representantes|representatives
+represión|repression, crackdown
+republicana|Republican
+republicanas|Republican
+republicano|Republican
+republicanos|Republicans
+república|the Republic (Spain's elected government, 1931–1939)
+residencia|residence
+resistieron|they held out, resisted (resistir)
+resistió|held out, resisted (resistir)
+resolver|to settle, solve
+resolvió|solved (resolver)
+resolvía|solved, settled (resolver)
+resolvían|were settled (resolver)
+respetar|to respect
+respetarían|they would respect (respetar)
+responsabilidad|responsibility
+restauración|restoration
+restauradas|restored
+restaurado|restored
+restauraron|were restored (restaurar)
+resto|remains, relic; rest
+restos|remains
+resulta|turns out to be, is (resultar)
+resultado|result
+retira|withdraws (retirarse)
+retiró|withdrew, receded (retirarse)
+retome|takes up again (subjunctive of retomar)
+retrato|portrait
+retrató|portrayed (retratar)
+reunido|collected, gathered
+reunía|met, gathered (reunirse)
+revuelta|revolt, uprising
+reyes|kings
+reúnen|they gather (reunirse)
+riadas|floods
+ribera|-
+ribes|-
+ricardo|-
+rico|rich
+ricos|rich
+riesgo|risk
+rindió|surrendered (rendirse)
+riqueza|wealth
+rito|rite, ritual
+robado|stolen (robar)
+rodea|surrounds (rodear)
+rodrigo|-
+roja|red
+roma|Rome
+romana|Roman
+romanas|Roman
+romano|Roman
+romanos|Romans; Roman
+rompió|broke up (romperse)
+ronda|ring road
+ropa|clothes
+roto|broken (romper)
+ruinas|ruins
+rumor|rumour
+russafa|-
+ruta|route
+sabemos|we know (saber)
+sabo|(wrong form: the correct one is «sé»)
+sabrás|you will know (saber)
+sabía|knew (saber)
+sacaban|they pulled out (sacar)
+sacadas|pulled out
+sacar|to take out, draw (water)
+sacarlo|to take it out
+sacerdotes|priests
+sacos|sacks, bags
+sal|salt
+salas|rooms, halls
+saldré|I will go out (salir)
+saler|-
+salgo|I go out (salir)
+salieron|they left, went out (salir)
+salió|came out (salir)
+salvaron|were saved, they saved (salvar)
+salvem|let's save (Valencian: salvemos)
+salvemos|let's save (salvar)
+salvó|saved (salvar)
+salía|left, set off (salir)
+salían|they left, set off (salir)
+san|Saint
+santo|saint
+santos|saints
+santángel|-
+sean|they be (subjunctive of ser)
+secas|dry
+secos|dry
+secreto|secret (en secreto = in secret)
+seguidores|followers
+seguimos|we continue (seguir)
+segundo|second
+seguridad|safety
+seguía|was still, continued (seguir)
+seguían|they still, they went on (seguir)
+seiscientos|six hundred
+sellaban|were sealed (sellar)
+sello|stamp
+semanas|weeks
+sencilla|simple
+sentaban|they sat (sentarse)
+sentados|sitting, seated
+sentían|they felt (sentirse)
+separadas|separated
+separarse|to break away, separate
+septiembre|September
+seria|serious
+serlo|to be it, to be one
+sertorio|Sertorius (a Roman general)
+servían|they were used for (servir para)
+será|will be (ser)
+seré|I will be (ser)
+setecientos|seven hundred
+sexto|sixth
+señor|lord; sir
+señores|lords, landowners
+siendo|being (ser)
+significado|meaning
+sigo|I continue, I'm still (seguir)
+siguen|they are still, they follow (seguir)
+sigues|you are still (seguir)
+siguiendo|following (seguir)
+siguientes|following, next
+siguieron|they continued (seguir)
+siguió|continued, followed (seguir)
+silencioso|silent
+simbólica|symbolic
+simbólicamente|symbolically
+similar|similar
+simpatía|fondness, sympathy
+simpático|likeable (cae simpático = it comes across as friendly)
+sirenas|sirens
+sirvió|worked, was of use (servir)
+sitiada|besieged
+situados|located
+sitúa|places, dates (situar)
+siéntate|sit down (tú command of sentarse)
+sobra|is unnecessary, is left over (sobrar)
+social|social
+solares|vacant lots, plots
+soldados|soldiers
+solemne|solemn
+solución|solution
+sonaban|sounded, went off (sonar)
+sonar|to sound; to ring a bell
+sorolla|-
+sorprende|surprises (sorprender)
+sorprendente|surprising
+sorprender|to surprise
+sorprendió|surprised, caught off guard (sorprender)
+sorpresa|surprise
+soñar|to dream
+suban|they go up (subjunctive of subir)
+sube|goes up, one climbs (subir)
+suben|they go up (subir)
+subido|risen, gone up (subir)
+subió|rose (subir)
+subjuntivo|subjunctive (verb mood)
+subleva|rebels, rises up (sublevarse)
+sublevación|military uprising
+sublevados|the rebels (the army that rose against the Republic)
+subo|I go up (subir)
+subterráneos|underground
+subís|you (plural) go up (subir)
+sucesión|succession
+suchet|-
+suelen|they usually (soler + infinitive)
+sueña|(wrong form here: from soñar, to dream)
+sufrieron|they suffered (sufrir)
+sufrió|suffered (sufrir)
+sufrían|they suffered (sufrir)
+sum|I am (Latin)
+superficie|surface; area
+superlativo|superlative
+suprimirlos|to abolish them
+sus|his, her, its, their
+sustituye|replaces, is replaced (sustituir)
+sustituyeron|they replaced (sustituir)
+sustituyó|replaced (sustituir)
+séptimo|seventh
+símbolo|symbol
+sótanos|basements, cellars
+taifas|taifas (small Muslim kingdoms of the 11th century)
+talento|talent, skill
+talleres|workshops
+tan|so, such
+tanta|so much
+tantas|so many
+tantos|so many
+tapar|to cover up, fill in
+taparon|were covered up, filled in (tapar)
+taquillas|ticket windows
+tardó|took (time) (tardar)
+tarraco|Tarraco (Roman Tarragona)
+taula|table (Valencian); Taula de Canvis = the city's public bank
+techo|ceiling, roof
+techos|ceilings
+tecnología|technology
+tejado|roof
+tejedor|weaver
+tejedores|weavers
+telas|fabrics, cloth
+templada|warm, lukewarm
+templo|temple
+temprano|early
+tendrá|will have (tener)
+tendré|I will have (tener)
+tendrían|they would have (tener)
+tenido|had (tener)
+teniendo|having (tener)
+tenían|they had (tener)
+teoría|theory
+tercer|third
+tercero|third
+termas|Roman baths
+terminada|finished, once ... was over
+terminar|to finish
+terminara|to end (subjunctive of terminar)
+terminarla|to finish it
+terminarlas|to finish them
+terminó|finished (terminar)
+territorio|territory
+territorios|territories
+texto|text
+textos|texts
+tierra|land, earth
+tierras|lands
+tirant|-
+tomaba|took (tomar)
+tomara|took, captured (subjunctive of tomar)
+tomaron|they took, captured (tomar)
+tomás|-
+tomó|took, captured (tomar)
+torturado|tortured
+toscas|rough, plain
+tots|everyone (Valencian: todos)
+trabajaban|they worked (trabajar)
+trabajaron|they worked (trabajar)
+trabaje|works (subjunctive of trabajar)
+tradicionales|traditional
+tradición|tradition
+traduces|you translate (traducir)
+traduzca|translate (subjunctive of traducir)
+traigo|I bring (traer)
+trajeron|they brought (traer)
+trajes|costumes, dresses
+tramo|stretch, section
+tramos|stretches, sections
+tranquila|calm, unworried
+tranquilidad|peace, calm
+tranquilo|quiet, calm
+transformación|transformation
+transformaron|they turned, transformed (transformar)
+transición|transition
+transporte|transport
+tras|after; behind
+traslada|moves, relocates (trasladarse)
+trasladar|to move, relocate
+trasladó|moved, relocated (trasladarse)
+tratos|deals
+través|a través de = through
+trazado|layout, street plan
+traído|brought (traer)
+trenes|trains
+trepan|they climb (trepar)
+tribunales|courts of law
+trigo|wheat
+trinidad|Trinity
+triste|sad
+triunfo|triumph (arco de triunfo = triumphal arch)
+trono|throne
+tropas|troops
+trozo|piece
+trozos|pieces
+trénor|-
+tumba|tomb
+tumbado|lying down
+turca|Turkish
+turista|tourist
+tuvieron|they had (tener)
+tuvo|had (tener)
+técnica|technique; technical
+técnicas|techniques
+tía|aunt
+típico|typical
+túnez|Tunis, Tunisia
+unida|united, close
+unido|joined (unir)
+uniera|would join (subjunctive of unir)
+universitarias|university (adjective)
+unió|joined (unirse)
+unía|joined, linked (unir)
+urbanos|urban, city
+usaba|was used (usar)
+usaban|were used (usar)
+usarlas|to use them
+usaron|were used, they used (usar)
+usos|uses
+usura|usury (lending at excessive interest)
+utilidad|usefulness
+v|5th, the Fifth (quinto)
+vacías|empty
+vacíos|empty
+vagones|railway wagons
+valencianas|Valencian
+valentia|-
+valiosas|valuable
+valiosos|valuable
+valldigna|-
+valor|courage, valour; value
+vapor|steam (barcos de vapor = steamships)
+variada|varied
+vecina|neighbouring
+veis|you (plural) see (ver)
+velázquez|-
+vencidos|defeated
+venció|won, defeated (vencer)
+vendedor|seller
+venderlo|to sell it
+vendiendo|selling (vender)
+vendieron|they sold (vender)
+vendo|I sell (vender)
+vendía|sold, was sold (vender)
+vengas|you come (subjunctive of venir)
+ventanas|windows
+ventanilla|car window
+venían|they came (venir)
+verdadero|true
+verdes|green
+versos|verses, lines of poetry
+ves|you see (ver)
+veían|they saw (ver)
+viajaron|they travelled (viajar)
+viajó|travelled (viajar)
+vicente|-
+victoria|victory
+vieja|old
+viejas|old
+viejo|old
+viena|Vienna
+vienen|they come (venir)
+viera|saw (subjunctive of ver)
+vieran|could see (subjunctive of ver)
+viii|8th (siglo VIII = siglo octavo, the 8th century)
+vinaròs|-
+vinieron|they came (venir)
+violencia|violence
+virreina|vicereine (the king's deputy in the kingdom)
+visigoda|Visigothic
+visigodo|Visigothic
+visigodos|Visigoths; Visigothic
+visitantes|visitors
+visitar|to visit
+vista|sight, view; eyes (levanta la vista = look up)
+viste|you saw (ver)
+vistiendo|dressing (vestir)
+viva|alive
+vivar|-
+vive|lives (vivir)
+vivido|lived (vivir)
+viviendas|homes, dwellings
+viviendo|living (vivir)
+vivir|to live
+vivió|lived (vivir)
+vivía|lived (vivir)
+vivíamos|we lived (vivir)
+vivían|they lived (vivir)
+volvemos|we go back (volver)
+volverás|you will come back (volver)
+volveré|I will come back (volver)
+volvió|returned; volvió a = did again (volver)
+volvía|came back, kept returning (volver)
+volvían|they came back (volver)
+vuelto|returned (volver)
+vuestras|your (plural)
+válida|valid
+vía|road, way (Vía Augusta = the Roman road along the coast)
+vías|tracks, lines
+víctima|victim
+xi|11th (siglo XI = siglo once, the 11th century)
+xiv|14th (siglo XIV = siglo catorce, the 14th century)
+xix|19th (siglo XIX = siglo diecinueve, the 19th century)
+xv|15th (siglo XV = siglo quince, the 15th century)
+xx|20th (siglo XX = siglo veinte, the 20th century)
+zayyan|-
+zigzag|zigzag
+últimas|last
+últimos|last
+única|only
+único|only; unique

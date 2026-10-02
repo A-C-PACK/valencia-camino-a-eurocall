@@ -249,6 +249,20 @@ static func plain(segs: Array) -> String:
 	return s
 
 
+## The sentence of `text` that the character at `pos` belongs to.
+static func sentence_at(text: String, pos: int) -> String:
+	var start := 0
+	var end := text.length()
+	for i in text.length() - 1:
+		if text[i] in ".?!…" and text[i + 1] == " ":
+			if i < pos:
+				start = i + 2
+			else:
+				end = i + 1
+				break
+	return text.substr(start, end - start).strip_edges()
+
+
 # ------------------------------------------------------------ answer checking
 
 static func norm(s: String, strip_accents := false) -> String:

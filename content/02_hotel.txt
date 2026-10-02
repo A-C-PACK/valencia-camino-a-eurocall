@@ -2,6 +2,7 @@
 @name Hotel
 @zone Ciutat Vella · calle de la Paz
 @geo 39.47323 -0.37279 centre r
+@focus 0.15
 @route Desde el aeropuerto: unos veinticinco minutos en taxi.
 @blurb Un hotel pequeño en una casa antigua del centro. Pablo, el recepcionista, te espera.
 @goal Registrarte en el hotel, entender los horarios y explicar un problema en la habitación.

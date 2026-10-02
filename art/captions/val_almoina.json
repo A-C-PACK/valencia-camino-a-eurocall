@@ -1,0 +1,87 @@
+{
+  "high_level_description": "An underground archaeological site in Valencia: low ancient Roman stone walls and column stumps lit by rippling light that falls through a glass ceiling with water above.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A wide dim underground hall with a pale sandy floor and a glowing ceiling of glass under shallow water that throws soft blue ripples of light over everything.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          420,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "Low ruined walls of rough ancient stone and brick laid out like the floor plan of small rooms, with a round stone basin.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#D9622B"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          100,
+          720,
+          330
+        ],
+        "desc": "Three broken Roman column stumps of pale stone standing in a row.",
+        "color_palette": [
+          "#F6E7C8",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          320,
+          1000
+        ],
+        "desc": "A ceiling of glass panels with sunlit water above, bright turquoise and white.",
+        "color_palette": [
+          "#7FC4D6",
+          "#FFFFFF",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          480,
+          640,
+          900,
+          860
+        ],
+        "desc": "A young woman guide seen from behind, pointing at the ruins from a metal walkway.",
+        "color_palette": [
+          "#B8402A",
+          "#1F3A4D",
+          "#F2C9A0"
+        ]
+      }
+    ]
+  }
+}

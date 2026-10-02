@@ -2,6 +2,7 @@
 @name La Malvarrosa
 @zone Playa · El Cabanyal
 @geo 39.4775 -0.3245 city l
+@focus 0.17
 @route Desde el centro: unos treinta minutos en tranvía o en autobús.
 @blurb La playa de la ciudad, a veinte minutos en tranvía. En el paseo marítimo hay restaurantes de arroces de toda la vida. Has quedado con Hanna para comer.
 @goal Pedir mesa, entender la carta, pedir para dos y pagar la cuenta.

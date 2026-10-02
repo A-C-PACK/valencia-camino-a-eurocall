@@ -1,0 +1,107 @@
+@part 2
+@id valldigna
+@name Portal de la Valldigna
+@short Portal de la Valldigna
+@era Balansiya · siglos VIII a XIII
+@geo 39.47760 -0.37870 centre l
+@focus 0.25
+@route Calle del Portal de Valldigna, en el barrio del Carmen.
+@blurb Durante más de cinco siglos Valencia se llamó Balansiya y fue una ciudad de al-Ándalus. De aquella época quedan trozos de muralla, muchas palabras y la huerta.
+@visit El portal, las torres de la muralla islámica en la plaza del Ángel y, a diez minutos, los Baños del Almirante.
+
+== agua | La ciudad del agua ==
+N: Segundo día de la ruta. Lucía te espera en una calle estrecha del Carmen, delante de un arco de piedra entre dos casas. Encima del arco hay un balcón con macetas.
+LUCIA: ¡Buenos días! Hoy toca la Valencia musulmana. Este arco está en la muralla del siglo once, aunque ahora parece la entrada de un patio. Pero antes de hablar de piedras, vamos a hablar de agua.
+C: No entiendes qué tiene que ver el agua con la historia. ¿Cómo lo preguntas?
+  * ¿De agua? ¿{{Qué tiene que ver|what does ... have to do (with it)}} el agua con la muralla? || «¿Qué tiene que ver A con B?» sirve para pedir la relación entre dos cosas. Muy útil en una clase o una visita.
+  ~ ¿De agua? ¿Por qué es importante el agua? || Bien: es una pregunta clara y correcta.
+  - ¿De agua? ¿Qué tiene de ver el agua con la muralla? || La expresión es «tener que ver con», con «que».
+LUCIA*: Mucho. Sin el agua no hay huerta, y sin la huerta esta ciudad no habría sido nunca rica. Lee esto y lo vas a ver. Fíjate en las palabras que empiezan por «al-» o por «a-»: muchas vienen del árabe.
+H: La ciudad del agua
+R: A principios del siglo VIII, los ejércitos musulmanes que habían cruzado el estrecho de Gibraltar ocuparon casi toda la península en pocos años. Al parecer, Valencia no resistió: {{se entregó|surrendered (entregarse)}} mediante un pacto, y sus habitantes pudieron conservar sus casas y su religión {{a cambio de|in exchange for}} pagar impuestos. La ciudad pasó a llamarse Balansiya y, durante más de cinco siglos, formó parte de al-Ándalus.
+R: Al principio fue una ciudad pequeña y poco importante. El cambio llegó {poco a poco|little by little} y tuvo mucho que ver con el agua. Los nuevos habitantes, muchos de ellos campesinos llegados del norte de África, conocían bien las técnicas para {{regar|to irrigate, to water}} tierras secas. Construyeron pequeñas presas en el río, llamadas azudes, y una red de acequias que {repartía|distributed, shared out (repartir)} el agua del Turia por toda la llanura. Así nació la huerta, el paisaje de campos verdes que todavía rodea la ciudad.
+R: Con el agua llegaron {{cultivos|crops}} nuevos: el arroz, la caña de azúcar, las berenjenas, las alcachofas, las espinacas y la naranja amarga, que entonces se usaba como planta decorativa y medicinal. También llegó la morera, el árbol cuyas hojas alimentan a los gusanos de seda, y con ella una industria que haría rica a la ciudad siglos después. En la vecina Xàtiva se fabricaba papel, uno de los primeros de Europa.
+R: {{La huella|the mark, trace, footprint}} de aquella época sigue viva en la lengua. Muchas palabras del campo y del agua vienen del árabe: acequia, azud, noria, alberca o alquería, que es una casa de campo. También muchos nombres de lugares. La Albufera significa «el pequeño mar». Russafa toma su nombre de una finca con jardines que un príncipe omeya mandó construir allí. Y los pueblos que empiezan por «Beni-», como Benimaclet o Benicalap, llevan el nombre de la familia que los fundó.
+R: Hay, además, {{una herencia|an inheritance, a legacy}} que no es una palabra, sino una institución. Cada jueves a mediodía, en una puerta de la catedral, se reúne el Tribunal de las Aguas para resolver los conflictos entre los agricultores de las ocho acequias de la huerta. No hay abogados ni documentos escritos: se habla, en valenciano, y se decide {en el acto|on the spot}. Nadie sabe con certeza cuándo empezó, pero la tradición lo sitúa en la época andalusí.
+Q: ¿Cuál es la idea principal del texto?
+  * La Valencia musulmana se hizo rica gracias al agua, y esa época dejó una huella que todavía se ve. || La huerta, los cultivos, las palabras y el Tribunal de las Aguas: todo sale de ahí.
+  - Los musulmanes conquistaron Valencia después de una guerra muy larga. || Al contrario: «al parecer, Valencia no resistió».
+  - El valenciano es una lengua que viene del árabe. || No: algunas palabras vienen del árabe, pero la lengua viene del latín.
+Q: ¿Qué pasó con los habitantes de Valencia cuando llegaron los musulmanes?
+  * Pudieron quedarse y conservar su religión si pagaban impuestos. || «A cambio de pagar impuestos»: eso fue el pacto.
+  - Tuvieron que abandonar la ciudad. || No: conservaron sus casas.
+  - Tuvieron que cambiar de religión. || El pacto les permitía conservarla.
+Q: ¿Para qué servía la naranja en aquella época, según el texto?
+  * Como planta decorativa y medicinal. || Era la naranja amarga. La naranja dulce que comemos hoy llegó siglos más tarde.
+  - Para hacer zumo y venderlo en el mercado. || Era amarga: no se comía como hoy.
+  - Para alimentar a los gusanos de seda. || Eso es la morera.
+Q: En el texto, «la huella de aquella época sigue viva» significa que…
+  * todavía hoy se notan sus efectos. || Una «huella» es la marca que deja un pie; aquí, la marca que deja una época.
+  - todavía viven en Valencia familias de aquella época. || Aquí «viva» no habla de personas, sino de la influencia.
+  - se han encontrado pisadas de aquella época. || Es una metáfora: no son huellas de verdad.
+Q: ¿Qué es una «alquería»?
+  * Una casa de campo. || El texto lo explica: «alquería, que es una casa de campo». Todavía quedan muchas en la huerta.
+  - Un canal para regar. || Eso es una acequia.
+  - Una presa pequeña en el río. || Eso es un azud.
+Q: ¿Verdadero o falso? «Sabemos exactamente en qué año se creó el Tribunal de las Aguas.»
+  * Falso. || «Nadie sabe con certeza cuándo empezó»: la tradición dice que es de época andalusí.
+  - Verdadero. || Mira el último párrafo: «nadie sabe con certeza».
+K: Palabras que empiezan por «al-» || «Al» es el artículo en árabe. Por eso tantas palabras españolas de origen árabe empiezan así: alcachofa, almohada, alcalde, alfombra, almacén, alquiler. Otras han perdido la «l»: aceite, azúcar, arroz, acequia. Se calcula que el español tiene unas cuatro mil palabras de origen árabe.
+LUCIA: Ahora ya sabes por qué el arroz y la naranja son tan valencianos. Venga, pregúntame por alguna palabra.
+T: Pregunta de dónde viene la palabra acequia.
+  = ¿De dónde viene la palabra acequia?
+  = ¿De dónde viene acequia?
+  = ¿De dónde viene la palabra?
+  = ¿La palabra acequia de dónde viene?
+  = Perdona, ¿de dónde viene la palabra acequia?
+  = ¿De dónde viene esa palabra?
+  ! Para preguntar por el origen de algo: «¿{{De dónde viene|where does ... come from}}…?»
+LUCIA: Del árabe: significa algo así como «la que da de beber». Bonito, ¿verdad?
+
+== muralla | El Cid y la muralla ==
+N: Camináis dos minutos hasta la plaza del Ángel. Entre dos edificios de pisos aparece una torre muy antigua, medio escondida.
+LUCIA: Esta torre es de la muralla que has cruzado antes. Tiene mil años y está en medio de un patio de vecinos. En este barrio, la historia hay que buscarla. Te dejo el segundo texto: hoy sale un personaje que seguro que conoces.
+H: El Cid y la muralla
+R: En el siglo XI, el califato de Córdoba se rompió en muchos reinos pequeños, llamados taifas, y Balansiya {{se convirtió en|became (convertirse en)}} la capital de uno de ellos. Fue su mejor época. El rey Abd al-Aziz, que gobernó cuarenta años, mandó construir una muralla nueva con siete puertas. Dentro vivían quizá quince mil personas, entre calles estrechas, baños públicos, mezquitas y mercados.
+R: Pero las taifas eran ricas y débiles {{a la vez|at the same time}}. Luchaban entre sí y pagaban a los reinos cristianos del norte a cambio de protección. En ese mundo de fronteras confusas se movía Rodrigo Díaz de Vivar, el Cid, un noble castellano que, {desterrado|exiled, banished} por su rey, luchaba para quien le pagara, fuera cristiano o musulmán. En 1094, después de {{un asedio|a siege}} largo y muy duro, tomó Valencia y la gobernó como señor independiente hasta su muerte, en 1099. Su esposa, Jimena, resistió tres años más. En 1102 los castellanos abandonaron la ciudad y, antes de irse, la incendiaron.
+R: Balansiya volvió entonces {a manos|into the hands (of)} musulmanas: primero llegaron los almorávides y, más tarde, los almohades, dos imperios del norte de África. Fueron todavía ciento treinta y seis años más. Los poetas de la época hablaban de la ciudad como de un paraíso. Uno de ellos, al-Russafi, que tuvo que marcharse lejos, le dedicó versos llenos de nostalgia.
+R: ¿Qué queda hoy de todo aquello? Menos de lo que cabría esperar, porque los conquistadores cristianos transformaron las mezquitas en iglesias y la ciudad siguió creciendo encima. De la muralla del siglo XI {{se conservan|are preserved, survive (conservarse)}} algunos tramos y torres escondidos entre las casas del barrio del Carmen. El Portal de la Valldigna es una puerta que se abrió en esa muralla en 1400, ya en época cristiana, para comunicar la ciudad con la morería, el barrio donde vivían los musulmanes que se habían quedado.
+R: Y a diez minutos de allí, los Baños del Almirante cuentan otra historia curiosa. Se construyeron en 1313, cuando Valencia {llevaba ya setenta y cinco años|had already been for seventy-five years (llevar + time)} en manos cristianas, pero siguen exactamente el modelo de un baño árabe: sala fría, sala templada y sala caliente, con pequeñas ventanas en forma de estrella en el techo. Las costumbres, {{a menudo|often}}, duran más que los reinos: los baños funcionaron hasta 1959.
+Q: ¿Por qué dice el texto que las taifas eran «ricas y débiles a la vez»?
+  * Porque tenían dinero, pero luchaban entre sí y pagaban a otros para que las protegieran. || Riqueza sin fuerza militar: por eso un hombre como el Cid pudo tomar Valencia.
+  - Porque tenían grandes ejércitos, pero poca comida. || El texto dice lo contrario: tenían dinero y necesitaban protección.
+  - Porque sus murallas eran bonitas, pero muy bajas. || De la altura de las murallas no se dice nada.
+Q: Según el texto, ¿para quién luchaba el Cid?
+  * Para quien le pagara, cristiano o musulmán. || Era un noble desterrado que vivía de la guerra. La leyenda del héroe cristiano llegó después.
+  - Solo para el rey de Castilla. || Su rey lo había desterrado.
+  - Solo para los reyes musulmanes. || Luchó para unos y para otros.
+Q: ¿Qué hicieron los castellanos al abandonar Valencia en 1102?
+  * La incendiaron. || «Antes de irse, la incendiaron». Es la segunda vez que la ciudad arde, después de Pompeyo.
+  - Se la vendieron a los almorávides. || No: la quemaron y se fueron.
+  - Construyeron una muralla nueva. || La muralla era anterior, de Abd al-Aziz.
+Q: «Menos de lo que cabría esperar» significa…
+  * menos de lo que uno imaginaría. || «Cabe esperar» = es lógico esperar. Después de cinco siglos, uno esperaría encontrar más restos.
+  - menos de lo que la gente quiere. || No habla de deseos, sino de lo que parecería lógico.
+  - nada en absoluto. || Sí queda algo: tramos de muralla y torres.
+Q: ¿Qué tienen de especial los Baños del Almirante?
+  * Son de época cristiana, pero están construidos como un baño árabe. || 1313: setenta y cinco años después de la conquista, y con las tres salas de un hammam.
+  - Son los baños romanos más antiguos de la península. || Esos están en l'Almoina.
+  - Son la única mezquita que se conserva. || No son una mezquita, sino unos baños públicos.
+O: Ordena estos hechos, del más antiguo al más reciente.
+  = Abd al-Aziz manda construir la muralla.
+  = El Cid toma Valencia después de un largo asedio.
+  = Los castellanos abandonan la ciudad y la incendian.
+  = Almorávides y almohades gobiernan Balansiya.
+  = Se abre el Portal de la Valldigna en la vieja muralla.
+  ! La muralla es del siglo XI, pero la puerta que has cruzado es de 1400: más joven que la catedral.
+K: «Llevar» + tiempo || «Valencia llevaba ya setenta y cinco años en manos cristianas». Para decir cuánto tiempo dura una situación se usa «llevar»: «llevo tres días en Valencia», «llevo dos años estudiando español». En pasado: «llevaba». Es mucho más frecuente que «he estado… durante…».
+LUCIA: Bueno, ¿y tú? Cuéntame: ¿cuánto tiempo llevas estudiando español?
+T: Llevas dos años. Díselo a Lucía.
+  = Llevo dos años estudiando español.
+  = Llevo dos años.
+  = Llevo dos años estudiándolo.
+  = Llevo dos años aprendiendo español.
+  = Pues llevo dos años estudiando español.
+  = Llevo dos años estudiando.
+  ! Como en el texto: «{{Llevo dos años|I've been (doing it) for two years}}» + gerundio.
+LUCIA: ¿Solo dos años? Pues lees textos de historia sin problema. Mañana, el rey que lo cambió todo: Jaume primero.

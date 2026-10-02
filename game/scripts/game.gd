@@ -96,23 +96,55 @@ func location_done(loc: Dictionary) -> int:
 	return n
 
 
+## Part 1 is the trip (conversations); part 2 is the history of the city (readings).
+## Each part has its own itinerary, numbered from 1 and open from the start.
+func part_of(index: int) -> int:
+	return int(locations[index].get("part", 1))
+
+
+func part_indices(part: int) -> Array:
+	var out: Array = []
+	for i in locations.size():
+		if part_of(i) == part:
+			out.append(i)
+	return out
+
+
+func number_in_part(index: int) -> int:
+	return part_indices(part_of(index)).find(index) + 1
+
+
 func location_unlocked(index: int) -> bool:
-	if index == 0 or setting("unlock_all", false):
+	if setting("unlock_all", false):
 		return true
-	return location_done(locations[index - 1]) > 0
+	var n := number_in_part(index)
+	return n == 1 or location_done(locations[part_indices(part_of(index))[n - 2]]) > 0
 
 
-func total_stars() -> int:
+## The place to open a part on: the first one with a scene still to do.
+func next_in_part(part: int) -> int:
+	var all := part_indices(part)
+	for i in all:
+		if location_done(locations[i]) < locations[i].scenes.size():
+			return i if location_unlocked(i) else all[max(0, all.find(i) - 1)]
+	return all[0]
+
+
+## part 0 = the whole game
+func total_stars(part := 0) -> int:
 	var n := 0
-	for v in save.scenes.values():
-		n += int(v.get("stars", 0))
+	for i in locations.size():
+		if part == 0 or part_of(i) == part:
+			for s in locations[i].scenes:
+				n += scene_stars(locations[i], s)
 	return n
 
 
-func max_stars() -> int:
+func max_stars(part := 0) -> int:
 	var n := 0
-	for loc in locations:
-		n += loc.scenes.size() * 3
+	for i in locations.size():
+		if part == 0 or part_of(i) == part:
+			n += locations[i].scenes.size() * 3
 	return n
 
 

@@ -3,6 +3,7 @@
 @short Catedral
 @zone Ciutat Vella · plaza de la Reina
 @geo 39.47557 -0.37510 centre r
+@focus 0.30
 @route Desde la horchatería: tres minutos a pie.
 @blurb La catedral, la torre del Miguelete y, a cinco minutos, la Lonja de la Seda. Lucía hace una visita guiada por el centro histórico.
 @goal Comprar entradas, seguir una explicación en pasado y hacer preguntas a una guía.

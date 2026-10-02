@@ -149,13 +149,13 @@ bailaor|flamenco dancer (male)
 bailar|to dance
 bailarín|dancer
 baile|dance, dancing
-baja|go down (tú command of bajar)
+baja|goes down; low; go down (tú command of bajar)
 bajar|to go down; to get off (a train, bus)
-bajas|you go down; you get off (bajar)
+bajas|low; you go down, you get off (bajar)
 baje|get off (usted command of bajar)
-bajo|I get off (bajar)
+bajo|under, beneath; low; I get off (bajar)
 baldosas|floor tiles
-banco|bank
+banco|bank; bench
 band-aids|-
 banda|arroz a banda = rice cooked in fish stock
 bandas|bands (of musicians)
@@ -245,7 +245,7 @@ canta|sings; se canta = there is singing
 cantante|singer (general word; flamenco uses cantaor)
 cantaor|flamenco singer
 cante|flamenco singing
-cara|expensive
+cara|expensive; face, side
 caracoles|snails
 cariño|dear, love (affectionate way to address someone)
 carmen|-
@@ -254,7 +254,7 @@ carné|ID card
 carrer|street (Valencian)
 carretera|road
 carril|lane (carril bici = cycle lane)
-carta|menu
+carta|menu; letter
 carteles|signs, notices
 cartón|cardboard
 casa|house; la casa = the establishment
@@ -265,7 +265,7 @@ catalina|-
 catedral|cathedral
 cauce|riverbed
 causa|cause
-caña|small draught beer
+caña|cane, reed; small draught beer
 celebran|are held, are celebrated (celebrar)
 cena|dinner
 cenar|to have dinner
@@ -297,7 +297,7 @@ ciudades|cities
 clara|clear
 claro|of course; clear
 claros|clear
-clase|class
+clase|class; kind
 clave|key (frase clave = key phrase)
 clásica|classic
 clóchinas|small Valencian mussels
@@ -404,3 +404,548 @@ cómodos|comfortable
 aterriza|lands (aterrizar)
 ensanche|the Eixample: the 19th-century grid district beside the old town
 oeste|west
+# part 2: the history readings
+abandonada|abandoned
+abandonan|they abandon, leave (abandonar)
+abandonar|to abandon, leave
+abandonaron|they abandoned, left (abandonar)
+abandono|abandonment, neglect
+abandonó|abandoned, was abandoned (abandonar)
+abanicos|fans (hand fans)
+abd|-
+abierto|open; opened
+abogados|lawyers
+abolido|abolished (abolir)
+abren|they open (abrir)
+abrieron|they opened (abrir)
+abril|April
+abrirle|to open for it (abrirle paso = to make way for it)
+abriría|would open (abrir)
+abrió|opened (abrir)
+abrían|they used to open (abrir)
+absoluto|absolute (en absoluto = at all)
+abuelo|grandfather
+abuelos|grandparents, grandfathers
+acabar|to finish, end up
+acabó|ran out, ended (acabarse)
+accidente|accident
+acciones|actions
+aceite|oil
+aceptaron|they accepted (aceptar)
+acequia|irrigation channel
+acequias|irrigation channels
+acercáis|you (plural) approach (acercarse)
+aclara|clarifies, makes clear (aclarar)
+activo|active, busy
+acto|ceremony, public event; act
+actuales|present-day, current
+acudieron|they came, attended (acudir)
+acuerdas|you remember (acordarse)
+acuerdo|agreement
+acuerdos|agreements
+acusaba|accused (se les acusaba = they were accused)
+administración|administration, government offices
+adornos|decorations, ornaments
+advertencia|warning
+afecta|affects (afectar)
+afectada|affected
+afirma|states, asserts (afirmar)
+afirmar|to state, assert as true
+afirmarlo|to assert it
+agermanados|the rebels of the Germanías (members of the brotherhood)
+agosto|August
+agujeros|holes
+ahogaba|was suffocating, drowning (ahogarse)
+al-aziz|-
+al-russafi|-
+al-ándalus|al-Andalus, Muslim Spain
+alberca|pool, water tank
+alcachofa|artichoke
+alcachofas|artichokes
+alcalde|mayor
+alcanza|reaches (alcanzar)
+alcança|reaches (Valencian: alcanza)
+alcázar|fortress-palace
+alegrarse|to be glad
+alegras|you are glad (alegrarse)
+alegre|cheerful, happy
+alemanes|Germans
+alemania|Germany
+alfombra|carpet, rug
+alguna|some, any
+algunas|some
+aliados|allies; allied
+alianza|alliance
+alicante|-
+alimentan|they feed (alimentar)
+alimentar|to feed
+almacenes|warehouses, storehouses
+almacén|warehouse, storehouse
+almansa|-
+almirante|admiral
+almohada|pillow
+almohades|the Almohads (a North African dynasty)
+almoina|alms, charity (Valencian)
+almorávides|the Almoravids (a North African dynasty)
+alquería|farmhouse (in the Valencian huerta)
+alrededores|surroundings, surrounding area
+alta|high, tall
+altas|high, tall
+alto|high, tall (en lo alto = at the top)
+altos|high, tall
+altura|height
+amarga|bitter
+ambiente|atmosphere
+ambulante|travelling (vendedor ambulante = street seller)
+amigo|friend
+amorós|-
+amparín|-
+ancha|wide
+ancho|wide
+anchura|width
+andalusí|of al-Andalus, Andalusi
+ande|come on, go on (usted)
+andenes|platforms
+animales|animals
+anochecer|nightfall (al anochecer = at nightfall)
+anotó|was noted down (anotar)
+ante|before, in front of (a court, an authority)
+anterior|earlier, previous
+anteriores|earlier, previous
+antiaéreo|anti-aircraft (refugio antiaéreo = air-raid shelter)
+antiguos|ancient, old
+anual|annual, yearly
+anunciaban|they announced, displayed (anunciar)
+apagar|to turn off, put out
+aparcamientos|car parks
+aparco|I park (aparcar)
+aparece|appears (aparecer)
+aparecen|they appear (aparecer)
+apareciendo|appearing (aparecer)
+apenas|hardly, barely; only just
+apoyaron|they supported (apoyar)
+apoyarían|they would support (apoyar)
+apoyos|supports
+aprendiendo|learning (aprender)
+aprendiste|you learned (aprender)
+aprobó|approved, was approved (aprobar)
+aproximadamente|approximately
+aprueba|is approved (aprobar)
+aquel|that (over there, back then)
+aquella|that (over there, back then)
+aquellas|those (back then)
+aquello|that (thing, time)
+aquellos|those (back then)
+aragoneses|Aragonese (people)
+aragonés|Aragonese (language, person)
+aragón|Aragon
+archiduque|archduke
+arco|arch
+arcos|arches
+arde|burns (arder)
+arena|sand
+argelia|Algeria
+argumentos|arguments, reasons
+armado|reinforced (hormigón armado = reinforced concrete); armed
+armados|armed
+armaran|arm themselves (subjunctive of armarse)
+armas|weapons
+arqueología|archaeology
+arqueológico|archaeological
+arqueólogos|archaeologists
+arquitecto|architect
+arquitectos|architects
+arquitectura|architecture
+arrastraban|they dragged (arrastrar)
+arrastrando|dragging (arrastrar)
+arrastró|swept along, dragged (arrastrar)
+arriesgado|risky
+arruinaron|were ruined, went bankrupt (arruinarse)
+art|-
+arte|art
+artesanos|craftsmen, artisans
+arzobispo|archbishop
+asaltado|attacked, stormed (asaltar)
+asalto|attack, assault
+asedio|siege
+asociaciones|associations
+ataca|attacks (atacar)
+atacaban|they used to attack (atacar)
+atacó|attacked (atacar)
+atrajo|attracted (atraer)
+atrás|behind, back
+ató|tied (atar)
+augusta|-
+augusto|Augustus
+ausiàs|-
+austria|Austria
+austriaco|Austrian
+austrias|the Habsburgs (Spain's royal family until 1700)
+autores|authors
+autoridades|authorities
+avanzada|advanced
+avanzado|advanced
+avanzó|advanced (avanzar)
+avenidas|avenues
+aviones|planes
+ayudaban|they helped (ayudar)
+ayudar|to help
+ayudaron|they helped (ayudar)
+ayuntamientos|city councils
+azahar|orange blossom
+azud|small dam, weir
+azudes|small dams, weirs
+añadieron|were added (añadir)
+añadir|to add
+añadió|added (añadir)
+aún|still, yet
+bajaba|was going down (bajar)
+bajáis|you (plural) go down (bajar)
+bajó|came down (bajar)
+balaguer|-
+balansiya|-
+balcones|balconies
+balcón|balcony
+bancos|benches; banks
+bando|side (in a conflict)
+bandos|sides (in a conflict)
+baptisterio|baptistery
+baratos|cheap
+barca|small boat
+barcas|small boats
+barcelona|-
+barco|ship, boat
+barcos|ships, boats
+barraca|traditional thatched Valencian house
+barracas|traditional thatched Valencian houses
+barrancos|ravines, gullies
+barrer|to sweep
+barrios|neighbourhoods
+barro|mud
+base|base, basis
+basta|is enough (bastar)
+bastaba|was enough (bastar)
+bastantes|quite a few
+bastó|was enough (bastar)
+basura|rubbish
+batalla|battle
+bautizados|baptised
+bautizan|they baptise (bautizar)
+bautizaran|be baptised (subjunctive of bautizarse)
+bautizaron|they baptised (bautizar)
+bautizarse|to be baptised
+baño|bath
+baños|baths
+belleza|beauty
+beni|sons of (Arabic, in place names)
+benicalap|-
+berenjenas|aubergines, eggplants
+bilingüe|bilingual
+blanch|-
+boca|mouth (boca abajo = upside down)
+bodas|weddings
+bofill|-
+bombardea|bombs (bombardear)
+bombardeaban|they bombed (bombardear)
+bombardeada|bombed
+bombardearon|they bombed (bombardear)
+bombardeos|bombings, air raids
+bombardeó|bombed (bombardear)
+bombas|bombs
+bonitas|pretty
+borbón|Bourbon
+borgia|-
+borja|-
+borrachos|drunkards
+bosque|forest, wood
+botiflers|supporters of Philip V (Valencian)
+bous|oxen (Valencian)
+brillante|brilliant, bright
+brillantes|shiny
+broma|joke
+bruto|-
+bueyes|oxen
+burguesía|bourgeoisie, well-off middle class
+buscarla|to look for it
+busco|I look for (buscar)
+bóvedas|vaults (arched ceilings)
+caballeros|knights; gentlemen
+caballerías|chivalry (novela de caballerías = romance of chivalry)
+caballos|horses
+cabanyal|-
+cabe|fits (caber); cabe esperar = one might expect
+cabezas|heads
+cabría|would fit; cabría esperar = one would expect (caber)
+cabíamos|we fitted (caber)
+cabían|they fitted, there was room for (caber)
+caimán|caiman, alligator
+caja|box
+cajas|boxes, crates
+calcula|is estimated (calcular)
+calendario|calendar
+califato|caliphate
+calla|goes quiet (callarse)
+calma|calm (con calma = calmly, taking your time)
+cambiaba|was exchanged, changed (cambiar)
+cambiamos|we change (cambiar)
+cambiaron|they changed (cambiar)
+cambió|changed (cambiar)
+caminando|walking (caminar)
+caminar|to walk
+caminos|roads, paths
+camináis|you (plural) walk (caminar)
+camiones|lorries, trucks
+campamento|camp
+campaña|campaign
+campesinos|peasants, farmers
+campos|fields
+canal|channel, canal
+candidatos|candidates
+canteros|stonemasons
+cantidad|quantity, amount
+canvis|exchange (Valencian: cambios)
+capa|layer
+capacidad|capacity
+capaz|capable, able
+capital|capital
+caracol|snail (escalera de caracol = spiral staircase)
+cargaba|loaded (cargar)
+cargados|loaded
+cargar|to carry, load
+carlos|Charles
+caro|expensive; dearly
+caros|expensive
+carpinteros|carpenters
+carreras|races
+carriles|lanes
+cartelista|poster artist
+carácter|character, temper
+casas|houses
+caso|case
+castellanos|Castilians
+castigada|punished
+castigado|punished
+castigar|to punish
+castigo|punishment
+castigó|punished (castigar)
+castilla|Castile
+castillo|castle
+castro|-
+catalanes|Catalans
+cataluña|Catalonia
+catalán|Catalan
+catástrofe|catastrophe
+causas|causes
+cayendo|falling (caer)
+cayeron|they fell (caer)
+cayó|fell (caer)
+caía|was falling (caer)
+cañas|reeds, canes
+cañones|cannons
+cañón|cannon
+ceder|to give way, yield, hand over
+cedieron|they gave way (ceder)
+celebraban|were held, celebrated (celebrar)
+centenares|hundreds
+cercana|nearby
+cercano|nearby, near
+cercanías|commuter trains; surrounding area
+cerraban|they closed, were sealed (cerrar)
+cerrados|closed
+cerrar|to close
+cerraron|they closed (cerrar)
+certeza|certainty (con certeza = for certain)
+cervantes|-
+cerámica|ceramics, pottery
+cid|-
+cientos|hundreds
+cifra|figure, number
+circo|circus (Roman chariot-racing track)
+cirilo|-
+citado|arranged to meet (citar)
+ciudadana|civic, of citizens
+ciudadano|citizen
+ciudadanos|citizens
+civil|civil
+civiles|civilians
+claras|clear
+claridad|clarity (con claridad = clearly)
+claustro|cloister
+coche|car
+cocodrilo|crocodile
+cogía|took, caught (coger)
+colegio|college, school
+colgado|hanging, hung
+colocado|placed, set up (colocar)
+colonos|settlers
+coloquial|colloquial, informal
+color|colour
+columna|column
+columnas|columns
+comemos|we eat (comer)
+comenzaron|they began (comenzar)
+comercial|commercial
+comerciante|merchant, trader
+comparar|to compare
+compasión|compassion
+compañero|companion, classmate
+compañía|company
+completamente|completely
+compraste|you bought (comprar)
+comprobado|proven, verified
+comprobamos|we check (comprobar)
+compró|bought (comprar)
+compte|-
+compuso|was composed (componer)
+compáralo|compare it (tú command)
+comunicada|connected (bien comunicada = with good transport links)
+comunicar|to connect; to communicate
+comunidad|community (Comunidad Valenciana = the Valencian region)
+conductor|driver
+confirma|confirms (confirmar)
+conflicto|conflict
+conflictos|conflicts, disputes
+confusas|confused, blurred
+conjunto|group of buildings, ensemble; whole
+conmigo|with me
+conoce|knows (conocer)
+conociste|you met (conocer)
+conocía|knew (conocer)
+conocían|they knew (conocer)
+conozcas|you know (subjunctive of conocer)
+conozco|I know (conocer)
+conquista|conquest
+conquistado|conquered
+conquistadores|conquerors
+conquistar|to conquer
+conquistaron|they conquered (conquistar)
+consecuencia|consequence
+consecuencias|consequences
+conseguir|to manage to, to achieve
+conserva|is preserved, keeps (conservar)
+conservaban|they kept (conservar)
+conservado|preserved (conservar)
+conservan|they keep, are preserved (conservar)
+conservar|to keep, preserve
+conservarla|to keep it
+conservaron|they kept (conservar)
+considerarse|to be considered
+consideró|considered (considerar)
+consistió|consisted (consistir en)
+construcción|construction, building
+construida|built
+construidas|built
+construido|built
+construidos|built
+construirlo|to build it
+construyeron|they built (construir)
+construyó|built (construir)
+construían|they built (construir)
+consulado|consulate (Consulado del Mar = maritime trade court)
+contaron|they told; were counted (contar)
+continuamente|constantly
+continuó|continued (continuar)
+continúa|continues (continuar)
+contra|against
+contradice|contradicts (contradecir)
+contraste|contrast
+contratación|trading (Sala de Contratación = trading hall)
+contratos|contracts
+contó|told (contar)
+convencido|convinced
+convenció|became convinced (convencerse)
+conversión|conversion
+convertido|turned into, converted
+convertidos|turned into, converted
+convertir|to convert, turn into
+convertirlos|to convert them
+convirtieron|they turned into, became (convertirse)
+convirtió|turned into, became (convertirse)
+copiaron|they copied (copiar)
+corona|crown
+coronado|crowned
+corre|runs (correr)
+corregir|to correct
+correos|the post office
+correr|to run, flow
+corresponsales|correspondents (journalists)
+corriendo|running (correr)
+corrieron|they ran (correr)
+corte|court (of a king)
+cortes|the Cortes, parliament
+costa|coast
+costar|to cost; to be hard
+creado|created (crear)
+crear|to create
+crecer|to grow
+crecido|grown (crecer)
+creciendo|growing (crecer)
+crecieron|they grew (crecer)
+creció|grew (crecer)
+crecía|was growing (crecer)
+crecían|they were growing (crecer)
+creen|they believe (creer)
+creyó|believed (creer)
+creían|they believed (creer)
+creó|created (crear)
+crida|the call that opens the Fallas (Valencian)
+crisis|crisis
+cristal|glass
+cristiana|Christian
+cristianas|Christian
+cristianismo|Christianity
+cristiano|Christian
+cristianos|Christians
+cristo|Christ (antes de Cristo = BC)
+cruce|crossing, crossroads
+cruzaban|they crossed (cruzarse)
+cruzado|crossed (cruzar)
+cruzados|crossed (cruzar)
+cruzamos|we cross (cruzar)
+cruzan|they cross (cruzar)
+cruzando|crossing (cruzar)
+cruzara|crossed, would cross (subjunctive of cruzar)
+cruzarla|to cross it
+cruzáis|you (plural) cross (cruzar)
+crío|kid, little boy
+críticos|critics
+cuaderno|notebook
+cuadros|paintings
+cuantos|cuantos más, mejor = the more, the merrier
+cuatrocientas|four hundred
+cubierta|covered
+cubiertos|covered
+cubrieron|they covered (cubrir)
+cubrir|to cover
+cubrió|covered (cubrir)
+cuentan|they tell (contar)
+cuento|I tell (contar)
+cuerdas|ropes
+cuidada|carefully finished, well cared for
+cuidadosamente|carefully
+cultivaba|was grown (cultivar)
+cultivar|to grow, cultivate
+cultivos|crops
+culto|educated, learned
+cultural|cultural
+cumplan|keep, fulfil (subjunctive of cumplir)
+cumpliendo|fulfilling (cumplir)
+cumplir|to fulfil, keep (a promise)
+cumplió|fulfilled (cumplir)
+cupiera|would fit (subjunctive of caber)
+curia|curia (Roman town council building)
+curiosa|curious, odd
+curiosamente|curiously, oddly enough
+curioso|curious, odd
+curvo|curved
+cuyas|whose
+cuánta|how much, how many
+cárcel|prison
+cólera|cholera
+cónsul|consul
+córdoba|-
+áfrica|Africa
+ángel|angel
+árabe|Arabic; Arab
+árbol|tree
+árboles|trees

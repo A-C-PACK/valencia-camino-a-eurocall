@@ -1,0 +1,88 @@
+{
+  "high_level_description": "A street of low two-storey houses in the Cabanyal fishing quarter of Valencia, each front covered in glazed tiles of a different colour, with wrought-iron balconies.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A long straight narrow street under a vivid blue sky, with the sea just visible at the far end.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          0,
+          900,
+          340
+        ],
+        "desc": "A house front covered in glossy green tiles with white floral borders, a wooden door and an iron balcony.",
+        "color_palette": [
+          "#3F7D4E",
+          "#FFFFFF",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          330,
+          900,
+          660
+        ],
+        "desc": "A house front covered in blue and white tiles in a geometric pattern, with a balcony of flowerpots.",
+        "color_palette": [
+          "#2E6F8E",
+          "#FFFFFF",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          200,
+          650,
+          900,
+          1000
+        ],
+        "desc": "A house front covered in ochre yellow tiles with a tiled panel of a small sailing boat above the door.",
+        "color_palette": [
+          "#E8A33D",
+          "#F6E7C8",
+          "#2E6F8E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          640,
+          380,
+          960,
+          560
+        ],
+        "desc": "A grey-haired man of about seventy in a short-sleeved shirt, standing in the street and gesturing proudly at the houses.",
+        "color_palette": [
+          "#F2C9A0",
+          "#F6E7C8",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}

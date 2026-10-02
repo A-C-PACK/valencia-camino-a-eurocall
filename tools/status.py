@@ -13,7 +13,9 @@ sys.path.insert(0, str(ROOT / "tools"))
 from local_config import get
 
 ART =["title", "aeropuerto", "hotel", "metro", "mercado", "horchateria", "catedral",
-       "farmacia", "playa", "ciencias", "congreso", "ruzafa", "tablao"]
+       "farmacia", "playa", "ciencias", "congreso", "ruzafa", "tablao",
+       "almoina", "valldigna", "serranos", "lonja", "patriarca", "quart", "norte", "refugio",
+       "turia", "cabanyal"]
 
 
 def bar(label, done, total, note=""):

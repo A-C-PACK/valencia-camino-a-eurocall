@@ -1,0 +1,99 @@
+{
+  "high_level_description": "The inside of a Spanish Civil War air-raid shelter: a long empty underground room with a low curved concrete ceiling and plain benches along both walls.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A bare concrete tunnel-like room receding into the distance, lit by a few dim bulbs, quiet and still, with blank walls.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          0,
+          0,
+          420,
+          1000
+        ],
+        "desc": "A low barrel-vaulted ceiling of pale grey concrete with a line of small hanging light bulbs glowing warmly.",
+        "color_palette": [
+          "#E9D3A1",
+          "#E8A33D",
+          "#5B3A29"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          480,
+          0,
+          900,
+          300
+        ],
+        "desc": "A long plain bench built along the left wall.",
+        "color_palette": [
+          "#5B3A29",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          480,
+          700,
+          900,
+          1000
+        ],
+        "desc": "A long plain bench built along the right wall.",
+        "color_palette": [
+          "#5B3A29",
+          "#E9D3A1"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          300,
+          400,
+          640,
+          600
+        ],
+        "desc": "A narrow doorway at the far end with a few steps leading up towards daylight.",
+        "color_palette": [
+          "#F6E7C8",
+          "#7FC4D6"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          640,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A bare worn concrete floor running the whole length of the room between the benches, completely empty.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29"
+        ]
+      }
+    ]
+  }
+}

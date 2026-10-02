@@ -1,0 +1,106 @@
+@part 2
+@id lonja
+@name La Lonja de la Seda
+@short La Lonja
+@era El Siglo de Oro valenciano · siglo XV
+@geo 39.47438 -0.37844 centre l
+@focus 0.30
+@route Plaza del Mercado, enfrente del Mercado Central.
+@blurb En el siglo XV Valencia fue una de las ciudades más ricas del Mediterráneo. Los comerciantes se construyeron un edificio tan hermoso como una catedral.
+@visit La Sala de Contratación, con sus columnas en espiral, el Patio de los Naranjos y el Consulado del Mar.
+
+== oro | El siglo de oro ==
+N: Cuarto día. Ya conoces esta plaza: aquí compraste fruta en el Mercado Central. Pero hoy cruzáis la calle y entráis por una puerta gótica a un patio lleno de naranjos.
+LUCIA: ¿Te acuerdas? Pasamos por aquí con el grupo, pero solo estuvimos cinco minutos. Hoy vamos a entrar con calma. Primero, el patio. ¿A qué huele?
+C: Los naranjos están en flor. ¿Qué respondes?
+  * {{Huele a|it smells of (oler a)}} flores… ¿Son los naranjos? || «Oler a» + lo que hueles: «huele a café», «huele a mar». La flor del naranjo se llama azahar.
+  ~ Huele muy bien. Creo que son las flores. || Correcto. Con «huele a…» puedes decir exactamente a qué.
+  - Huele de flores. || Con «oler», la preposición es «a»: «huele a flores».
+LUCIA*: Sí, es el azahar, la flor del naranjo. En abril toda la ciudad huele así. Siéntate en este banco y lee: para entender este edificio hay que saber cómo era Valencia cuando lo construyeron.
+H: El siglo de oro
+R: En el siglo XV, mientras otras ciudades de la Corona de Aragón sufrían guerras y crisis, Valencia vivió su mejor momento. En cien años {duplicó|doubled (duplicar)} su población, hasta llegar a unos ochenta mil habitantes: era una de las ciudades más grandes de la península y un gran puerto del Mediterráneo.
+R: {{La riqueza|wealth}} venía del campo y del comercio. La huerta producía arroz, azúcar, frutos secos y vino; en los talleres de la ciudad se fabricaban telas de lana y, cada vez más, de seda; y en la cercana Manises se hacía una cerámica dorada que compraban los papas y los reyes de media Europa. Los barcos salían cargados hacia Italia, Flandes y el norte de África, y volvían con especias, trigo y obras de arte. Comerciantes italianos, alemanes y franceses abrieron casas en la ciudad. Para mover tanto dinero, el gobierno municipal creó en 1407 un banco público, la Taula de Canvis, uno de los primeros de Europa.
+R: Con el dinero llegó la cultura. En 1474 se imprimió en Valencia un libro de poemas que suele considerarse la primera obra literaria impresa en España. En 1490 salió de una imprenta valenciana «Tirant lo Blanch», la novela de caballerías de Joanot Martorell que, un siglo después, Cervantes llamaría «el mejor libro del mundo». Escribían en valenciano poetas como Ausiàs March, y {{hacia|around (with dates); towards}} 1500 la ciudad fundó su propia universidad.
+R: Los valencianos de entonces llegaron también muy lejos. Dos papas de la familia Borja, a quienes en Italia llamaron Borgia, {procedían de|came from (proceder de)} este reino. Y un financiero valenciano de la corte, Luis de Santángel, prestó buena parte del dinero que hizo posible el primer viaje de Colón, en 1492.
+R: No todo fue brillante, {{desde luego|of course, certainly}}. En 1391 una multitud había asaltado el barrio judío y había matado u obligado a bautizarse a casi todos sus vecinos, y la peste volvía cada pocos años. Pero quienes gobernaban la ciudad se sentían en el centro del mundo, y quisieron un edificio que lo demostrara. En 1482 empezaron las obras de la nueva Lonja.
+Q: ¿De dónde venía la riqueza de Valencia en el siglo XV?
+  * Del campo y del comercio por mar. || La huerta, los talleres de seda, la cerámica de Manises y un puerto muy activo.
+  - Del oro que llegaba de América. || Colón no viajó hasta 1492; la riqueza es anterior.
+  - De los impuestos que pagaban Aragón y Cataluña. || Al contrario: esos territorios pasaban por una época de crisis.
+Q: ¿Qué era la Taula de Canvis?
+  * Un banco público de la ciudad. || «Taula» es «mesa»: la mesa donde se cambiaba dinero. Se creó en 1407.
+  - El mercado donde se vendía la seda. || Eso fue la Lonja.
+  - La primera imprenta de la ciudad. || La imprenta llegó en 1474.
+Q: ¿Qué dice el texto sobre «Tirant lo Blanch»?
+  * Que se imprimió en Valencia y que a Cervantes le parecía un libro extraordinario. || Lo dice un personaje del «Quijote», que salva el libro del fuego.
+  - Que lo escribió Cervantes en Valencia. || Lo escribió Joanot Martorell; Cervantes lo elogió un siglo después.
+  - Que fue el primer libro impreso en España. || El primero fue un libro de poemas, en 1474.
+Q: «Hacia 1500 la ciudad fundó su propia universidad». Aquí, «hacia» significa…
+  * aproximadamente en ese año. || Con fechas, «hacia» = alrededor de. Con lugares es dirección: «voy hacia la playa».
+  - en dirección a. || Ese es el otro significado, con lugares.
+  - antes de ese año. || No exactamente: es «más o menos en».
+Q: ¿Por qué menciona el texto el año 1391?
+  * Para recordar que aquella época también tuvo violencia y enfermedad. || «No todo fue brillante»: el asalto al barrio judío y la peste.
+  - Porque ese año empezaron las obras de la Lonja. || Las obras empezaron en 1482.
+  - Porque ese año se fundó la universidad. || La universidad es de hacia 1500.
+Q: ¿Verdadero o falso? «Los papas Borgia eran de origen valenciano.»
+  * Verdadero. || En valenciano, Borja. La familia era de Xàtiva y de sus alrededores.
+  - Falso. || El texto dice que «procedían de este reino»: eran valencianos.
+K: Lenguas de un reino || En el siglo XV, en la ciudad se hablaba y se escribía sobre todo en valenciano. Por eso muchos nombres de aquella época se conservan en esa lengua: la «Llotja», la «Taula de Canvis», «Tirant lo Blanch». Hoy la ciudad es bilingüe, y vas a ver los dos nombres: «Lonja» y «Llotja», «calle» y «carrer», «plaza» y «plaça».
+LUCIA: Ochenta mil habitantes y un banco propio. Y todavía no has visto la sala. Pero antes, dime una cosa…
+T: Lucía te pregunta qué te parece el patio. Dile que es un lugar muy tranquilo.
+  = Es un lugar muy tranquilo.
+  = Me parece un lugar muy tranquilo.
+  = Es muy tranquilo.
+  = Me parece muy tranquilo.
+  = Pues es un lugar muy tranquilo.
+  = Es un sitio muy tranquilo.
+  = Me parece un sitio muy tranquilo.
+  ! «{{Me parece|it seems to me, I find it}}» + adjetivo, o simplemente «es…».
+LUCIA: Es verdad. Aquí descansaban los comerciantes entre un negocio y otro. Vamos dentro.
+
+== sala | Una catedral para el comercio ==
+N: Entráis en una sala enorme. Ocho columnas suben girando como cuerdas hasta el techo y allí se abren en ramas de piedra. Los turistas hablan en voz baja, como en una iglesia.
+LUCIA: Casi todo el mundo hace lo mismo al entrar: mira hacia arriba y se calla. Lee el texto aquí dentro y levanta la vista de vez en cuando.
+H: Una catedral para el comercio
+R: {{A primera vista|at first sight}}, la gran sala de la Lonja parece una iglesia. Tiene tres naves, bóvedas de piedra a más de diecisiete metros de altura y una luz suave que entra por las ventanas góticas. Pero aquí nunca se dijo misa. Esta sala se construyó para comprar y vender, y es uno de los mejores ejemplos de arquitectura civil gótica de Europa.
+R: El arquitecto fue Pere Compte, el maestro más famoso de su tiempo, y terminó la sala en solo quince años, entre 1483 y 1498. Su gran idea está en las ocho columnas. No son rectas: giran sobre sí mismas, en espiral, y al llegar arriba se abren en nervios que cruzan el techo. El efecto es el de un bosque de palmeras. Algunos historiadores creen que el techo estuvo pintado de azul, con estrellas doradas, de modo que los comerciantes trabajaban, simbólicamente, en un jardín bajo el cielo.
+R: {{Alrededor de|around}} toda la sala, justo debajo del techo, corre una frase escrita en latín con letras doradas. Dice, más o menos, que esta casa se construyó en quince años, y pide a los comerciantes que no {engañen|deceive, cheat (subjunctive of engañar)} con sus palabras, que cumplan lo que prometen y que no presten dinero con {usura|usury (lending at excessive interest)}. Quien trabaje así, termina la frase, será rico y tendrá después la vida eterna. Era una manera de decir que {{el negocio|business; a deal}} y la moral podían ir juntos.
+R: En el suelo de esta sala se cerraban los tratos, {{sobre todo|above all, mainly}} de seda, pero también de aceite, de trigo o de lana. Los comerciantes se sentaban en mesas y los acuerdos se sellaban de palabra. Quien no pagaba sus deudas podía terminar en la pequeña cárcel de la torre, a la que se sube por una escalera de caracol sin columna central, otra demostración del talento de los canteros. Los problemas entre comerciantes y marineros se resolvían en la sala de al lado, el Consulado del Mar, un tribunal comercial de origen medieval.
+R: Por fuera, el edificio guarda una sorpresa. Entre los escudos y los santos de la fachada hay veintiocho gárgolas, y varias de ellas son monstruos, borrachos y figuras {bastante atrevidas|rather daring, risqué}. Nadie sabe con certeza si eran una broma de los canteros o una advertencia contra el pecado. La Lonja es Patrimonio de la Humanidad desde 1996.
+Q: ¿Por qué dice el texto que la sala «parece una iglesia»?
+  * Por sus naves, sus bóvedas altas y su luz. || Pero «aquí nunca se dijo misa»: es un edificio civil.
+  - Porque fue una iglesia antes de ser una lonja. || No: se construyó desde el principio para el comercio.
+  - Porque en ella se celebraban bodas de comerciantes. || El texto no dice nada de bodas.
+Q: ¿Qué tienen de especial las columnas?
+  * Giran en espiral y se abren arriba como palmeras. || «El efecto es el de un bosque de palmeras».
+  - Son de mármol traído de Italia. || No se habla del material.
+  - Son las más altas de Europa. || El texto no dice eso.
+Q: ¿Qué pide la frase en latín a los comerciantes?
+  * Que sean honrados en sus negocios. || No engañar, cumplir las promesas y no prestar con usura.
+  - Que paguen sus impuestos a la ciudad. || De impuestos no se habla.
+  - Que no hablen en voz alta dentro de la sala. || Eso lo hacen hoy los turistas, pero la frase habla de la honradez.
+Q: «Los acuerdos se sellaban de palabra» quiere decir que…
+  * bastaba con decirlo, sin firmar un papel. || Un acuerdo «de palabra» es un acuerdo oral. Por eso importaba tanto no engañar.
+  - se escribían en latín. || Al contrario: no se escribían.
+  - se anunciaban a gritos por la ciudad. || No: se cerraban entre dos personas, en la mesa.
+Q: ¿Qué podía pasarle a un comerciante que no pagaba sus deudas?
+  * Podía acabar en la cárcel de la torre. || La torre de la Lonja tenía una pequeña prisión.
+  - Tenía que barrer el Patio de los Naranjos. || El texto no dice eso.
+  - Perdía su casa y su barco. || No se menciona; sí la cárcel.
+Q: ¿Qué opina el texto sobre las gárgolas?
+  * Que no está claro por qué son así. || «Nadie sabe con certeza si eran una broma… o una advertencia».
+  - Que fueron un error del arquitecto. || No se dice que fueran un error.
+  - Que se añadieron en 1996. || 1996 es el año en que la Lonja fue declarada Patrimonio de la Humanidad.
+K: Pedir algo con «que» + subjuntivo || «Pide a los comerciantes que no engañen, que cumplan lo que prometen y que no presten dinero con usura». Después de verbos como «pedir», «querer» o «decir» (cuando es una orden), el segundo verbo va en subjuntivo: «te pido que vengas», «quiero que lo leas», «me dijo que esperara».
+LUCIA*: Fíjate en una cosa: la seda da nombre al edificio, pero aquí se vendía de todo. Y la seda no ha desaparecido. A cinco minutos está el Colegio del Arte Mayor de la Seda, que hoy es un museo, y todavía hay talleres que hacen las telas de los trajes de fallera.
+T: Quieres saber qué dice la frase del techo. Pídele a Lucía que te la traduzca.
+  = ¿Me la traduces, por favor?
+  = ¿Me la puedes traducir?
+  = ¿Me la puedes traducir, por favor?
+  = ¿Puedes traducírmela?
+  = ¿Me traduces la frase, por favor?
+  = ¿Me puedes traducir la frase?
+  = ¿Me la traduces?
+  ! Dos pronombres juntos: «me» (a mí) + «la» (la frase). «¿{{Me la traduces|will you translate it for me?}}?»
+LUCIA: «Inclita domus sum…»: «Soy una casa ilustre, construida en quince años». ¡Y sin una sola grúa! Mañana cambiamos de guía: te espera Jordi en la universidad antigua.

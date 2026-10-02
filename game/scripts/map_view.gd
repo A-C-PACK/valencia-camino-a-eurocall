@@ -10,6 +10,7 @@ signal view_changed(view: String)
 const PIN := 46.0
 
 var selected := 0
+var part := 1
 var view := "city"
 var _cfg: Dictionary = {}
 var _base: TextureRect
@@ -73,6 +74,10 @@ func place_view(index: int) -> String:
 	return str(Game.locations[index].get("view", "city"))
 
 
+func _shown(index: int) -> bool:
+	return Game.part_of(index) == part and place_view(index) == view
+
+
 ## Latitude/longitude -> pixels in the current view.
 func project(lat: float, lon: float, in_view := "") -> Vector2:
 	var v: Dictionary = _cfg.views[view if in_view == "" else in_view]
@@ -118,7 +123,7 @@ func _status_color(i: int) -> Color:
 func refresh() -> void:
 	for i in _pins.size():
 		var b: TextureButton = _pins[i]
-		b.visible = place_view(i) == view
+		b.visible = _shown(i)
 		b.position = _spot(i) - Vector2(PIN, PIN) / 2.0
 		b.modulate = Color(0.72, 0.72, 0.72, 0.9) if not Game.location_unlocked(i) else Color.WHITE
 	_overlay.queue_redraw()
@@ -131,7 +136,7 @@ func _draw_overlay() -> void:
 		var r: Array = _cfg.centre_on_city
 		var inside := 0
 		for i in Game.locations.size():
-			if place_view(i) == "centre":
+			if place_view(i) == "centre" and Game.part_of(i) == part:
 				inside += 1
 				var loc: Dictionary = Game.locations[i]
 				var p := project(float(loc.geo[0]), float(loc.geo[1]))
@@ -144,7 +149,7 @@ func _draw_overlay() -> void:
 		_overlay.draw_string(f, cat, caption, HORIZONTAL_ALIGNMENT_LEFT, -1, 13, Color.WHITE)
 
 	for i in Game.locations.size():
-		if place_view(i) != view:
+		if not _shown(i):
 			continue
 		var loc: Dictionary = Game.locations[i]
 		var p := _spot(i)
@@ -158,7 +163,7 @@ func _draw_overlay() -> void:
 		var badge := p + Vector2(-PIN / 2.0 + 3, -PIN / 2.0 + 3)
 		_overlay.draw_circle(badge, 11.0, Color.WHITE)
 		_overlay.draw_circle(badge, 9.5, col)
-		var num := str(i + 1)
+		var num := str(Game.number_in_part(i))
 		var nw := f.get_string_size(num, HORIZONTAL_ALIGNMENT_LEFT, -1, 12).x
 		_overlay.draw_string(f, badge + Vector2(-nw / 2.0, 4.5), num, HORIZONTAL_ALIGNMENT_LEFT,
 			-1, 12, Color.WHITE)

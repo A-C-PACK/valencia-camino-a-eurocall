@@ -3,6 +3,7 @@
 @short Tablao
 @zone El Carmen
 @geo 39.4783 -0.3795 centre l
+@focus 0.20
 @route Desde la catedral: unos siete minutos a pie, en el barrio del Carmen.
 @blurb El flamenco nació en Andalucía, no en Valencia, pero en el barrio del Carmen hay tablaos pequeños donde se escucha muy de cerca. Esta noche baila Lola.
 @goal Confirmar una reserva, entender unas normas y hablar de música y de lo que sientes.

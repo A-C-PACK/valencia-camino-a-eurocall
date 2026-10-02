@@ -1,0 +1,113 @@
+@part 2
+@id cabanyal
+@name El Cabanyal
+@short El Cabanyal
+@era El barrio del mar · de 1796 a hoy
+@geo 39.4695 -0.3295 city l
+@focus 0.66
+@route Junto a la playa, al norte del puerto. En tranvía o en metro hasta la zona de Marítim, o en taxi.
+@blurb Un antiguo pueblo de pescadores con casas cubiertas de azulejos. Estuvo a punto de ser partido en dos por una avenida, y sus vecinos lo impidieron.
+@visit Las casas de azulejos de las calles de la Reina, de la Barraca y de Escalante, el Mercado del Cabanyal y la Casa dels Bous.
+
+== pescadores | El pueblo del mar ==
+N: Último día de la ruta. Don Ramón te recoge temprano. Diez minutos después, el taxi deja atrás las avenidas y entra en unas calles estrechas, rectas y larguísimas, de casas bajas y de colores.
+RAMON: Ya estamos en mi barrio. Yo nací en esa calle de ahí, la de la Barraca, en una casa con azulejos verdes. Mi padre era pescador, y mi abuelo, ya lo sabe usted, cargaba naranjas. Aquí todos vivíamos del mar o del puerto.
+C: Quieres decirle que el barrio no se parece a nada de lo que has visto en Valencia. ¿Qué dices?
+  * Es precioso. {{No se parece en nada|it's nothing like, it doesn't resemble at all}} al centro. || «Parecerse a» = ser similar a. «No se parece en nada» = es completamente distinto.
+  ~ Es precioso. Es muy diferente del centro. || Correcto y claro.
+  - Es precioso. No parece nada al centro. || Falta el «se» y sobra poco más: «no se parece en nada al centro».
+RAMON*: Ni al centro ni a ningún sitio. Esto era otro pueblo, ¿sabe? Mi abuela decía «voy a Valencia» cuando cogía el tranvía. Tome, el último papel de Lucía. Yo aparco y damos una vuelta.
+H: El pueblo del mar
+R: Hasta finales del siglo XIX, el Cabanyal no era un barrio de Valencia, sino un pueblo {aparte|separate, apart}. Entre él y la ciudad había tres kilómetros de huerta. Sus habitantes eran {{pescadores|fishermen}} y vivían en barracas, las casas tradicionales de la zona, hechas de barro y cañas, con el tejado muy inclinado. Las barracas formaban filas paralelas a la playa, separadas por acequias que llevaban el agua de la huerta hasta el mar.
+R: Aquellas casas {ardían|burned (arder)} con facilidad. Tras varios incendios, el más grave en 1796, las autoridades obligaron a reconstruir con ladrillo y siguiendo líneas rectas. Así nació {{un trazado|a layout, street plan}} único: calles largas y estrechas, todas paralelas al mar, y casas con la anchura exacta que tenían las antiguas barracas. Durante buena parte del siglo XIX, el pueblo tuvo ayuntamiento propio y un nombre nuevo, Poble Nou de la Mar. En 1897 se unió a Valencia.
+R: La pesca se hacía de una manera que hoy {{cuesta|is hard (costar + infinitive)}} imaginar. Las barcas salían en parejas, arrastrando una red entre las dos, y al volver no entraban en un puerto: eran sacadas del agua hasta la arena por parejas de bueyes. Los animales vivían en un edificio que todavía existe, la Casa dels Bous. Joaquín Sorolla, que pintaba al aire libre en esta playa, convirtió aquellas escenas en algunos de sus cuadros más famosos, y Blasco Ibáñez contó la vida dura de los pescadores en su novela «Flor de Mayo».
+R: A la vez, la playa {{se puso de moda|became fashionable (ponerse de moda)}}. A finales de siglo, las familias de la ciudad empezaron a venir en tranvía a tomar baños de mar, y algunos pescadores que habían prosperado quisieron casas mejores. No tenían dinero para arquitectos, {{así que|so}} copiaron a su manera el modernismo que veían en el Ensanche. Cubrieron las fachadas de azulejos de colores, verdes, azules y amarillos, con flores, figuras geométricas y barcos, que además protegían la pared de la humedad y de la sal. Cada casa es distinta de la de al lado. A ese estilo se le suele llamar modernismo popular, y no hay otro barrio igual en España.
+Q: ¿Qué era el Cabanyal hasta finales del siglo XIX?
+  * Un pueblo de pescadores separado de Valencia. || Con tres kilómetros de huerta en medio. Se unió a la ciudad en 1897.
+  - Un barrio rico del centro. || Estaba lejos del centro y era un pueblo humilde.
+  - El puerto comercial de la ciudad. || El puerto es el Grao, al sur del Cabanyal.
+Q: ¿De dónde viene la forma de las calles?
+  * De las filas de barracas, paralelas a la playa. || Después de los incendios se reconstruyó en ladrillo, pero sobre las mismas líneas.
+  - De un plan del arquitecto de la Estación del Norte. || No interviene ningún arquitecto famoso.
+  - De la muralla de la ciudad. || La muralla estaba a tres kilómetros.
+Q: ¿Cómo volvían las barcas a tierra?
+  * Las sacaban del agua unos bueyes. || Por eso existe la Casa dels Bous: «bous» son bueyes en valenciano.
+  - Entraban en el puerto del Grao. || «No entraban en un puerto».
+  - Los pescadores las llevaban a hombros. || Eran demasiado pesadas: las arrastraban los bueyes.
+Q: «Una manera que hoy cuesta imaginar» significa que…
+  * hoy es difícil imaginarla. || «Costar» + infinitivo = ser difícil: «me cuesta entender a don Ramón cuando habla rápido».
+  - hoy sería muy cara. || Aquí «costar» no habla de dinero.
+  - hoy está prohibida. || No se dice eso: solo que nos resulta difícil imaginarla.
+Q: ¿Por qué cubrieron las casas de azulejos?
+  * Para tener casas bonitas sin arquitecto, y para proteger las paredes de la sal. || Belleza y utilidad a la vez: eso es el «modernismo popular».
+  - Porque lo ordenaron las autoridades después del incendio. || Las autoridades ordenaron el ladrillo y las líneas rectas, no los azulejos.
+  - Porque los azulejos eran más baratos que la pintura. || El texto no dice eso.
+Q: ¿Verdadero o falso? «Todas las casas del Cabanyal tienen el mismo diseño.»
+  * Falso. || «Cada casa es distinta de la de al lado»: cada familia eligió sus colores y sus dibujos.
+  - Verdadero. || Mira el final del texto: cada casa es distinta.
+K: «Así que», «por eso», «de modo que» || Tres maneras de introducir una consecuencia. «No tenían dinero para arquitectos, así que copiaron el modernismo a su manera». «Así que» es la más frecuente al hablar; «por eso» insiste en la causa; «de modo que», que viste en l'Almoina, es más propia de los textos escritos.
+RAMON: ¿Ve esa casa azul, la de los barcos? Esa era la de mi tía Amparín. Los azulejos son los mismos que cuando yo era un crío.
+T: Pregúntale a Ramón si todavía vive en el barrio.
+  = ¿Todavía vive en el barrio?
+  = ¿Todavía vive usted en el barrio?
+  = ¿Usted todavía vive en el barrio?
+  = ¿Sigue viviendo en el barrio?
+  = ¿Todavía vive aquí?
+  = ¿Sigue viviendo aquí?
+  = ¿Y todavía vive en el barrio?
+  ! De usted: «¿{{Todavía vive|do you (usted) still live}}…?». O con lo que aprendiste en la estación: «¿sigue viviendo…?»
+RAMON: Sí, señor. Me han ofrecido dinero por la casa más de una vez, y no la vendo. Y ahora le voy a contar por qué casi nos quedamos sin barrio.
+
+== salvem | La avenida que no llegó al mar ==
+N: Camináis hasta una calle más ancha. A un lado hay casas restauradas, con azulejos brillantes. Al otro, un solar vacío con una pared pintada: una barca, unas olas y dos palabras en valenciano.
+RAMON: «Salvem el Cabanyal». Esa pintura tiene más de veinte años. Mi mujer iba a todas las manifestaciones; yo, a las que podía, con el taxi lleno de pancartas. Lea, lea, que esto ya no es historia antigua. Esto lo he vivido yo.
+H: La avenida que no llegó al mar
+R: Valencia tiene una gran avenida que sale del centro hacia el este, entre árboles y facultades universitarias: la avenida de Blasco Ibáñez. Se pensó ya en el siglo XIX como un paseo que uniera la ciudad con el mar. Pero la avenida nunca llegó a la playa. {{Se detiene|stops, comes to a halt (detenerse)}} {de golpe|suddenly, abruptly} a menos de un kilómetro de la arena. Lo que hay en medio es el Cabanyal.
+R: A finales de los años noventa, el Ayuntamiento presentó un plan para terminarla. La avenida {atravesaría|would cross, cut through (atravesar)} el barrio de lado a lado, y para abrirle paso habría que derribar 1.651 viviendas. Según sus defensores, el proyecto modernizaría una zona envejecida y daría por fin a la ciudad una salida al mar. Según sus críticos, partiría en dos un conjunto histórico que desde 1993 estaba protegido precisamente por su trazado de calles.
+R: Los vecinos se organizaron en una plataforma, Salvem el Cabanyal, es decir, «salvemos el Cabanyal». Durante más de quince años hicieron de todo: manifestaciones, {{recursos|appeals (legal); resources}} ante los tribunales, huelgas de hambre y un festival anual en el que abrían sus casas para que los artistas expusieran dentro y los visitantes vieran el barrio con sus propios ojos.
+R: Fueron años muy duros. Mientras el plan estaba en los tribunales, el Ayuntamiento compró casas en la zona afectada y las fue derribando o dejando vacías. Los solares se llenaron de basura, muchos vecinos se marcharon y el barrio {se degradó|deteriorated, went downhill (degradarse)}. A finales de 2009, el Ministerio de Cultura ordenó detener el plan porque lo consideró un expolio, es decir, un daño grave {{al patrimonio|to the heritage}} histórico. El conflicto continuó hasta 2015, cuando, tras un cambio de gobierno municipal, el proyecto se abandonó.
+R: Desde entonces, el Cabanyal vive otra transformación. Se han rehabilitado casas, han abierto bares, talleres y galerías, y han llegado nuevos vecinos, muchos de ellos extranjeros. Los precios han subido deprisa, y ahora {{el riesgo|the risk}} es el contrario: que quienes resistieron no puedan pagar el alquiler en el barrio que salvaron. Es un problema que comparten hoy muchos barrios históricos de Europa. Pero las calles siguen ahí, paralelas al mar, con la anchura de una barraca.
+Q: ¿Por qué la avenida de Blasco Ibáñez no llega al mar?
+  * Porque entre su final y la playa está el Cabanyal. || «Lo que hay en medio es el Cabanyal».
+  - Porque se acabó el dinero en el siglo XIX. || El texto no habla de dinero.
+  - Porque el mar está a muchos kilómetros. || Está a menos de un kilómetro.
+Q: ¿Qué argumentos daban los defensores del plan?
+  * Que modernizaría la zona y abriría la ciudad al mar. || El texto presenta las dos posturas: «según sus defensores…», «según sus críticos…».
+  - Que protegería las casas de azulejos. || Al contrario: había que derribar 1.651 viviendas.
+  - Que daría trabajo a los pescadores. || No se menciona.
+Q: ¿Qué hicieron los vecinos durante el festival?
+  * Abrieron sus casas a artistas y visitantes. || Para que la gente viera el barrio «con sus propios ojos».
+  - Cerraron las calles al tráfico. || No se dice eso.
+  - Pintaron todas las fachadas de azul. || Las fachadas ya eran de colores.
+Q: ¿Qué pasó en el barrio mientras el plan estaba en los tribunales?
+  * Se degradó: casas derribadas o vacías y vecinos que se marchaban. || «Fueron años muy duros».
+  - Se rehabilitó por completo. || Eso empezó después de 2015.
+  - No cambió nada. || Cambió mucho, y a peor.
+Q: ¿Qué quiere decir «expolio» en este texto?
+  * Un daño grave al patrimonio histórico. || El texto lo explica con «es decir». Cuando no conozcas una palabra, busca si la frase siguiente la aclara.
+  - Una exposición de arte. || Se parece a «exposición», pero no tiene nada que ver.
+  - Un plan de modernización. || Es justo la palabra que usaron contra el plan.
+Q: ¿Cuál es hoy el riesgo para los vecinos, según el texto?
+  * Que los precios suban tanto que no puedan seguir viviendo allí. || «El riesgo es el contrario»: antes era el derribo; ahora, el precio.
+  - Que el Ayuntamiento retome el plan de la avenida. || El texto dice que el proyecto se abandonó.
+  - Que el mar inunde el barrio. || No se habla de eso.
+K: Dos opiniones en un texto || «Según sus defensores, el proyecto modernizaría una zona envejecida… Según sus críticos, partiría en dos un conjunto histórico». Con «según» + el condicional, el texto cuenta lo que cada parte decía que iba a pasar, sin afirmarlo. Es la misma técnica que viste con los moriscos: «se decía que…». Así se escribe sobre un conflicto cuando se quiere ser justo con los dos lados.
+RAMON*: Yo no soy de pancartas, ¿eh? Yo soy de taxi. Pero cuando vinieron las máquinas a la calle de mi madre, fui. Y mire: la casa sigue ahí.
+O: Has terminado la ruta. Ordena los diez lugares por la época que cuentan, de la más antigua a la más reciente.
+  = L'Almoina: la Valentia romana.
+  = El Portal de la Valldigna: Balansiya.
+  = Las Torres de Serranos: Jaume I y el nuevo reino.
+  = La Lonja: el siglo de oro.
+  = El Colegio del Patriarca: los moriscos.
+  = Las Torres de Quart: los cañones de Napoleón.
+  ! Y después, la Estación del Norte, el refugio, el Jardín del Turia y este barrio. Dos mil años en diez paseos.
+T: Don Ramón te pregunta si vas a volver a Valencia. Dile que volverás pronto.
+  = Volveré pronto.
+  = Sí, volveré pronto.
+  = Claro que volveré pronto.
+  = Volveré muy pronto.
+  = Sí, volveré.
+  = Volveré.
+  = Sí, voy a volver pronto.
+  ! Futuro de «volver»: «{{Volveré|I'll come back, I will return}}».
+RAMON: Eso espero. Y cuando vuelva, ya no hace falta que le explique nada: ahora la ciudad la conoce usted mejor que muchos de aquí. Venga, le invito a una horchata en el mercado. ¡Y hábleme de tú, hombre, que ya somos amigos!

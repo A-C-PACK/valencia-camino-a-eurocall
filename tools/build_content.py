@@ -8,6 +8,8 @@ Script format, one file per location:
 
     @id mercado            @name Mercado Central      @zone Ciutat Vella
     @geo 39.4735 -0.3789 centre l     (lat lon, which map view, label side)
+    @focus 0.30            (the map card shows a strip of the illustration centred this far
+                            down it, 0 = top, 1 = bottom: put it on the faces)
     @blurb ...             @goal ...                  @route how you get there
     == frutas | En el puesto de fruta ==
     N: narration (not voiced)
@@ -23,6 +25,15 @@ Script format, one file per location:
       ! hint
     K: Title || body of a culture note
     M: solea               (a compás demo)
+
+Part 2 (the history readings) adds, in files numbered 21 and up:
+
+    @part 2                @era Siglo XV              @visit what is there to see today
+    H: title of a reading passage
+    R: one paragraph of it (not voiced; consecutive H/R lines are shown together)
+    O: put these in order
+      = first item        = second item ...          (written in the right order)
+      ! feedback shown once it is solved
 
 Inline: {surface|gloss} glosses a chunk; {{surface|gloss}} also files it in the cuaderno.
 Every other word is glossed from content/lexicon/*.txt, one "word|gloss" per line
@@ -46,6 +57,7 @@ WORD = re.compile(rf"[{LETTERS}]+(?:[-'][{LETTERS}]+)*")
 SPEAKER = re.compile(r"^([A-ZÑ_]+)(\*?):\s*(.*)$")
 SCENE = re.compile(r"^==\s*(\w+)\s*\|\s*(.+?)\s*==$")
 OPTION = re.compile(r"^\s+([*~\-=!])\s+(.*)$")
+SENTENCE_END = re.compile(r"[.?!…»]+\s+(?=[A-ZÁÉÍÓÚÑ¿¡«])")
 
 PLAIN, WORD_K, CHUNK, KEY = 0, 1, 2, 3
 
@@ -93,15 +105,28 @@ class Builder:
         if pos < len(text):
             segs.append([text[pos:], "", PLAIN])
 
-    def segs(self, text, audio=None):
+    def sentence(self, plain, surface):
+        """The sentence of a long paragraph that holds this phrase: its flashcard context."""
+        at = plain.find(surface)
+        start, end = 0, len(plain)
+        for m in SENTENCE_END.finditer(plain):
+            if m.end() <= at:
+                start = m.end()
+            elif m.start() >= at + len(surface):
+                end = m.start() + len(m.group(0).rstrip())
+                break
+        return plain[start:end].strip()
+
+    def segs(self, text, audio=None, by_sentence=False):
         """Split a marked-up line into [text, gloss, kind(, phrase id)] pieces."""
         text = text.strip()
-        out, pos, ctx = [], 0, self.plain(text)
+        out, pos, whole = [], 0, self.plain(text)
         for m in MARK.finditer(text):
             self.words(text[pos:m.start()], out)
             if m.group(1):
                 surface, gloss = m.group(1), m.group(2)
                 pid = sha(surface.lower() + "|" + gloss, 10)
+                ctx = self.sentence(whole, surface) if by_sentence else whole
                 self.phrases.setdefault(pid, {"es": surface, "en": gloss, "ctx": ctx,
                                               "audio": audio or "", "loc": self.loc_id})
                 if audio and not self.phrases[pid]["audio"]:
@@ -125,7 +150,7 @@ class Builder:
         return text.strip(), fb.strip()
 
     def parse(self, path):
-        loc = {"scenes": []}
+        loc = {"part": 1, "scenes": []}
         scene = step = None
         self.loc_id = path.stem
         for n, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
@@ -140,8 +165,12 @@ class Builder:
                     loc["geo"] = [float(bits[0]), float(bits[1])]
                     loc["view"] = bits[2]
                     loc["side"] = bits[3] if len(bits) > 3 else "r"
-                elif key in ("blurb", "goal", "route"):
+                elif key in ("blurb", "goal", "route", "visit"):
                     loc[key] = self.segs(val)
+                elif key == "part":
+                    loc[key] = int(val)
+                elif key == "focus":       # how far down the illustration the map card's strip is cut
+                    loc[key] = float(val)
                 else:
                     loc[key] = val
                     if key == "id":
@@ -183,6 +212,13 @@ class Builder:
             return {"t": "note", "title": title, "segs": self.segs(text)}
         if who == "M":
             return {"t": "compas", "palo": body.strip()}
+        if who == "H":
+            return {"t": "head", "title": body.strip()}
+        if who == "R":
+            return {"t": "read", "segs": self.segs(body, by_sentence=True),
+                    "words": len(WORD.findall(self.plain(body)))}
+        if who == "O":
+            return {"t": "order", "segs": self.segs(body), "items": [], "fb": []}
         aid = self.say(who, body)
         return {"t": "line", "who": who, "segs": self.segs(body, aid),
                 "text": self.plain(body), "audio": aid, "hidden": hidden}
@@ -208,6 +244,10 @@ class Builder:
             step["answers"].append(self.plain(body))
         elif kind == "type" and mark == "!":
             step["hint"] = self.segs(body)
+        elif kind == "order" and mark == "=":
+            step["items"].append(self.segs(body))
+        elif kind == "order" and mark == "!":
+            step["fb"] = self.segs(body)
         else:
             sys.exit(f"{self.where}: '{mark}' does not belong under a {kind} step")
 
@@ -221,6 +261,8 @@ class Builder:
                     sys.exit(f"{tag}: a C needs a * reply")
                 if s["t"] == "type" and not s["answers"]:
                     sys.exit(f"{tag}: a T needs at least one = answer")
+                if s["t"] == "order" and len(s["items"]) < 3:
+                    sys.exit(f"{tag}: an O needs at least three = items")
 
 
 def main():
@@ -252,6 +294,11 @@ def main():
     scenes = sum(len(l["scenes"]) for l in locations)
     print(f"{len(locations)} locations, {scenes} scenes, {len(b.voice)} voiced lines, "
           f"{len(b.phrases)} key phrases")
+    for loc in locations:
+        for scene in loc["scenes"]:
+            n = sum(s["words"] for s in scene["steps"] if s["t"] == "read")
+            if n:
+                print(f"  reading {loc['id']}/{scene['id']}: {n} words")
     if b.missing:
         print(f"{len(b.missing)} words have no gloss (run with --missing to list), e.g. "
               + ", ".join(sorted(b.missing)[:12]))

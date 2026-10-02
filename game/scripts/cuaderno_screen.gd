@@ -39,7 +39,7 @@ func _ready() -> void:
 	top.add_child(back)
 	top.add_child(UI.label("Mi cuaderno", 32, UI.INK, "serif"))
 	top.add_child(UI.spacer(0, 0, true))
-	var sheets := UI.button("Hojas de frases de todos los lugares", "small", UI.TEAL)
+	var sheets := UI.button("Hojas y lecturas de todos los lugares", "small", UI.TEAL)
 	sheets.size_flags_vertical = Control.SIZE_SHRINK_CENTER
 	sheets.pressed.connect(func():
 		var msg := Game.open_html(Sheet.html(range(Game.locations.size())), "hojas-de-frases.html")

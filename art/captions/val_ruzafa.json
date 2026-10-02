@@ -1,5 +1,5 @@
 {
-  "high_level_description": "A cosy little wine bar in the Ruzafa neighbourhood of Valencia in the evening, with the owner pouring a glass of red wine at the bar.",
+  "high_level_description": "A painted travel-poster scene inside a cosy little wine bar in Valencia in the evening, seen at eye level from beside the bar: the owner stands behind the bar pouring red wine for a woman customer who sits on a tall bar stool, the two adult women the same size with their heads at the same height, realistic proportions.",
   "style_description": {
     "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
     "lighting": "Bright Mediterranean light with soft warm shadows.",
@@ -21,17 +21,17 @@
     ]
   },
   "compositional_deconstruction": {
-    "background": "A warm narrow bar with exposed brick, shelves of wine bottles without readable labels, hanging filament bulbs and a street door open to the blue dusk.",
+    "background": "A warm narrow bar with an exposed brick wall, shelves of dark wine bottles without readable labels, a few hanging filament bulbs and a street door open onto a quiet blue dusk street of plain shuttered house fronts and one glowing street lamp.",
     "elements": [
       {
         "type": "obj",
         "bbox": [
-          240,
-          300,
-          660,
-          640
+          170,
+          60,
+          640,
+          460
         ],
-        "desc": "A woman in her mid thirties with dark hair tied back and a dark apron, pouring red wine into a glass and smiling wryly.",
+        "desc": "A woman in her mid thirties with dark hair tied back, a white shirt and a dark apron, standing behind the bar, pouring red wine from a bottle into a glass and smiling wryly.",
         "color_palette": [
           "#F2C9A0",
           "#1F3A4D",
@@ -41,12 +41,27 @@
       {
         "type": "obj",
         "bbox": [
+          180,
+          540,
+          960,
+          940
+        ],
+        "desc": "A blonde woman in her mid thirties in a light blue blouse, seen in three-quarter view, sitting upright on a tall wooden bar stool with her elbow resting on the bar top and a small notebook beside her, laughing.",
+        "color_palette": [
+          "#E9D3A1",
+          "#7FC4D6",
+          "#F2C9A0"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
           600,
           0,
-          860,
+          720,
           1000
         ],
-        "desc": "A wooden bar top with small plates of tapas: olives, cheese, bread with tomato, and two wine glasses.",
+        "desc": "A long polished wooden bar top at elbow height with small plates of olives, cheese and bread with tomato, and two wine glasses.",
         "color_palette": [
           "#5B3A29",
           "#3F7D4E",
@@ -58,7 +73,7 @@
         "bbox": [
           0,
           0,
-          380,
+          220,
           1000
         ],
         "desc": "Shelves of dark wine bottles and warm hanging bulbs.",
@@ -71,16 +86,15 @@
       {
         "type": "obj",
         "bbox": [
-          640,
-          660,
-          960,
-          960
+          720,
+          0,
+          1000,
+          560
         ],
-        "desc": "A blonde woman customer on a bar stool laughing, holding a notebook.",
+        "desc": "The dark wood panelled front of the bar.",
         "color_palette": [
-          "#E9D3A1",
-          "#7FC4D6",
-          "#F2C9A0"
+          "#5B3A29",
+          "#D9622B"
         ]
       }
     ]

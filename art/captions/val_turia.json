@@ -1,0 +1,88 @@
+{
+  "high_level_description": "The Turia Garden in Valencia: a long sunken green park of lawns, pines and palms, crossed by an old stone bridge whose arches stand on dry grass, with a cyclist and a runner on a path that passes under the bridge.",
+  "style_description": {
+    "aesthetics": "Warm, inviting vintage travel-poster illustration of Valencia, Spain; simple confident shapes, gentle grain, uncluttered composition, no lettering, no signs with words, no captions, no user interface.",
+    "lighting": "Bright Mediterranean light with soft warm shadows.",
+    "medium": "Gouache painting.",
+    "art_style": "Mid-century gouache travel poster with flat layered shapes, visible brush texture and a limited warm palette.",
+    "color_palette": [
+      "#F6E7C8",
+      "#E8A33D",
+      "#D9622B",
+      "#B8402A",
+      "#2E6F8E",
+      "#7FC4D6",
+      "#3F7D4E",
+      "#F2C9A0",
+      "#5B3A29",
+      "#FFFFFF",
+      "#1F3A4D",
+      "#E9D3A1"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A bright sky over a dry sunken park of lawns and trees between two low stone walls, with city rooftops beyond.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          240,
+          0,
+          600,
+          1000
+        ],
+        "desc": "A long old stone bridge with a row of round arches spanning the whole picture, pale honey stone, its piers standing on green grass.",
+        "color_palette": [
+          "#E9D3A1",
+          "#5B3A29",
+          "#3F7D4E"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          420,
+          0,
+          760,
+          1000
+        ],
+        "desc": "Green lawn, umbrella pines, palms and orange trees growing under and around the arches, with a pale gravel footpath passing through one arch.",
+        "color_palette": [
+          "#3F7D4E",
+          "#E8A33D",
+          "#F6E7C8"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          720,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "A curving path of pale gravel beside a green lawn with flower beds.",
+        "color_palette": [
+          "#F6E7C8",
+          "#3F7D4E",
+          "#B8402A"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          700,
+          520,
+          960,
+          800
+        ],
+        "desc": "A cyclist and a runner on the path.",
+        "color_palette": [
+          "#D9622B",
+          "#2E6F8E",
+          "#F2C9A0"
+        ]
+      }
+    ]
+  }
+}

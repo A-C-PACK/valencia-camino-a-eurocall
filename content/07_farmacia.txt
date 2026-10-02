@@ -2,6 +2,7 @@
 @name Farmacia
 @zone L'Eixample
 @geo 39.4682 -0.3700 centre r
+@focus 0.23
 @route Desde el hotel: unos diez minutos a pie, hacia el Ensanche.
 @blurb Después del vuelo y del aire acondicionado, no te encuentras muy bien. En España, para casi todo, primero se va a la farmacia: busca la cruz verde.
 @goal Explicar qué te pasa, entender cómo tomar un medicamento y pedir productos básicos.

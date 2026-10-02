@@ -4,7 +4,8 @@
 //   python -m http.server 8765 --bind 127.0.0.1   (in web/)
 //   node tools/web_test.mjs <output folder>
 //
-// Each step is "wait N seconds, optionally click at x,y, screenshot as name".
+// Each step is "optionally click at x,y or drag from one point to another,
+// wait N seconds, screenshot as name".
 
 import { spawn } from "node:child_process";
 import { writeFileSync, mkdtempSync } from "node:fs";
@@ -17,9 +18,12 @@ const CHROME = "C:/Program Files/Google/Chrome/Application/chrome.exe";
 const PORT = 9333;
 const steps = [
   { wait: 25, name: "web_title" },
-  { click: [694, 617], wait: 5, name: "web_map" },          // Empezar el viaje
-  { click: [1193, 455], wait: 5, name: "web_scene" },       // Entrar (first scene)
+  { click: [1155, 523], wait: 5, name: "web_map" },         // part 2: Empezar a leer
+  { click: [1237, 511], wait: 5, name: "web_scene" },       // Leer (first reading)
   { click: [1163, 668], wait: 4, name: "web_scene2" },      // Continuar
+  { click: [38, 323], wait: 2, name: "web_zoom" },          // the + zoom button
+  { drag: [[900, 400], [500, 250]], wait: 2, name: "web_zoom_drag" },   // mouse drag moves the view
+  { click: [38, 398], wait: 2, name: "web_zoom_out" },      // and back out with -
 ];
 
 const profile = mkdtempSync(join(tmpdir(), "valencia-webtest-"));
@@ -70,6 +74,17 @@ for (const s of steps) {
     const [x, y] = s.click;
     for (const type of ["mouseMoved", "mousePressed", "mouseReleased"])
       await send("Input.dispatchMouseEvent", { type, x, y, button: type === "mouseMoved" ? "none" : "left", clickCount: 1 });
+  }
+  if (s.drag) {
+    const [[x0, y0], [x1, y1]] = s.drag;
+    await send("Input.dispatchMouseEvent", { type: "mouseMoved", x: x0, y: y0, button: "none" });
+    await send("Input.dispatchMouseEvent", { type: "mousePressed", x: x0, y: y0, button: "left", buttons: 1, clickCount: 1 });
+    for (let n = 1; n <= 10; n++) {
+      await send("Input.dispatchMouseEvent", { type: "mouseMoved", x: x0 + (x1 - x0) * n / 10,
+        y: y0 + (y1 - y0) * n / 10, button: "left", buttons: 1 });
+      await sleep(0.04);
+    }
+    await send("Input.dispatchMouseEvent", { type: "mouseReleased", x: x1, y: y1, button: "left", clickCount: 1 });
   }
   await sleep(s.wait);
   const shot = await send("Page.captureScreenshot", { format: "png" });
