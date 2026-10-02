@@ -41,6 +41,9 @@ brotli). Upload the whole folder to any static host over HTTPS and link to its
     python -m http.server 8765
 
 then open http://127.0.0.1:8765/. Progress is saved in the visitor's browser.
+
+`python -X utf8 tools/web_deploy.py` publishes `web/` to GitHub Pages (the `gh-pages`
+branch): https://a-c-pack.github.io/valencia-camino-a-eurocall/
 `node tools/web_test.mjs <folder>` loads the build in headless Chrome, clicks into a
 scene and saves screenshots.
 
@@ -59,6 +62,8 @@ tools/qa_audio.py        transcribe the recordings on the Spark and flag suspect
 tools/status.py          progress bars for voices, audio check and illustrations
 tools/encode_audio.py     WAV masters (audio_src/) -> the Ogg files the game ships
 tools/web_build.py       export the web version into web/
+tools/web_deploy.py      push web/ to the gh-pages branch (GitHub Pages)
+tools/local_config.py    machine-specific paths and hosts, read from tools/local.json (not in git)
 tools/check.sh           load the project headless, print script errors
 tools/shot.sh            save a screenshot of any screen (debug save, not your progress)
 game/                    the Godot 4.7 project
